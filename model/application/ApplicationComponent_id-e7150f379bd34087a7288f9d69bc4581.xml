@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controlador funcional"
+    id="id-e7150f379bd34087a7288f9d69bc4581">
+  <properties
+      key="plataforma"
+      value="js"/>
+</archimate:ApplicationComponent>

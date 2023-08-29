@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controlador frontal web"
+    id="id-363d8fbbe87b4eb08ed21c655a229348">
+  <properties
+      key="plataforma"
+      value="js"/>
+</archimate:ApplicationComponent>

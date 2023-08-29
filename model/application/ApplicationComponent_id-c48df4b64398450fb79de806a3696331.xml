@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Controlador frontal mvl"
+    id="id-c48df4b64398450fb79de806a3696331">
+  <properties
+      key="plataforma"
+      value="js"/>
+</archimate:ApplicationComponent>
