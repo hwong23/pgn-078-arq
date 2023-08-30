@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Migracion.1.SIU componente"
+    name="Migracion.1.SIU modulos"
     id="id-6dcada718c1446f69884dc7418828c51"
     documentation="Distribución de los servicios y paquetes que integran la aplicación de SUI. &#xA;&#xA;Cuantro paquetes con tecnologías respectivas&#xA;1. Angular 11 (Web)&#xA;1. API Transaccional (Node Js)&#xA;1. API Config (C#)&#xA;1. Persistencia (SQL)&#xA;&#xA;">
   <children
