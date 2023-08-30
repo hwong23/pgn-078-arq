@@ -1,6 +1,6 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Interfaz de aplicación (ent:runtime)"
+    name="Interfaz de aplicación (runtime)"
     id="id-3785708a234346538dbd8ca5d336dcd7">
   <properties
       key="plataforma"

@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Service"
+    name="Application Service (NLB)"
     id="id-5ffd2095e7344bb5b9023edd9e3d7aa4">
   <properties
       key="plataforma"
