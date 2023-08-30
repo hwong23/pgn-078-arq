@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Linebase.2.Portal"
-    id="id-64947c69f63c422e9f18c81763910332">
+    id="id-64947c69f63c422e9f18c81763910332"
+    documentation="El portal es el conjunto de los elementos físicos y lógicos necesarios para la implementación de la granja de servidores de SharePoint Server 2019 para el portal de la PROCURADURIA.&#xA;&#xA;* Servidores Web Front End&#xA;* Servidores de Aplicaciones&#xA;* Servidores de SQL Server&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-841f02c9a4ea477482bf865addd97d71"
