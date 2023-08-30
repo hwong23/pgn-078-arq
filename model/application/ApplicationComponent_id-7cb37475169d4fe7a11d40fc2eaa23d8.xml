@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="App"
-    id="id-7cb37475169d4fe7a11d40fc2eaa23d8"/>
+    id="id-7cb37475169d4fe7a11d40fc2eaa23d8">
+  <properties
+      key="plataforma"
+      value="node Js"/>
+</archimate:ApplicationComponent>

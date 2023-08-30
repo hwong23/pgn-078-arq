@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="App PGN Web"
-    id="id-bf045c97cf694ad1afcb5837500cb117"/>
+    id="id-bf045c97cf694ad1afcb5837500cb117">
+  <properties
+      key="plataforma"
+      value="angular 11"/>
+</archimate:ApplicationComponent>
