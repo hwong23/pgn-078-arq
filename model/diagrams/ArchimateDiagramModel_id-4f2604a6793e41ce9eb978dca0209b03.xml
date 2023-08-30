@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lineabase.1.SIU componente"
     id="id-4f2604a6793e41ce9eb978dca0209b03"
-    documentation="Distribución de los servicios y paquetes que integran la aplicación de SUI. &#xA;&#xA;Cuatro paquetes con tecnologías respectivas&#xA;1. Angular 11 (Web)&#xA;1. API Transaccional (Node Js)&#xA;1. API Config (C#)&#xA;1. Persistencia (SQL)&#xA;&#xA;">
+    documentation="Distribución de los servicios y paquetes que integran la aplicación de SUI. &#xA;&#xA;Cuatro paquetes con tecnologías respectivas&#xA;1. Angular 11 (Web)&#xA;1. API Transaccional (Node Js)&#xA;1. API Config (C#)&#xA;1. Persistencia (SQL)&#xA;&#xA;Asuntos de la Migración:&#xA;* Estrategia CMS central&#xA;* Motor de búsqueda&#xA;* Estatego como BI&#xA;* Conciliación y Doku&#xA;* Gestión de sesiones / caducidad&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-48337eee984b496d8c5699e04370a3b9"
@@ -730,9 +730,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4bfc922f7c894976a7c8159cd5a114f2">
     <bounds
-        x="1121"
-        y="214"
-        width="120"
+        x="780"
+        y="586"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -742,9 +742,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-af9b4760fcf34476ac6ab6b68dd626c8">
     <bounds
-        x="1121"
-        y="132"
-        width="120"
+        x="780"
+        y="504"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -754,9 +754,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1813cd4b61b14758bc258aa6c4a002ae">
     <bounds
-        x="1121"
-        y="372"
-        width="120"
+        x="780"
+        y="744"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -766,9 +766,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0a571479290e4c7e9c0ca49d6e91d8b5">
     <bounds
-        x="1121"
-        y="288"
-        width="120"
+        x="780"
+        y="660"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -778,9 +778,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d3c96c0aacf74e309e60f091a3097bf1">
     <bounds
-        x="1121"
-        y="456"
-        width="120"
+        x="780"
+        y="828"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
@@ -790,9 +790,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4ee28ed9f2fc4df5a8026382fec5ede2">
     <bounds
-        x="1121"
-        y="540"
-        width="120"
+        x="780"
+        y="905"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationService"
