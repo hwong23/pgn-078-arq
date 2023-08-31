@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Estrategia CMS central"
+    id="id-c462161b43914252aed5768fd1ba3a2f"
+    documentation="Establecer desde el principio el gestor de contenidos compartido que los módulos del SUI migrados van a usar."/>
