@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Riesgos.1"
+    name="Riesgos.1. Migración funcional"
     id="id-d58fdcecc4f542a39dce288e81a395ae"
     documentation="Riesgos de la migración funcional:&#xA;&#xA;* RSG1. Estrategia CMS central&#xA;* RSG2. Motor de búsqueda&#xA;* RSG3. Estatego como BI&#xA;* RSG4. Conciliación y Doku&#xA;* RSG5. Gestión de sesiones / caducidad&#xA;">
   <children
