@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Punto acceso público"
-    id="id-567657fe0911476fb0266f4efa71295b"/>
+    id="id-567657fe0911476fb0266f4efa71295b"
+    documentation="URL tipo C&#xA;HTTP"/>

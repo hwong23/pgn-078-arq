@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servidor Web Canales"
-    id="id-5f840ee17e7f4a1cabb234614b062aa7"/>
+    id="id-5f840ee17e7f4a1cabb234614b062aa7"
+    documentation="Nombre físico&#xA;IP LAN&#xA;IP Pública&#xA;"/>
