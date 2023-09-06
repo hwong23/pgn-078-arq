@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Funcionalidades de búsqueda"
-    id="id-c21c299f1743475cb6ebbf9837010a8e"/>
+    id="id-c21c299f1743475cb6ebbf9837010a8e">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>

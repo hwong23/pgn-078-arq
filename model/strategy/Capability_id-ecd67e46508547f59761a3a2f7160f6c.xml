@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Proceso de sincronización de contenidos"
-    id="id-ecd67e46508547f59761a3a2f7160f6c"/>
+    id="id-ecd67e46508547f59761a3a2f7160f6c">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>

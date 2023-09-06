@@ -2,6 +2,9 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-7e4524eaf683425a84c9da588d3f34a0">
+  <properties
+      key="modulo"
+      value="relatoria"/>
   <source
       xsi:type="archimate:Capability"
       href="Capability_id-ceaca2b0ace544068520cdeedcb0d324.xml#id-ceaca2b0ace544068520cdeedcb0d324"/>

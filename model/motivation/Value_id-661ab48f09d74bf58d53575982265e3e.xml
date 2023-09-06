@@ -1,4 +1,8 @@
 <archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Adopción, v1.2"
-    id="id-661ab48f09d74bf58d53575982265e3e"/>
+    id="id-661ab48f09d74bf58d53575982265e3e">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Value>

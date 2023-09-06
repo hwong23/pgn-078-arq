@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Administración de contenidos"
-    id="id-2cf86dd00aad4d7ea7c69fb4c86b26e0"/>
+    id="id-2cf86dd00aad4d7ea7c69fb4c86b26e0">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>

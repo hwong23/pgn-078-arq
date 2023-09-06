@@ -1,4 +1,8 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Integración con CMS PGN"
-    id="id-ceaca2b0ace544068520cdeedcb0d324"/>
+    name="Integración API CMS"
+    id="id-ceaca2b0ace544068520cdeedcb0d324">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>

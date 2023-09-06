@@ -608,6 +608,9 @@
         y="12"
         width="325"
         height="168"/>
+    <properties
+        key="modulo"
+        value="relatoria"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

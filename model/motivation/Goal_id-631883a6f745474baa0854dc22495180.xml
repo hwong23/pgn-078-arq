@@ -1,4 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Búsqueda"
-    id="id-631883a6f745474baa0854dc22495180"/>
+    id="id-631883a6f745474baa0854dc22495180">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Goal>
