@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Organización. 1n.1. Mapa producto PGN. Relatoría"
     id="id-2dff7e836da042a9a55c3c635828070e"
-    documentation="Organización y distribución de las características técnicas y funcionales del módulo de Relatoría. &#xA;&#xA;Características principales:&#xA;* Utilización de metadatos&#xA;* Búsqueda de contenido (intradocumental y por metadatos)&#xA;* Procesos de recolección y sincronización de contenidos&#xA;&#xA;De arriba a abajo: &#xA;1. Arriba, &#xA;&#x9;1. At the top, we see the planned iterations and their planned completion dates. &#xA;&#x9;2. Below that, important milestones are shown. &#xA;&#x9;3. Características. The middle part depicts the evolution plan for the three primary hardware aspects (the mechanical frame, motor electronics, and digital electronics). &#xA;&#x9;4. Finally, the bottom part shows the high-level system capabilities (épicas) as epics over time, using color coding to indicate priority&#xA;&#xA;&#xA;">
+    documentation="Organización y distribución de las características técnicas y funcionales del módulo de Relatoría. &#xA;&#xA;Características principales:&#xA;* Utilización de metadatos&#xA;* Búsqueda de contenido (intradocumental y por metadatos)&#xA;* Procesos de recolección y sincronización de contenidos&#xA;&#xA;De arriba a abajo: &#xA;1. Fila 1, planificación de espacios de trabajo (iteraciones, para este caso) restringido al alcance del proyecto Migración PGN 2023.&#xA;1. Debajo, lo hitos importantes organizados en el tiempo.&#xA;1. Fila 3. Evolución de las características en los aspectos funcionales, técnico, hardware y software del módulo Relatoría de PGN. &#xA;1. FInalmente, fila final del diagrama, la entrega en el tiempo de las capacidades del módulo de relatoría (épicas, para el caso de Scrum). La prioridad de liberación de estas la determina el equipo funcional de este módulo de la PGN.&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fecdf1a19151446ab18b004893b3d86f"
@@ -622,7 +622,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b623ae6a9dac4350975c265b3263eb22"
       textAlignment="1"
-      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;Relatoría. Organización de trabajo. &#xA;Características funcionales, sistémicas, seguridad.&#xA;&#xA;versión 0.7&#xA;">
+      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;Relatoría. Organización de trabajo. &#xA;Características funcionales, sistémicas, seguridad.&#xA;&#xA;versión 0.9&#xA;">
     <bounds
         x="12"
         y="12"

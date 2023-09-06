@@ -5,4 +5,7 @@
   <properties
       key="modulo"
       value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
 </archimate:Goal>
