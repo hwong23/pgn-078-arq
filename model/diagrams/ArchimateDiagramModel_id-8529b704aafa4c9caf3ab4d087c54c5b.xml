@@ -134,7 +134,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-0d507388c059454691b3030372531460">
       <bounds
-          x="24"
+          x="192"
           y="48"
           width="120"
           height="55"/>
@@ -144,15 +144,15 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-950e086a2ce141bcbf2c7cfbabc72a7c">
+        id="id-781e28b12c3141319b6b8eb9f8239b8d">
       <bounds
-          x="168"
+          x="24"
           y="48"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-2dff7e836da042a9a55c3c635828070e.xml#id-2dff7e836da042a9a55c3c635828070e"/>
+          href="ArchimateDiagramModel_id-26b58fc2a55d40b7a082500205f47e61.xml#id-26b58fc2a55d40b7a082500205f47e61"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

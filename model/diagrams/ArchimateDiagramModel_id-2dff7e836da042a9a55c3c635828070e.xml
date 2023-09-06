@@ -188,7 +188,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4750ae7d532b4d3eb459d6580ec80e81"
-      targetConnections="id-5fbeb18c757a4cf9a414d4f5a8012907 id-8bc0bf3b30f5459cb7284de6f0c336f0">
+      targetConnections="id-5fbeb18c757a4cf9a414d4f5a8012907 id-8bc0bf3b30f5459cb7284de6f0c336f0 id-d7803910a52a418381eae5340e62b455">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-c946fc50f0474da6aa1cfa83c2e5e126"
@@ -440,8 +440,8 @@
           href="RealizationRelationship_id-394136f800b04933a3aff16598f9186a.xml#id-394136f800b04933a3aff16598f9186a"/>
     </sourceConnections>
     <bounds
-        x="823"
-        y="660"
+        x="684"
+        y="720"
         width="137"
         height="55"/>
     <archimateElement
@@ -622,7 +622,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b623ae6a9dac4350975c265b3263eb22"
       textAlignment="1"
-      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;Relatoría. Organización de trabajo. &#xA;Características funcionales, sistémicas, seguridad.&#xA;&#xA;versión 0.9&#xA;">
+      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;SIREL (Relatoría). Organización de trabajo. &#xA;Características funcionales, sistémicas, seguridad.&#xA;&#xA;versión 0.12&#xA;">
     <bounds
         x="12"
         y="12"
@@ -892,6 +892,15 @@
           xsi:type="archimate:RealizationRelationship"
           href="RealizationRelationship_id-2e4f1705316c4ee6ad4be5a4f34094dd.xml#id-2e4f1705316c4ee6ad4be5a4f34094dd"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-bf62e284af664a0d96be822d418a82b5"
+        source="id-06620db0225141fe97b79e11d591f499"
+        target="id-7da0a5f9bf5643818b7a1cb1315af619">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-ccc829d5b94b4be28031c192ba99e18c.xml#id-ccc829d5b94b4be28031c192ba99e18c"/>
+    </sourceConnections>
     <bounds
         x="680"
         y="972"
@@ -915,12 +924,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-bf62e284af664a0d96be822d418a82b5"
+        id="id-f6ff3c0bac6a4dbf91a572535ca98eac"
         source="id-0cbfd691916b463a85c45ca6ba61e8ac"
-        target="id-7da0a5f9bf5643818b7a1cb1315af619">
+        target="id-bff5896a08d3437c8ca2a77674d6d398">
       <archimateRelationship
           xsi:type="archimate:RealizationRelationship"
-          href="RealizationRelationship_id-ccc829d5b94b4be28031c192ba99e18c.xml#id-ccc829d5b94b4be28031c192ba99e18c"/>
+          href="RealizationRelationship_id-23c99afa5c2c4e02a805a6c0c18178b4.xml#id-23c99afa5c2c4e02a805a6c0c18178b4"/>
     </sourceConnections>
     <bounds
         x="823"
@@ -988,5 +997,28 @@
     <archimateElement
         xsi:type="archimate:Value"
         href="Value_id-79c8a5428b35405c9fe702440c0d421c.xml#id-79c8a5428b35405c9fe702440c0d421c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-bff5896a08d3437c8ca2a77674d6d398"
+      targetConnections="id-f6ff3c0bac6a4dbf91a572535ca98eac"
+      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d7803910a52a418381eae5340e62b455"
+        source="id-bff5896a08d3437c8ca2a77674d6d398"
+        target="id-4750ae7d532b4d3eb459d6580ec80e81">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-44751a7e96214ac2aa689faa49d9fe5a.xml#id-44751a7e96214ac2aa689faa49d9fe5a"/>
+    </sourceConnections>
+    <bounds
+        x="823"
+        y="660"
+        width="137"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-4cbb8cf5150e4f64bf67d3951149f73f.xml#id-4cbb8cf5150e4f64bf67d3951149f73f"/>
   </children>
 </archimate:ArchimateDiagramModel>
