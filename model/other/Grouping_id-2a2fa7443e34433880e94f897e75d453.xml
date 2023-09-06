@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Hoja ruta del producto"
-    id="id-2a2fa7443e34433880e94f897e75d453"/>
+    id="id-2a2fa7443e34433880e94f897e75d453">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Grouping>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Publicar contenidos"
+    id="id-4cbb8cf5150e4f64bf67d3951149f73f">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+</archimate:Capability>

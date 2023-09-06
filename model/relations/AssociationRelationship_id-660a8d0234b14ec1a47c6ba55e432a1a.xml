@@ -1,0 +1,14 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-660a8d0234b14ec1a47c6ba55e432a1a">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <source
+      xsi:type="archimate:Goal"
+      href="Goal_id-631883a6f745474baa0854dc22495180.xml#id-631883a6f745474baa0854dc22495180"/>
+  <target
+      xsi:type="archimate:Value"
+      href="Value_id-935b4723e14d471591c48554d1214212.xml#id-935b4723e14d471591c48554d1214212"/>
+</archimate:AssociationRelationship>
