@@ -1,8 +1,8 @@
-<archimate:Goal
+<archimate:Value
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Sincronización (actualizcn)"
-    id="id-ecce0992c1794a64be6402728517bc9d">
+    name="Seguridad. Rltría v0.9"
+    id="id-79c8a5428b35405c9fe702440c0d421c">
   <properties
       key="modulo"
       value="relatoria"/>
-</archimate:Goal>
+</archimate:Value>
