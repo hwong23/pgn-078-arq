@@ -590,18 +590,6 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fc0192c6cec0418bbdc7080abc040927">
-    <bounds
-        x="648"
-        y="444"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Driver"
-        href="Driver_id-2f0fdd868d8d425d963c7b40aad3d55e.xml#id-2f0fdd868d8d425d963c7b40aad3d55e"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-bf760c1e524d4d2fb93acf44f3589aef">
     <bounds
         x="360"
