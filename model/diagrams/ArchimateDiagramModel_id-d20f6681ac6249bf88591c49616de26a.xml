@@ -7,6 +7,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dc1e7f4a47134705949387c7399b51a1"
       textAlignment="1">
+    <features
+        name="labelExpression"
+        value="Título Grupo de Vista"/>
     <bounds
         x="36"
         y="48"
@@ -27,6 +30,9 @@
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-359827c15d084a52b50c48fa76d3044a">
+      <features
+          name="labelExpression"
+          value="Mapa de Producto"/>
       <bounds
           x="24"
           y="48"
