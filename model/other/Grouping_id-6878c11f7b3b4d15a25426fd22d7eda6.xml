@@ -1,4 +1,5 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Presentación"
-    id="id-6878c11f7b3b4d15a25426fd22d7eda6"/>
+    id="id-6878c11f7b3b4d15a25426fd22d7eda6"
+    documentation="Submódulo de presentación del SUI. interfaz gráfica, interfaz web visible a los usuarios clientes y funcionarios de la PGN. "/>

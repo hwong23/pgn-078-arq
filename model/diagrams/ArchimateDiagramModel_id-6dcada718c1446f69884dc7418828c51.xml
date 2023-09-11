@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.1.SIU submdls componentes"
     id="id-6dcada718c1446f69884dc7418828c51"
-    documentation="Presentación de los componentes internos de los submódulos del sistema único de información migración PGN. Organización intena de los servicios y paquetes que integran cada submódulo del SUI. &#xA;&#xA;Descripción general de los componentes internos y tecnologías respectivas&#xA;&#xA;1. Presentación: Angular 11 (Web)&#xA;1. PGN SUI: API Transaccional (Node Js)&#xA;1. Administración: API Config (C#)&#xA;1. Persistencia: (SQL)&#xA;&#xA;">
+    documentation="Presentación de los componentes internos de los submódulos del sistema único de información migración PGN. Organización intena de los servicios y paquetes que integran cada submódulo del SUI. &#xA;&#xA;La organización de componentes de migración SUI facilita focalizar la selección de tecnologeias. Los componentes internos y tecnologías elegidas son las siguientes&#xA;&#xA;1. Presentación: Angular 11 (Web)&#xA;1. PGN SUI: API Transaccional (Node Js)&#xA;1. Administración: API Config (C#)&#xA;1. Persistencia: (SQL)&#xA;&#xA;La colaboración y comunicación de los componentes internos del SUI (grupo PFN SUI, en el diagrama) está mediada por interfaces. Estas son provistas por el grupo de componentes misionales, PGN SUI, hacia los submódulos externos. La intención es mantener reducido y controlado el número de interfaces.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-09a512064cac4df79b491571d90fcb41"
