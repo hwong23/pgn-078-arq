@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguridad. Lineabase.1a.SIU componente"
+    name="Lineabase.1a.SIU componentes. infraestrcutura"
     id="id-ae9dc2de036e435fbcba8497224653a7"
-    documentation="Dependencias entre los servicios que integran la aplicación de SUI. &#xA;&#xA;4 paquetes con tecnologías respectivas Angular 11 (Web), Api Transaccional (Node Js) y Api Config (C#) y el alojamiento de datos.&#xA;">
+    documentation="Dependencias de infraestructura entre los servicios que integran el modelo de aplicación de SUI, Migración. &#xA;&#xA;* Servidor de Canales (App PGN web y móvil)&#xA;* Servidor Web App (App SUI)&#xA;* Servidor Lappiz (Config SUI)&#xA;* Servidor BDD App (Transaccional)&#xA;* Servidor BDD Config (Configuración)&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1aaacf8cd82c452f8a0cc68abcd989dd"

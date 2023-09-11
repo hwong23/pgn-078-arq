@@ -9,7 +9,7 @@
       id="id-f89c32e8cc284792803efd5eb3ad8442"
       fillColor="#0096ff">
     <bounds
-        x="384"
+        x="336"
         y="180"
         width="120"
         height="97"/>
@@ -31,8 +31,8 @@
           href="FlowRelationship_id-a3715cc669814521b774f4db7ea6800d.xml#id-a3715cc669814521b774f4db7ea6800d"/>
     </sourceConnections>
     <bounds
-        x="60"
-        y="204"
+        x="12"
+        y="201"
         width="120"
         height="55"/>
     <archimateElement
@@ -58,8 +58,8 @@
           href="FlowRelationship_id-9a0c8314258d480d8df0b2439abe6f10.xml#id-9a0c8314258d480d8df0b2439abe6f10"/>
     </sourceConnections>
     <bounds
-        x="732"
-        y="204"
+        x="684"
+        y="201"
         width="120"
         height="55"/>
     <archimateElement
@@ -81,8 +81,8 @@
           href="FlowRelationship_id-9f7187ce06f444a78e9b9669bda4c9d6.xml#id-9f7187ce06f444a78e9b9669bda4c9d6"/>
     </sourceConnections>
     <bounds
-        x="528"
-        y="204"
+        x="480"
+        y="201"
         width="97"
         height="55"/>
     <archimateElement
@@ -109,8 +109,8 @@
           href="FlowRelationship_id-e1925fdc024a44ab89b8aae8d11fe289.xml#id-e1925fdc024a44ab89b8aae8d11fe289"/>
     </sourceConnections>
     <bounds
-        x="264"
-        y="204"
+        x="216"
+        y="201"
         width="97"
         height="55"/>
     <archimateElement
@@ -121,7 +121,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-aa24574a6a994e6fbbb2bf21d6a82410"
       textAlignment="1"
-      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Patrón de comunicación y colaboración módulo misional (PGN SUI) y submódulos.&#xA;&#xA;versión 0.1&#xA;">
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Patrón de comunicación y colaboración módulo misional (PGN SUI) y submódulos.&#xA;&#xA;versión 0.3&#xA;">
     <bounds
         x="12"
         y="12"
@@ -167,8 +167,8 @@
           href="FlowRelationship_id-03438eee58d24e64a82fd4089cc5e383.xml#id-03438eee58d24e64a82fd4089cc5e383"/>
     </sourceConnections>
     <bounds
-        x="384"
-        y="425"
+        x="336"
+        y="422"
         width="120"
         height="97"/>
     <archimateElement
@@ -195,8 +195,8 @@
           href="FlowRelationship_id-e5b4c937b0e340f6b0768045e85ec9f3.xml#id-e5b4c937b0e340f6b0768045e85ec9f3"/>
     </sourceConnections>
     <bounds
-        x="612"
-        y="444"
+        x="564"
+        y="441"
         width="97"
         height="55"/>
     <archimateElement
@@ -218,8 +218,8 @@
           href="FlowRelationship_id-ae0b097f2d4b4211a2980e3060f495a3.xml#id-ae0b097f2d4b4211a2980e3060f495a3"/>
     </sourceConnections>
     <bounds
-        x="192"
-        y="444"
+        x="144"
+        y="441"
         width="97"
         height="55"/>
     <archimateElement
@@ -230,8 +230,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0586ce8bb080443eb2a83b2f3275dac1">
     <bounds
-        x="732"
-        y="444"
+        x="684"
+        y="441"
         width="120"
         height="55"/>
     <archimateElement
@@ -242,13 +242,63 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1f8145ee9a8a42ed863378734fda97c6">
     <bounds
-        x="60"
-        y="444"
+        x="12"
+        y="441"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-9c5bfbac3d1c488e99526a82bc226418.xml#id-9c5bfbac3d1c488e99526a82bc226418"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-c0c7021bed0143ed817e5caa267f1212"
+      textAlignment="1"
+      fillColor="#0432ff"
+      borderType="1">
+    <bounds
+        x="12"
+        y="576"
+        width="20"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e2a029c2d97d424aa5001bee19f6f0e1"
+      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+      textAlignment="1"
+      content="Módulos misionales SUI, migración"
+      borderType="1">
+    <bounds
+        x="36"
+        y="576"
+        width="217"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-e18b23b6fa8e4fb8a1af7a5e32c2455f"
+      textAlignment="1"
+      fillColor="#73fdff"
+      borderType="1">
+    <bounds
+        x="12"
+        y="612"
+        width="20"
+        height="25"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-528df5ccd71d47209862e6efcd219eff"
+      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
+      textAlignment="1"
+      content="Submódulos SUI, migración"
+      borderType="1">
+    <bounds
+        x="36"
+        y="612"
+        width="217"
+        height="25"/>
   </children>
   <properties
       key="plataforma"
