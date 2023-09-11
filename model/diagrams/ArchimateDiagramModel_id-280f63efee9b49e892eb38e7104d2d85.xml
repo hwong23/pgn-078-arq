@@ -62,7 +62,7 @@
             href="AssociationRelationship_id-78a7b8bfcb5f43b3944802de821bbcb5.xml#id-78a7b8bfcb5f43b3944802de821bbcb5"/>
       </sourceConnections>
       <bounds
-          x="24"
+          x="36"
           y="60"
           width="120"
           height="55"/>
@@ -98,9 +98,9 @@
         targetConnections="id-19085ca646e54da48d00262c4e1cb183">
       <bounds
           x="12"
-          y="132"
-          width="96"
-          height="37"/>
+          y="192"
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:ValueStream"
           href="ValueStream_id-0012edaf811d46d381b941d8fcb8cf43.xml#id-0012edaf811d46d381b941d8fcb8cf43"/>
@@ -702,7 +702,7 @@
     <bounds
         x="-12"
         y="264"
-        width="120"
+        width="134"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -714,7 +714,7 @@
     <bounds
         x="768"
         y="348"
-        width="97"
+        width="120"
         height="49"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -724,9 +724,9 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7a80f056ad254e829ad2f4e7fb88cae3">
     <bounds
-        x="-227"
-        y="144"
-        width="120"
+        x="-228"
+        y="192"
+        width="134"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ValueStream"
@@ -793,8 +793,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8eff501ea9ac456ca0e0ea88a7db52aa">
     <bounds
-        x="-19"
-        y="372"
+        x="-12"
+        y="336"
         width="134"
         height="61"/>
     <archimateElement
