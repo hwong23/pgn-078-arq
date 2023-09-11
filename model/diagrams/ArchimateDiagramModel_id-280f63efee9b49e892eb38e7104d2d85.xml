@@ -262,7 +262,7 @@
         targetConnections="id-c9310c74972741eca085057dd1f2867a id-85858d97712742908a6391fb2deee1c1">
       <bounds
           x="48"
-          y="96"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -275,7 +275,7 @@
         targetConnections="id-601ecb7c352d450cb291835434d438e5 id-2fb400881afa4080b5119e51466ea3a5">
       <bounds
           x="192"
-          y="96"
+          y="108"
           width="120"
           height="55"/>
       <archimateElement
@@ -307,8 +307,8 @@
       <bounds
           x="120"
           y="36"
-          width="132"
-          height="43"/>
+          width="120"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-c4e18da1a21142f387366fd31d259c26.xml#id-c4e18da1a21142f387366fd31d259c26"/>
@@ -443,7 +443,7 @@
         id="id-e7c3a69513824ce095c92ee40599c2f5"
         targetConnections="id-503f829c95c942249141dbefb56d30fc id-dddb9cdb887e47468e95fad379ee8bd1 id-01e0a7c107fc4d0a9cc8c81486d7738f">
       <bounds
-          x="528"
+          x="516"
           y="48"
           width="120"
           height="55"/>
@@ -700,11 +700,11 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f9fff65b39b64fe198a8a0f000dd7938"
-      targetConnections="id-4fd442e769bc4c9aadb9fc8a6860e733 id-5d9c9312b3224991998caec6584fa6d5">
+      targetConnections="id-4fd442e769bc4c9aadb9fc8a6860e733 id-5d9c9312b3224991998caec6584fa6d5 id-ab4a107c948b4b8faa69b19ad416a161">
     <bounds
         x="540"
         y="768"
-        width="398"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Node"
@@ -712,7 +712,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fafb290fcbfb469b9164d3c838fd8ede">
+      id="id-fafb290fcbfb469b9164d3c838fd8ede"
+      targetConnections="id-492e2ba0ed7347b6840afbcf280e4404">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5d9c9312b3224991998caec6584fa6d5"
@@ -732,9 +733,9 @@
           href="AssociationRelationship_id-c25dcf267fe143c699fa6bc762089d51.xml#id-c25dcf267fe143c699fa6bc762089d51"/>
     </sourceConnections>
     <bounds
-        x="-156"
+        x="-132"
         y="768"
-        width="637"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Node"
@@ -745,9 +746,17 @@
       id="id-dc36d40453dd4e86b0c12da90ab8b653"
       textAlignment="1"
       content="Red Privada Virtual (VPN)">
+    <sourceConnections
+        id="id-492e2ba0ed7347b6840afbcf280e4404"
+        source="id-dc36d40453dd4e86b0c12da90ab8b653"
+        target="id-fafb290fcbfb469b9164d3c838fd8ede"/>
+    <sourceConnections
+        id="id-ab4a107c948b4b8faa69b19ad416a161"
+        source="id-dc36d40453dd4e86b0c12da90ab8b653"
+        target="id-f9fff65b39b64fe198a8a0f000dd7938"/>
     <bounds
-        x="444"
-        y="739"
+        x="204"
+        y="804"
         width="157"
         height="30"/>
   </children>
