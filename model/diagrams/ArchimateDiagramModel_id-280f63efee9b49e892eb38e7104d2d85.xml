@@ -576,16 +576,4 @@
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-5ffd2095e7344bb5b9023edd9e3d7aa4.xml#id-5ffd2095e7344bb5b9023edd9e3d7aa4"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2249645d15c14282ba9992408868bc3b">
-    <bounds
-        x="122"
-        y="381"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Path"
-        href="Path_id-171295c43f2b485d8d954b09ea1eba28.xml#id-171295c43f2b485d8d954b09ea1eba28"/>
-  </children>
 </archimate:ArchimateDiagramModel>

@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.1.1.SIU submodulos"
     id="id-f3f3865c516245bfb2d777de5b23efb6"
-    documentation="Distribución de los servicios y paquetes que integran la aplicación de SUI. &#xA;&#xA;Cuantro paquetes con tecnologías respectivas&#xA;&#xA;1. Angular 11 (Web)&#xA;1. API Transaccional (Node Js)&#xA;1. API Config (C#)&#xA;1. Persistencia (SQL)&#xA;&#xA;">
+    documentation="Identificación de submódulos del Sistema Único de Información (SUI) de la PGN. &#xA;&#xA;Los sistemas de información del SUI estarán constituídos por submódulos dispuestos en relación de utilitarios (sirven a) a los compentens misionales. Los submódulos pueden ser intercambiados o ampliados sin perjuicio del SUI gracias a las interfaces de unión.&#xA;&#xA;Las interfaces de unión indicadas arriba obligan a los submódulos a cumplir las exigencias de los componentes misionales del SUI.&#xA;&#xA;Los submódulos identificados tienen los siguientes roles para el SUI migrado:&#xA;&#xA;1. cc:Presentación&#xA;1. cc:Servicios de aplicación&#xA;1. cc:Portales y canales&#xA;1. cc:Administración y configuración&#xA;1. cc:Persistencia&#xA;&#xA;### Requerimientos Asociados a los Submódulos&#xA;La disposición de los módulos y submódulos presentada, denominada SUI Migración en adelante, facilita la focalización de los requerimientos encontrados en el levantamiento realizado por el actual proyecto. Así, por ejemplo, los requerimientos funcionales se encuentran concentrados en el submódulo de presentación (ver imagen).&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-838d8b7ae23748d1a5291a7333c7479c">
@@ -118,6 +118,11 @@
         id="id-33c6c142c25f4ed4bb5cba9412a5b08d"
         source="id-a6622226bfe54221a9d905c6ed7c9e66"
         target="id-f7e01472f6bd46d4a49a7f1c10f08289">
+      <bendpoints
+          startX="138"
+          startY="-3"
+          endX="-176"
+          endY="-87"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-298944c07c4244db92bc9f174115a45a.xml#id-298944c07c4244db92bc9f174115a45a"/>
@@ -216,6 +221,11 @@
         id="id-4a06e0442fdf453b96adc8636326021d"
         source="id-ac9df70327924b68a99e1b923d78bb3f"
         target="id-f7e01472f6bd46d4a49a7f1c10f08289">
+      <bendpoints
+          startX="-137"
+          startY="-3"
+          endX="172"
+          endY="81"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-f6765cc6f65144059e5dcddcf311f129.xml#id-f6765cc6f65144059e5dcddcf311f129"/>
@@ -288,6 +298,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationInterface"
         href="ApplicationInterface_id-5d9d1022e676411fb0ea9015457493fc.xml#id-5d9d1022e676411fb0ea9015457493fc"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-293089e205a748388d95bb4d1ec2920b"
+      textAlignment="1"
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Submódulos Sistema Único de Información. Requerimientos asociados a submódulos.&#xA;&#xA;versión 0.1">
+    <bounds
+        x="-672"
+        y="-192"
+        width="217"
+        height="132"/>
   </children>
   <properties
       key="plataforma"
