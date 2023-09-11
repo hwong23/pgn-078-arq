@@ -174,4 +174,7 @@
         xsi:type="archimate:Gap"
         href="Gap_id-4eddd6ee6c1e476396451127f6fd813c.xml#id-4eddd6ee6c1e476396451127f6fd813c"/>
   </children>
+  <properties
+      key="ancho"
+      value="3.14"/>
 </archimate:ArchimateDiagramModel>
