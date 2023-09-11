@@ -46,8 +46,8 @@
           href="AssociationRelationship_id-8b97bbfd82024f089438bf508983d4bb.xml#id-8b97bbfd82024f089438bf508983d4bb"/>
     </sourceConnections>
     <bounds
-        x="-36"
-        y="144"
+        x="648"
+        y="156"
         width="744"
         height="1094"/>
     <children
@@ -182,8 +182,8 @@
       id="id-407dede5beee4e32a77325429ee3532e"
       targetConnections="id-5554730f24424fd88e1ec97e78ab7f1b">
     <bounds
-        x="792"
-        y="176"
+        x="1476"
+        y="188"
         width="156"
         height="55"/>
     <archimateElement
@@ -203,8 +203,8 @@
           href="AssociationRelationship_id-fff9a73a11574be6922787d0ad953eae.xml#id-fff9a73a11574be6922787d0ad953eae"/>
     </sourceConnections>
     <bounds
-        x="-252"
-        y="48"
+        x="432"
+        y="60"
         width="156"
         height="55"/>
     <archimateElement
@@ -224,8 +224,8 @@
           href="AssociationRelationship_id-4b3addde8f214e4fa54a746d3a268a84.xml#id-4b3addde8f214e4fa54a746d3a268a84"/>
     </sourceConnections>
     <bounds
-        x="792"
-        y="344"
+        x="1476"
+        y="356"
         width="156"
         height="55"/>
     <archimateElement
@@ -237,8 +237,8 @@
       id="id-4315edebdc5646c1b57dc6345c5558a6"
       targetConnections="id-a497a5890fc3497f987cb25ce2fd1f48">
     <bounds
-        x="1296"
-        y="672"
+        x="1980"
+        y="684"
         width="156"
         height="55"/>
     <archimateElement
@@ -287,8 +287,8 @@
           href="ServingRelationship_id-8d9bd3d0a6cc4262a2852b4e2c4cd4a7.xml#id-8d9bd3d0a6cc4262a2852b4e2c4cd4a7"/>
     </sourceConnections>
     <bounds
-        x="-672"
-        y="144"
+        x="12"
+        y="156"
         width="504"
         height="372"/>
     <children
@@ -481,8 +481,8 @@
           href="ServingRelationship_id-ead3f702c47a4a96be2b6d3a0993d32f.xml#id-ead3f702c47a4a96be2b6d3a0993d32f"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="1022"
+        x="1500"
+        y="1034"
         width="420"
         height="216"/>
     <children
@@ -541,8 +541,8 @@
           href="AssociationRelationship_id-badeae4ca19c4e1fa72948622bbbc422.xml#id-badeae4ca19c4e1fa72948622bbbc422"/>
     </sourceConnections>
     <bounds
-        x="792"
-        y="260"
+        x="1476"
+        y="272"
         width="156"
         height="55"/>
     <archimateElement
@@ -600,8 +600,8 @@
           href="ServingRelationship_id-1d25fa55e7d64dea8384bf362034de91.xml#id-1d25fa55e7d64dea8384bf362034de91"/>
     </sourceConnections>
     <bounds
-        x="816"
-        y="588"
+        x="1500"
+        y="600"
         width="420"
         height="360"/>
     <children
@@ -808,8 +808,8 @@
           href="ServingRelationship_id-5221f077df4d40788dd512715794af46.xml#id-5221f077df4d40788dd512715794af46"/>
     </sourceConnections>
     <bounds
-        x="-672"
-        y="576"
+        x="12"
+        y="588"
         width="504"
         height="372"/>
     <children
@@ -957,8 +957,8 @@
           href="ServingRelationship_id-c2b6bcc9ef3446a486cf385c749d92e4.xml#id-c2b6bcc9ef3446a486cf385c749d92e4"/>
     </sourceConnections>
     <bounds
-        x="-672"
-        y="1022"
+        x="12"
+        y="1034"
         width="504"
         height="216"/>
     <children
@@ -1023,7 +1023,8 @@
       textAlignment="1"
       content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Componentes internos de los submódulos Sistema Único de Información. &#xA;&#xA;versión 0.1">
     <bounds
-        x="-672"
+        x="12"
+        y="12"
         width="217"
         height="132"/>
   </children>
@@ -1040,8 +1041,8 @@
           href="AssociationRelationship_id-15abe1c7806d48a792e85caef12bed33.xml#id-15abe1c7806d48a792e85caef12bed33"/>
     </sourceConnections>
     <bounds
-        x="1296"
-        y="600"
+        x="1980"
+        y="612"
         width="156"
         height="55"/>
     <archimateElement

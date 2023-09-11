@@ -90,15 +90,6 @@
       id="id-0503b902e5b14d52bda50cebaed488d0"
       targetConnections="id-e14531150cf24caab4a94c382d456426"
       textAlignment="1">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-34ea025844fe4ecaba644928d0f6ef24"
-        source="id-0503b902e5b14d52bda50cebaed488d0"
-        target="id-c81792b13bb94e5c923e893f6e320827">
-      <archimateRelationship
-          xsi:type="archimate:FlowRelationship"
-          href="FlowRelationship_id-c5b22b9ef4c548a686b307b818b60eb3.xml#id-c5b22b9ef4c548a686b307b818b60eb3"/>
-    </sourceConnections>
     <bounds
         x="36"
         y="216"
@@ -135,7 +126,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c81792b13bb94e5c923e893f6e320827"
-      targetConnections="id-34ea025844fe4ecaba644928d0f6ef24"
       textAlignment="1">
     <bounds
         x="468"
