@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQRSEG21"
+    id="id-78a12ee526c74b7fb3856002b8c32e98"
+    documentation="1. Debe cerrar las transacciones luego de máximo 10 minutos de inactividad. &quot;&quot;&quot;"/>
