@@ -801,4 +801,7 @@
   <properties
       key="plataforma"
       value="js"/>
+  <properties
+      key="ancho"
+      value="5.89"/>
 </archimate:ArchimateDiagramModel>
