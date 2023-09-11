@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Documento de Arquitectura SUI PGN"
+    name="Documento de Arquitectura Infraestructura SUI PGN"
     id="id-d20f6681ac6249bf88591c49616de26a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
