@@ -1,13 +1,13 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Migracion.1.SIU modulos"
+    name="Migracion.1.SIU submdls componentes"
     id="id-6dcada718c1446f69884dc7418828c51"
-    documentation="Distribución de los servicios y paquetes que integran la aplicación de SUI. &#xA;&#xA;Cuantro paquetes con tecnologías respectivas&#xA;1. Angular 11 (Web)&#xA;1. API Transaccional (Node Js)&#xA;1. API Config (C#)&#xA;1. Persistencia (SQL)&#xA;&#xA;">
+    documentation="Presentación de los componentes internos de los submódulos del sistema único de información migración PGN. Organización intena de los servicios y paquetes que integran cada submódulo del SUI. &#xA;&#xA;La organización de componentes de migración SUI facilita focalizar la selección de tecnologeias. Los componentes internos y tecnologías elegidas son las siguientes&#xA;&#xA;1. Presentación: Angular 11 (Web)&#xA;1. PGN SUI: API Transaccional (Node Js)&#xA;1. Administración: API Config (C#)&#xA;1. Persistencia: (SQL)&#xA;&#xA;La colaboración y comunicación de los componentes internos del SUI (grupo PFN SUI, en el diagrama) está mediada por interfaces. Estas son provistas por el grupo de componentes misionales, PGN SUI, hacia los submódulos externos. La intención es mantener reducido y controlado el número de interfaces.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-09a512064cac4df79b491571d90fcb41"
-      targetConnections="id-0f06e8f4cc334ec199ae9dbb5262a43d id-ab5d0bcf855144ce85d6db3fcd256cad"
+      targetConnections="id-0f06e8f4cc334ec199ae9dbb5262a43d id-ab5d0bcf855144ce85d6db3fcd256cad id-7fb58996e7a840d4baf2c20ab762874a id-c6cad73061114cc39fbdc41036a3ce4f id-01649c1363044afeb8d472637ebf8e2a id-d692e82024a44c5c82c5f245714f7ae6 id-dcb476bf157c4385ab7db36de97209b8"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -277,6 +277,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-e597dc8ba67040ae8d3ad42cb3ddc4bf.xml#id-e597dc8ba67040ae8d3ad42cb3ddc4bf"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-7fb58996e7a840d4baf2c20ab762874a"
+        source="id-7d4f194c6ce549879a33011f17df10fa"
+        target="id-09a512064cac4df79b491571d90fcb41">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-8d9bd3d0a6cc4262a2852b4e2c4cd4a7.xml#id-8d9bd3d0a6cc4262a2852b4e2c4cd4a7"/>
+    </sourceConnections>
     <bounds
         x="-672"
         y="144"
@@ -462,6 +471,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-c9fabe588e2b4e8d9ddcd1164ec8b132.xml#id-c9fabe588e2b4e8d9ddcd1164ec8b132"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-dcb476bf157c4385ab7db36de97209b8"
+        source="id-5c78bd20006e472282612fb7041504ee"
+        target="id-09a512064cac4df79b491571d90fcb41">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-ead3f702c47a4a96be2b6d3a0993d32f.xml#id-ead3f702c47a4a96be2b6d3a0993d32f"/>
+    </sourceConnections>
     <bounds
         x="816"
         y="1022"
@@ -570,6 +588,15 @@
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_id-816a19a34dcd4e1c84173355e48c2794.xml#id-816a19a34dcd4e1c84173355e48c2794"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d692e82024a44c5c82c5f245714f7ae6"
+        source="id-a06b450c7694476d9eb83bfebbeed9d9"
+        target="id-09a512064cac4df79b491571d90fcb41">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-1d25fa55e7d64dea8384bf362034de91.xml#id-1d25fa55e7d64dea8384bf362034de91"/>
     </sourceConnections>
     <bounds
         x="816"
@@ -770,6 +797,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-7dc628c37c1a485f8dd1e52277345454.xml#id-7dc628c37c1a485f8dd1e52277345454"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c6cad73061114cc39fbdc41036a3ce4f"
+        source="id-de8db6ea97464947a3c0b03181898bab"
+        target="id-09a512064cac4df79b491571d90fcb41">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-5221f077df4d40788dd512715794af46.xml#id-5221f077df4d40788dd512715794af46"/>
+    </sourceConnections>
     <bounds
         x="-672"
         y="576"
@@ -910,6 +946,15 @@
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-cb609f0d0b5d4b8a89589dfdd8a1f81a.xml#id-cb609f0d0b5d4b8a89589dfdd8a1f81a"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-01649c1363044afeb8d472637ebf8e2a"
+        source="id-94b3f2e2c2de4c6ab15677492d9712dd"
+        target="id-09a512064cac4df79b491571d90fcb41">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-c2b6bcc9ef3446a486cf385c749d92e4.xml#id-c2b6bcc9ef3446a486cf385c749d92e4"/>
+    </sourceConnections>
     <bounds
         x="-672"
         y="1022"
@@ -970,6 +1015,16 @@
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-2198e0bcd4f74b2f9459a00b7e26ecc5.xml#id-2198e0bcd4f74b2f9459a00b7e26ecc5"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-37f93fe0b85f410f95da3c9fa18ff0b1"
+      textAlignment="1"
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Componentes internos de los submódulos Sistema Único de Información. &#xA;&#xA;versión 0.1">
+    <bounds
+        x="-672"
+        width="217"
+        height="132"/>
   </children>
   <properties
       key="plataforma"

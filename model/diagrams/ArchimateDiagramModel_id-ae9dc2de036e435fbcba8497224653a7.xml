@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lineabase.1a.SIU componente (seguridad)"
     id="id-ae9dc2de036e435fbcba8497224653a7"
-    documentation="Dependencias entre los servicios que integran la aplicación de SUI. &#xA;&#xA;4 paquetes con tecnologías respectivas Angular 11 (Web), Api Transaccional (Node Js) y Api Config (C#) y el alojamiento de datos.">
+    documentation="Dependencias entre los servicios que integran la aplicación de SUI. &#xA;&#xA;4 paquetes con tecnologías respectivas Angular 11 (Web), Api Transaccional (Node Js) y Api Config (C#) y el alojamiento de datos.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-1aaacf8cd82c452f8a0cc68abcd989dd"

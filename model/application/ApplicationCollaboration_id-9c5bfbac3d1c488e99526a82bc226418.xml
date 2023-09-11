@@ -1,5 +1,5 @@
-<archimate:Grouping
+<archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Portales"
-    id="id-2198e0bcd4f74b2f9459a00b7e26ecc5"
+    name="cc:Portales y canales"
+    id="id-9c5bfbac3d1c488e99526a82bc226418"
     documentation="Submódulo de portales internos de la PGN a donde llega el SUI. Interfaz web que usa al SUI para llegar a direcciones y subdirecciones de la PGN. La plataforma principal de portales en este contexto es Sharepoint de Microsoft.&#xA;"/>
