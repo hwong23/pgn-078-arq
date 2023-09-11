@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lineabase.0.SIU applicación.seguridad"
+    name="Lineabase.0.SIU applicación.(seguridad)"
     id="id-280f63efee9b49e892eb38e7104d2d85"
     documentation="# Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&#xA;">
   <children
@@ -587,18 +587,6 @@
     <archimateElement
         xsi:type="archimate:Path"
         href="Path_id-171295c43f2b485d8d954b09ea1eba28.xml#id-171295c43f2b485d8d954b09ea1eba28"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-fc0192c6cec0418bbdc7080abc040927">
-    <bounds
-        x="648"
-        y="444"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:Driver"
-        href="Driver_id-2f0fdd868d8d425d963c7b40aad3d55e.xml#id-2f0fdd868d8d425d963c7b40aad3d55e"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
