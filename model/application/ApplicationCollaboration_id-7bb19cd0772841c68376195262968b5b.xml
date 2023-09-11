@@ -1,4 +1,5 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="cc:Presentación"
-    id="id-7bb19cd0772841c68376195262968b5b"/>
+    id="id-7bb19cd0772841c68376195262968b5b"
+    documentation="Submódulo de presentación del SUI. interfaz gráfica, interfaz web visible a los usuarios clientes y funcionarios de la PGN. "/>
