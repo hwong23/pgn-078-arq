@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lineabase.1.SIU componente (seguridad)"
+    name="Seguridad. Lineabase.1.SIU componente"
     id="id-a63d0714dedd460bb94df447e6017a23"
     documentation="Distribución de los servicios y paquetes que integran la aplicación de SUI. &#xA;&#xA;Cuatro paquetes con tecnologías respectivas&#xA;&#xA;1. Angular 11 (Web)&#xA;1. API Transaccional (Node Js)&#xA;1. API Config (C#)&#xA;1. Persistencia (SQL)&#xA;&#xA;Asuntos de la Migración:&#xA;&#xA;* Estrategia CMS central&#xA;* Motor de búsqueda&#xA;* Estatego como BI&#xA;* Conciliación y Doku&#xA;* Gestión de sesiones / caducidad&#xA;&#xA;">
   <children

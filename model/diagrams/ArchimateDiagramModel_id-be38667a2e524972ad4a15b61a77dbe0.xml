@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Riesgos.1. Migración funcional (seguridad)"
+    name="Seguridad. Riesgos.1. Migración funcional"
     id="id-be38667a2e524972ad4a15b61a77dbe0"
     documentation="Riesgos de la migración funcional:&#xA;&#xA;* RSG1. Estrategia CMS central&#xA;* RSG2. Motor de búsqueda&#xA;* RSG3. Estatego como BI&#xA;* RSG4. Conciliación y Doku&#xA;* RSG5. Gestión de sesiones / caducidad&#xA;&#xA;Informar a la PGN de las implicaciones junto con alternativas para la implementación de la acción de aprovechamiento: diseño del SCM central (sharepoint). La PGN debe decidir si o no a la acción propuesta.&#xA;Informar a la PGN de las implicaciones junto con alternativas para la implementación de la acción de aprovechamiento: diseño del motor de búsqueda compartido (sharepoint). La PGN debe decidir si o no a la acción propuesta.&#xA;Informar a la PGN de las implicaciones junto con alternativas para la implementación de la acción de manejo del riesgo: diseño de solución de inteligencia de negocio (Power BI). La PGN debe decidir si o no a la acción propuesta.&#xA;Informar a la PGN de las implicaciones junto con alternativas para la implementación de la acción de manejo del riesgo: ubicar la lógica, los flujos, y los datos misionales dentro del SIU. La PGN debe decidir si o no a la acción propuesta.&#xA;Informar a la PGN de las implicaciones junto con alternativas para la implementación de la acción de manejo del riesgo: facilitar la administración de seguridad en un solo lugar (distinto de localizarla en las aplicaciones web). La PGN debe decidir si o no a la acción propuesta.&#xA;">
   <children
