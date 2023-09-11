@@ -229,4 +229,7 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-fd88a0d5944949d3af86e6d41a4b05f2.xml#id-fd88a0d5944949d3af86e6d41a4b05f2"/>
   </children>
+  <properties
+      key="devdoc"
+      value="02n.a1.contenido.md"/>
 </archimate:ArchimateDiagramModel>
