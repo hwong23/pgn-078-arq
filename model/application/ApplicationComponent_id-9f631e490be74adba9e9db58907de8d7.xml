@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Transacciones"
+    id="id-9f631e490be74adba9e9db58907de8d7">
+  <properties
+      key="plataforma"
+      value="sql"/>
+</archimate:ApplicationComponent>

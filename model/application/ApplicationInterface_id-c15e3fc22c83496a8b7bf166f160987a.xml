@@ -1,0 +1,8 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz de aplicación (runtime)"
+    id="id-c15e3fc22c83496a8b7bf166f160987a">
+  <properties
+      key="plataforma"
+      value="angular 11"/>
+</archimate:ApplicationInterface>

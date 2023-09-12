@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seguridad"
+    id="id-258aa2b41c7141d78ca44fd432fca4cb">
+  <properties
+      key="plataforma"
+      value="sql"/>
+</archimate:ApplicationComponent>

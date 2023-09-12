@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Config"
+    id="id-1b468adeaf2e406789b9e5c45126479d">
+  <properties
+      key="plataforma"
+      value="cs"/>
+</archimate:ApplicationComponent>
