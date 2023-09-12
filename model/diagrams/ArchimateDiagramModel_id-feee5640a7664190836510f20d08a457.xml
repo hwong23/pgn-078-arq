@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Documento de Arquitectura Migración SUI"
+    name="Documento de Arquitectura Migración Funcional SUI"
     id="id-feee5640a7664190836510f20d08a457">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -206,7 +206,7 @@
         id="id-fa2fd2c334d644fab1fea16a5d71393a">
       <bounds
           x="168"
-          y="36"
+          y="48"
           width="120"
           height="55"/>
       <referencedModel
@@ -218,7 +218,7 @@
         id="id-1bd236c3819145ac81848c2369841cce">
       <bounds
           x="24"
-          y="36"
+          y="48"
           width="120"
           height="55"/>
       <referencedModel
@@ -229,4 +229,7 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-fd88a0d5944949d3af86e6d41a4b05f2.xml#id-fd88a0d5944949d3af86e6d41a4b05f2"/>
   </children>
+  <properties
+      key="devdoc"
+      value="02n.a1.contenido.md"/>
 </archimate:ArchimateDiagramModel>

@@ -121,7 +121,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6e5ddd5a5f004cab8540f81405dac156"
-      targetConnections="id-55a454aae7924e3ea7b25e3db088ea41">
+      targetConnections="id-55a454aae7924e3ea7b25e3db088ea41 id-2ea4a41af80a43259e2b3051ffb9bcc1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-737008952a3f41428e289e6f2beac903"
@@ -187,7 +187,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dec02c6d220145419c9a18b1257983d1"
-      targetConnections="id-9717b27ec9034b1f82f6d37661795524">
+      targetConnections="id-9717b27ec9034b1f82f6d37661795524 id-9e001e2064b8403eada719b933d6d5f7">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-897e61d3fa4d4bd39822f3280559ffe5"
@@ -583,6 +583,34 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-85ae26741f36473788f9720b64a3f28b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-2ea4a41af80a43259e2b3051ffb9bcc1"
+        source="id-85ae26741f36473788f9720b64a3f28b"
+        target="id-6e5ddd5a5f004cab8540f81405dac156">
+      <bendpoints
+          startX="168"
+          startY="9"
+          endX="-211"
+          endY="-45"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-c21d2385fedf4fe086878df870fbf3b4.xml#id-c21d2385fedf4fe086878df870fbf3b4"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-9e001e2064b8403eada719b933d6d5f7"
+        source="id-85ae26741f36473788f9720b64a3f28b"
+        target="id-dec02c6d220145419c9a18b1257983d1">
+      <bendpoints
+          startX="288"
+          startY="-3"
+          endX="-316"
+          endY="-57"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-88d915544e814035bcec2e10e1d7e2fa.xml#id-88d915544e814035bcec2e10e1d7e2fa"/>
+    </sourceConnections>
     <bounds
         x="60"
         y="156"

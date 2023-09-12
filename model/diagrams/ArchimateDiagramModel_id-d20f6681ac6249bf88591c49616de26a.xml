@@ -1,86 +1,58 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Documento de Arquitectura SUI PGN"
+    name="Documento de Arquitectura Infraestructura SUI PGN"
     id="id-d20f6681ac6249bf88591c49616de26a">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-dc1e7f4a47134705949387c7399b51a1"
       textAlignment="1">
-    <features
-        name="labelExpression"
-        value="Título Grupo de Vista"/>
     <bounds
         x="36"
         y="48"
-        width="400"
+        width="685"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-e77ce59d08a44e55bcdb1778ae229a87">
+        id="id-03714c72d43b427da572fdf5e93ef3dd">
       <bounds
-          x="192"
-          y="48"
-          width="144"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-2dff7e836da042a9a55c3c635828070e.xml#id-2dff7e836da042a9a55c3c635828070e"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-359827c15d084a52b50c48fa76d3044a">
-      <features
-          name="labelExpression"
-          value="Mapa de Producto"/>
-      <bounds
-          x="24"
-          y="48"
-          width="144"
-          height="55"/>
-      <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-26b58fc2a55d40b7a082500205f47e61.xml#id-26b58fc2a55d40b7a082500205f47e61"/>
-    </children>
-    <archimateElement
-        xsi:type="archimate:Grouping"
-        href="Grouping_id-385b3ecdf49f40329b2ec752c849b1f9.xml#id-385b3ecdf49f40329b2ec752c849b1f9"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-53837d13a77941678f8ac2cd64a24ff7"
-      textAlignment="1">
-    <bounds
-        x="36"
-        y="212"
-        width="400"
-        height="140"/>
-    <children
-        xsi:type="archimate:DiagramModelReference"
-        id="id-9b140904561b4d89ac5778dcd66f18c3">
-      <bounds
-          x="36"
-          y="48"
+          x="12"
+          y="36"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-d1c66332737c4f8294474c4bbd0ebd52.xml#id-d1c66332737c4f8294474c4bbd0ebd52"/>
+          href="ArchimateDiagramModel_id-ae9dc2de036e435fbcba8497224653a7.xml#id-ae9dc2de036e435fbcba8497224653a7"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-f854da08532d4a9d86384a3f2b394b3b">
+        id="id-604450452baf400791c32afde00faf5c">
       <bounds
-          x="192"
-          y="48"
+          x="144"
+          y="36"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-f3eee2e860604899903c6b48c2f76335.xml#id-f3eee2e860604899903c6b48c2f76335"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-0bee078b20b74a83ae82460fbd67b86a">
+      <bounds
+          x="276"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-280f63efee9b49e892eb38e7104d2d85.xml#id-280f63efee9b49e892eb38e7104d2d85"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
-        href="Grouping_id-0a95f4ba0970485c912c5a5f0f75802b.xml#id-0a95f4ba0970485c912c5a5f0f75802b"/>
+        href="Grouping_id-385b3ecdf49f40329b2ec752c849b1f9.xml#id-385b3ecdf49f40329b2ec752c849b1f9"/>
   </children>
+  <properties
+      key="devdoc"
+      value="03n.infra.md"/>
 </archimate:ArchimateDiagramModel>
