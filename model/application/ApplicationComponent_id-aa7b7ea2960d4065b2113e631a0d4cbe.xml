@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Utilitario"
+    id="id-aa7b7ea2960d4065b2113e631a0d4cbe">
+  <properties
+      key="plataforma"
+      value="no-sql"/>
+</archimate:ApplicationComponent>

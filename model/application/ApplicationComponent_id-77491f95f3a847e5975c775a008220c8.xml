@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Puerto datos 1"
+    id="id-77491f95f3a847e5975c775a008220c8">
+  <properties
+      key="plataforma"
+      value="js"/>
+</archimate:ApplicationComponent>

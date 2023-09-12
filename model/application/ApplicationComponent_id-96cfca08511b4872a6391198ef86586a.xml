@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vista móvil"
+    id="id-96cfca08511b4872a6391198ef86586a">
+  <properties
+      key="plataforma"
+      value="js"/>
+</archimate:ApplicationComponent>
