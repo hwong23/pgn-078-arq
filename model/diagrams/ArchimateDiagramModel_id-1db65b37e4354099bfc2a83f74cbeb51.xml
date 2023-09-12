@@ -1,0 +1,51 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migracion.2.SUI módulos. datos SIRI"
+    id="id-1db65b37e4354099bfc2a83f74cbeb51">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-32d58655ccb4438aae72b4592a0ad540"
+      textAlignment="1"
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Entidades de datos de negocio. Submódulos Sistema Único de Información. SIRI&#xA;&#xA;versión 0.1&#xA;">
+    <bounds
+        x="12"
+        y="12"
+        width="229"
+        height="133"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4639847d51114e2cb05b24476109d1f8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-dc814eff12c54e0791d1efd6eb341c33"
+        source="id-4639847d51114e2cb05b24476109d1f8"
+        target="id-585faccc1cd8456bac0f48f5faa5c729">
+      <archimateRelationship
+          xsi:type="archimate:AccessRelationship"
+          href="AccessRelationship_id-fe033bf0726644978a26926bb56b46ec.xml#id-fe033bf0726644978a26926bb56b46ec"/>
+    </sourceConnections>
+    <bounds
+        x="60"
+        y="168"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-8d15cc3bffba405597f85992a1694e70.xml#id-8d15cc3bffba405597f85992a1694e70"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-585faccc1cd8456bac0f48f5faa5c729"
+      targetConnections="id-dc814eff12c54e0791d1efd6eb341c33">
+    <bounds
+        x="300"
+        y="168"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-a0e81e7b722f4ed6b28827f269b8eae7.xml#id-a0e81e7b722f4ed6b28827f269b8eae7"/>
+  </children>
+</archimate:ArchimateDiagramModel>
