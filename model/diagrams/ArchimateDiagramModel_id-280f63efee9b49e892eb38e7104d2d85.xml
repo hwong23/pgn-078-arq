@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguridad. Lineabase.0.SIU applicación"
     id="id-280f63efee9b49e892eb38e7104d2d85"
-    documentation="# Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&#xA;">
+    documentation="## Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-28aa57683ab74742b4c1be16d0eb9d86">
