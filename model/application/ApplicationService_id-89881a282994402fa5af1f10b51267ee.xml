@@ -1,4 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bus de datos"
-    id="id-89881a282994402fa5af1f10b51267ee"/>
+    id="id-89881a282994402fa5af1f10b51267ee"
+    documentation="El patrón de bus de datos tiene el rol de unir y referir a los datos externos al SUI de tal manera que hace transparente la localización y el formato de este tipo de datos.&#xA;"/>

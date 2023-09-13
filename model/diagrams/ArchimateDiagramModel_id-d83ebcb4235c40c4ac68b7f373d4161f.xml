@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.2. datos"
     id="id-d83ebcb4235c40c4ac68b7f373d4161f"
-    documentation="Modelo de acceso y procesamiento a datos de negocio del SUI. Presentamos la organización de los ítems de datos de negocio necesarios para que los módulos del SUI puedan recolectar, procesar, integrary almacenarlos de forma organizada y escalable.&#xA;&#xA;Mediante esta organización, los datos de negocio son transportados desde sus respectivas fuentes mediante interfaces (por principio de extensión y mantenibilidad). Los datos externos, entendidos como los de otros proveedores, son obtenidos mediante un intermediario: el bus de datos del SUI.&#xA;&#xA;Consideramos tres tipos datos: datos transaccionales, históricos y externos, y presentamos una manera distinta de tratarlos y transportarlos.&#xA;">
+    documentation="Modelo de acceso y procesamiento a datos de negocio del SUI. Presentamos la organización de los ítems de datos de negocio necesarios para que los módulos del SUI puedan recolectar, procesar, integrar y almacenarlos de forma organizada y escalable.&#xA;&#xA;Mediante esta organización, los datos de negocio son transportados desde sus respectivas fuentes mediante interfaces (por principio de extensión y mantenibilidad). Los datos externos, entendidos como los de otros proveedores, son obtenidos mediante un intermediario: el bus de datos del SUI.&#xA;&#xA;Consideramos tres tipos datos: datos transaccionales, históricos y externos, y presentamos una manera distinta de tratarlos y transportarlos.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-db57cc08809941a1b6a9c1714e1b75fe">
@@ -322,4 +322,7 @@
         xsi:type="archimate:DataObject"
         href="DataObject_id-16804303a827440183eb1a3c4905c8c6.xml#id-16804303a827440183eb1a3c4905c8c6"/>
   </children>
+  <properties
+      key="ancho"
+      value="5.32"/>
 </archimate:ArchimateDiagramModel>
