@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lineabase.0.SIU applicación.(seguridad)"
+    name="Seguridad. Lineabase.0.SIU applicación"
     id="id-280f63efee9b49e892eb38e7104d2d85"
     documentation="# Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&#xA;">
   <children
@@ -44,8 +44,8 @@
           href="RealizationRelationship_id-be514c8d7e90433d941f629970c95016.xml#id-be514c8d7e90433d941f629970c95016"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="72"
+        x="924"
+        y="60"
         width="372"
         height="252"/>
     <children
@@ -141,8 +141,8 @@
           href="AggregationRelationship_id-5cf8c9334c714040833529199b263632.xml#id-5cf8c9334c714040833529199b263632"/>
     </sourceConnections>
     <bounds
-        x="228"
-        y="72"
+        x="588"
+        y="60"
         width="289"
         height="253"/>
     <children
@@ -252,8 +252,8 @@
           href="AggregationRelationship_id-a3635a2025e947f8b05c0b7454957492.xml#id-a3635a2025e947f8b05c0b7454957492"/>
     </sourceConnections>
     <bounds
-        x="540"
-        y="527"
+        x="900"
+        y="515"
         width="372"
         height="193"/>
     <children
@@ -376,8 +376,8 @@
           href="AggregationRelationship_id-3012ac63e24c402e8629dccbb45546bb.xml#id-3012ac63e24c402e8629dccbb45546bb"/>
     </sourceConnections>
     <bounds
-        x="-132"
-        y="528"
+        x="228"
+        y="516"
         width="648"
         height="192"/>
     <children
@@ -477,8 +477,8 @@
       id="id-0fd0f3dbd44243c7bbb05fb845dabe19"
       targetConnections="id-933d3142c91d43bd8243b9059ddc38ab id-5e87fa8f428c4424b38522d12054329e id-8f12bfd2285741a1854501154d1ba204">
     <bounds
-        x="-108"
-        y="48"
+        x="252"
+        y="36"
         width="120"
         height="55"/>
     <archimateElement
@@ -503,8 +503,8 @@
           href="AssociationRelationship_id-a5d54d657cfe4e5c98027abce6600b77.xml#id-a5d54d657cfe4e5c98027abce6600b77"/>
     </sourceConnections>
     <bounds
-        x="-108"
-        y="120"
+        x="252"
+        y="108"
         width="120"
         height="55"/>
     <archimateElement
@@ -542,8 +542,8 @@
           href="AssociationRelationship_id-46b5cc40254a4f2a8fe12147a96c434a.xml#id-46b5cc40254a4f2a8fe12147a96c434a"/>
     </sourceConnections>
     <bounds
-        x="-312"
-        y="84"
+        x="48"
+        y="72"
         width="120"
         height="55"/>
     <archimateElement
@@ -573,8 +573,8 @@
           href="AssociationRelationship_id-cdf0c64713e2444f8e043fd99935c919.xml#id-cdf0c64713e2444f8e043fd99935c919"/>
     </sourceConnections>
     <bounds
-        x="-348"
-        y="528"
+        x="12"
+        y="516"
         width="156"
         height="192"/>
     <children
@@ -634,8 +634,8 @@
           href="AssociationRelationship_id-9b5ace8262c440fdb6bb30718aeb06dc.xml#id-9b5ace8262c440fdb6bb30718aeb06dc"/>
     </sourceConnections>
     <bounds
-        x="60"
-        y="84"
+        x="420"
+        y="72"
         width="120"
         height="55"/>
     <archimateElement
@@ -647,8 +647,8 @@
       id="id-f9fff65b39b64fe198a8a0f000dd7938"
       targetConnections="id-4fd442e769bc4c9aadb9fc8a6860e733 id-5d9c9312b3224991998caec6584fa6d5">
     <bounds
-        x="540"
-        y="768"
+        x="900"
+        y="756"
         width="398"
         height="55"/>
     <archimateElement
@@ -677,8 +677,8 @@
           href="AssociationRelationship_id-c25dcf267fe143c699fa6bc762089d51.xml#id-c25dcf267fe143c699fa6bc762089d51"/>
     </sourceConnections>
     <bounds
-        x="-156"
-        y="768"
+        x="204"
+        y="756"
         width="637"
         height="55"/>
     <archimateElement
@@ -691,8 +691,8 @@
       textAlignment="1"
       content="Red Privada Virtual (VPN)">
     <bounds
-        x="444"
-        y="739"
+        x="804"
+        y="727"
         width="157"
         height="30"/>
   </children>
@@ -700,8 +700,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4d4dfacb3e5e4fe4a30ebee05329c981">
     <bounds
-        x="-12"
-        y="264"
+        x="348"
+        y="252"
         width="120"
         height="55"/>
     <archimateElement
@@ -712,8 +712,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-43fb2392cf894227bd28a6af366cbd95">
     <bounds
-        x="768"
-        y="348"
+        x="1128"
+        y="336"
         width="97"
         height="49"/>
     <archimateElement
@@ -724,8 +724,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7a80f056ad254e829ad2f4e7fb88cae3">
     <bounds
-        x="-227"
-        y="144"
+        x="133"
+        y="132"
         width="120"
         height="55"/>
     <archimateElement
@@ -769,8 +769,8 @@
           href="AssociationRelationship_id-80f41c78d7e54b90abe2a3a6df120216.xml#id-80f41c78d7e54b90abe2a3a6df120216"/>
     </sourceConnections>
     <bounds
-        x="-114"
-        y="444"
+        x="246"
+        y="432"
         width="163"
         height="43"/>
     <archimateElement
@@ -781,8 +781,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a1a7f24c355140b0a03cddcce9140eeb">
     <bounds
-        x="768"
-        y="414"
+        x="1128"
+        y="402"
         width="120"
         height="55"/>
     <archimateElement
@@ -793,8 +793,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-8eff501ea9ac456ca0e0ea88a7db52aa">
     <bounds
-        x="-19"
-        y="372"
+        x="341"
+        y="360"
         width="134"
         height="61"/>
     <archimateElement
