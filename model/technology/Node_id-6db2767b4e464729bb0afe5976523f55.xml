@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servidor Lappiz "
-    id="id-6db2767b4e464729bb0afe5976523f55"/>
+    id="id-6db2767b4e464729bb0afe5976523f55"
+    documentation="Sistema Operativo Windows Server 2019 Standard o Datacenter x64. RAM 8 GB. CPU 64 Bits, 4 Cores > 2 Ghz&#xA;Discos&#x9;SO C: 120 GB,  D: 16 GB.&#xA;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servidor BDD App"
-    id="id-63f889359eb8483488d2c6232d34f986"/>
+    id="id-63f889359eb8483488d2c6232d34f986"
+    documentation="Sistema Operativo Windows Server 2019 Standard o Datacenter x64. RAM&#x9;8 GB. CPU 64 Bits, 4 Cores > 2 Ghz&#xA;Discos&#x9;SO C: 126 GB, Backup E: 511 GB, SQL Data F: 510 GB, SQL Log   G: 510 GB, TempDB  G: 63.6 GB.&#xA;"/>

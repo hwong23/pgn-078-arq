@@ -1,4 +1,5 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servidor Web App"
-    id="id-dcce32de573248c796f88110aeb95afa"/>
+    id="id-dcce32de573248c796f88110aeb95afa"
+    documentation="Windows Server 2019 Standard o Datacenter x64. Nombre físico. IP LAN. IP Pública. Windows Server 2019 Standard or Datacenter x64. RAM&#x9;8  GB. CPU&#x9;64 Bits. 4 Cores de 2 Ghz. Discos&#x9;SO C: 126 GB. SO D: 16 GB.&#xA;"/>
