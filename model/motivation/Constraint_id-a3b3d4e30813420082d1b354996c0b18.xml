@@ -1,4 +1,5 @@
 <archimate:Constraint
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Riesgos Migración Funcional SIU"
-    id="id-a3b3d4e30813420082d1b354996c0b18"/>
+    id="id-a3b3d4e30813420082d1b354996c0b18"
+    documentation="Conjunto de riesgos técnicos y arquitectura. Proyecto Migración SUI 2023, PGN.&#xA;&#xA;"/>
