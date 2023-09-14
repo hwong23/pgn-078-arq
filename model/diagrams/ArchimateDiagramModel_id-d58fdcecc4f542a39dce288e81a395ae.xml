@@ -62,9 +62,9 @@
         id="id-dcecf90b9cc141139ee7695d1c68a83b"
         targetConnections="id-63fb7309f3364f778df4f8665b4d122d">
       <bounds
-          x="24"
+          x="12"
           y="48"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -75,9 +75,9 @@
         id="id-f1e594a7bc38492e97c62ffe188bdcab"
         targetConnections="id-ddeb164c521a4b4dac4157635fce47e4">
       <bounds
-          x="168"
+          x="156"
           y="48"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -88,9 +88,9 @@
         id="id-60bc31e4d6ba4d5fa23d95f4b2d9f250"
         targetConnections="id-b50c47ff7cda4949bd075ee9d13ddb6f">
       <bounds
-          x="312"
+          x="300"
           y="48"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -101,9 +101,9 @@
         id="id-c2747a857a2b4537920c87d602781980"
         targetConnections="id-e20ff730515e4daaa03942f6f2d74e64">
       <bounds
-          x="24"
+          x="12"
           y="120"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
@@ -114,9 +114,9 @@
         id="id-f169250429e94b09ac2072ceb8ade64b"
         targetConnections="id-8f78880740304412b8617cdaa67d16d1">
       <bounds
-          x="168"
+          x="156"
           y="120"
-          width="120"
+          width="132"
           height="55"/>
       <archimateElement
           xsi:type="archimate:Constraint"
