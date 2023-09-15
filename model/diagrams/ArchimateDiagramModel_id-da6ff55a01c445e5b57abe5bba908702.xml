@@ -79,4 +79,7 @@
   <properties
       key="devdoc"
       value="04n.1a.datos.md"/>
+  <properties
+      key="rutaMac"
+      value="/Users/hwo/Downloads/tmpr/pgnmd/"/>
 </archimate:ArchimateDiagramModel>

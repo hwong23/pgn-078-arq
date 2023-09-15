@@ -55,4 +55,7 @@
   <properties
       key="devdoc"
       value="03n.infra.md"/>
+  <properties
+      key="rutaMac"
+      value="/Users/hwo/Downloads/tmpr/pgnmd/"/>
 </archimate:ArchimateDiagramModel>
