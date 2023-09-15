@@ -235,4 +235,7 @@
   <properties
       key="rutaMac"
       value="/Users/hwo/Downloads/tmpr/pgnmd/"/>
+  <properties
+      key="alias"
+      value="arqdoc"/>
 </archimate:ArchimateDiagramModel>
