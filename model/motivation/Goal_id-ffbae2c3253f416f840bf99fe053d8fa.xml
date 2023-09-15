@@ -1,11 +1,11 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Diseño de flujos de Conciliación"
-    id="id-eedcc9a81f674e2683c8ad5e272ee6f9">
+    name="Gestión documental"
+    id="id-ffbae2c3253f416f840bf99fe053d8fa">
   <properties
       key="modulo"
       value="relatoria"/>
   <properties
       key="caracteristica"
-      value="técnica, integración"/>
+      value="seguridad"/>
 </archimate:Goal>

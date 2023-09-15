@@ -1,7 +1,7 @@
 <archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Flujo de trabajo Intervención"
-    id="id-4aaa3080163e4b6e8ece0d8f2730632c">
+    name="Motor de flujo de trabajo"
+    id="id-d155a9d7e59044c58be983c0e2c29f4c">
   <properties
       key="modulo"
       value="relatoria"/>
