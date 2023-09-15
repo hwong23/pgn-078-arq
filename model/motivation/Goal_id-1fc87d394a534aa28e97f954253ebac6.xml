@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sincronización (actualizcn) (copy)"
+    id="id-1fc87d394a534aa28e97f954253ebac6">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

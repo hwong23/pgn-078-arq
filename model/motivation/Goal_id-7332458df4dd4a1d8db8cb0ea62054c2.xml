@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Descripción (metatada) (copy)"
+    id="id-7332458df4dd4a1d8db8cb0ea62054c2">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

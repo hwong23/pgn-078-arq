@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recolección (copy)"
+    id="id-cd866ae3c54d48ef929b9d55f3f7bc75">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Autenticación (copy)"
+    id="id-cdb41fa9696442899e18083ff4d1b159">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="seguridad"/>
+</archimate:Goal>

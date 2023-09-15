@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integridad (copy)"
+    id="id-62cefece00694b3abf0e3f9d55d21897">
+  <properties
+      key="modulo"
+      value="relatoria"/>
+  <properties
+      key="caracteristica"
+      value="seguridad"/>
+</archimate:Goal>
