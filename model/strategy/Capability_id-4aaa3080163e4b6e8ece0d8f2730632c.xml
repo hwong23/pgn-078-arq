@@ -1,8 +1,8 @@
-<archimate:Value
+<archimate:Capability
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Flujo de trabajo Intervención. Conciliación v0.1 (copy)"
-    id="id-d6cd523d8e504703b9f7034df225434d">
+    id="id-4aaa3080163e4b6e8ece0d8f2730632c">
   <properties
       key="modulo"
       value="relatoria"/>
-</archimate:Value>
+</archimate:Capability>

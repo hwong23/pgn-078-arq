@@ -1,11 +1,11 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Autenticación"
-    id="id-cdb41fa9696442899e18083ff4d1b159">
+    name="Informes de gestión flujos"
+    id="id-68a461428b0b4026b8e7f82bb4fcb288">
   <properties
       key="modulo"
       value="relatoria"/>
   <properties
       key="caracteristica"
-      value="seguridad"/>
+      value="técnica, integración"/>
 </archimate:Goal>
