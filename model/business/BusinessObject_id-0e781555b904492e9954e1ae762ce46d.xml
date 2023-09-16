@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ofuscamiento de datos"
-    id="id-0e781555b904492e9954e1ae762ce46d"/>
+    id="id-0e781555b904492e9954e1ae762ce46d"
+    documentation="Pemitirá enmascarar los datos a nivel de columna, teniendo en cuenta el enmascaramiento dinamico de datos (DDM)."/>
