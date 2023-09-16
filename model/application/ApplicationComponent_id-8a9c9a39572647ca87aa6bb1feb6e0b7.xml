@@ -1,5 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BD PRD"
-    id="id-8a9c9a39572647ca87aa6bb1feb6e0b7"
-    documentation="Migración de base de Datos hacia la nube de Azure., El cual deberá tener Seguridad a nivel de filas (RLS)  garantizando que los usuarios solo puedan ver el registro que les pertenece y  a nivel de Columnas con el fin de proteger los datos de la PGN, sean Numeros de indentificacion, telefono movil y otra informacion sensible.  "/>
