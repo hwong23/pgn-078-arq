@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Roles de Key Vault"
-    id="id-f0705dec307b4840b77197408de0da82"/>
+    id="id-f0705dec307b4840b77197408de0da82"
+    documentation="Control de acceso que define los roles y los privilegios para determinar si a un usuario se le debe dar acceso a un recurso"/>

@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión de funcionarios PGN"
     id="id-56aeca720e174ddfac4e4b440adeaac7"
-    documentation="Se inculye la gestión por parte de los funcionarios de la Procuraduuría General de la Nación PGN, para el ingreso al Gestor de Base de Datos. "/>
+    documentation="La autenticacion de usuarios estará enmarcada en en tres factores de autenticación a partir del controlador de Dominio, y el acceso por VPN."/>

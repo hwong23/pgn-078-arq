@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Autenticación"
-    id="id-58555a7916044ec0a9692f50507812a1"/>
+    id="id-58555a7916044ec0a9692f50507812a1"
+    documentation="Los tipos de autenticacion realizadas a partir de las identidades adminsitradas de los recursos de Azure, entidades de Servicio y Certificado y entidaded de servicio secreto.&#xD;&#xA;"/>

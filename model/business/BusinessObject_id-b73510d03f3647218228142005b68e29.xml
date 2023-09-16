@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cifrado de datos"
-    id="id-b73510d03f3647218228142005b68e29"/>
+    id="id-b73510d03f3647218228142005b68e29"
+    documentation="Establecer mecanismos de cifrado, como el protocolo TLS ( Transport Layer Security) que permite a dos partes identificarse y autenticarse entre sí y comunicarse con confidencialidad e integridad de datos a partir de la conexión del usuario y un servidor WEB."/>

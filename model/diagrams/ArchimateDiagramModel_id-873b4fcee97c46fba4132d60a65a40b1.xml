@@ -479,8 +479,8 @@
       textAlignment="1"
       content="Directorio Activo&#xD;&#xA; (Azure AD) ">
     <bounds
-        x="455"
-        y="373"
+        x="462"
+        y="301"
         width="122"
         height="48"/>
   </children>

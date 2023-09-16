@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cifrado de Datos en tránsito"
-    id="id-d8d164d1c1a24845bee62fda7ce92322"/>
+    id="id-d8d164d1c1a24845bee62fda7ce92322"
+    documentation="Establecer mecanismos de cifrado, como el protocolo TLS ( Transport Layer Security) que permite a dos partes identificarse y autenticarse entre sí y comunicarse con confidencialidad e integridad de datos a partir de la conexión del usuario y un servidor WEB."/>
