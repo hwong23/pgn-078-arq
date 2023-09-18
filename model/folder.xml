@@ -6,7 +6,4 @@
     version="4.9.0">
   <properties
       key="rutaWindows"/>
-  <properties
-      key="rutaMac"
-      value="/Users/hwo/Downloads/tmpr/pgnmd/"/>
 </archimate:ArchimateModel>
