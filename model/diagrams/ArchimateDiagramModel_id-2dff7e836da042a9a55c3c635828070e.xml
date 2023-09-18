@@ -391,8 +391,8 @@
     <bounds
         x="963"
         y="660"
-        width="137"
-        height="55"/>
+        width="154"
+        height="61"/>
     <archimateElement
         xsi:type="archimate:Capability"
         href="Capability_id-ecd67e46508547f59761a3a2f7160f6c.xml#id-ecd67e46508547f59761a3a2f7160f6c"/>
