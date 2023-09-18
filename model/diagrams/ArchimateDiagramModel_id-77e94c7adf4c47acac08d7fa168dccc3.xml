@@ -17,7 +17,7 @@
           href="AssociationRelationship_id-c65c37ca90e846308865ff0147a544ab.xml#id-c65c37ca90e846308865ff0147a544ab"/>
     </sourceConnections>
     <bounds
-        x="24"
+        x="60"
         y="372"
         width="120"
         height="55"/>
@@ -30,7 +30,7 @@
       id="id-5b94b10f55a842f8b2177aaa0ae37a22"
       targetConnections="id-43ef41de83fd40bfa4e4738f66ca9246 id-32ed6bc5c3e8434699c12fc70a5b1db6">
     <bounds
-        x="384"
+        x="408"
         y="372"
         width="120"
         height="55"/>
@@ -51,7 +51,7 @@
           href="AssociationRelationship_id-17381ac616f841309e3bd82470c89070.xml#id-17381ac616f841309e3bd82470c89070"/>
     </sourceConnections>
     <bounds
-        x="384"
+        x="408"
         y="204"
         width="120"
         height="55"/>
@@ -75,7 +75,7 @@
     <bounds
         x="212"
         y="204"
-        width="120"
+        width="149"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
@@ -115,7 +115,7 @@
           href="AssociationRelationship_id-a4b5c2c58efe4a9895e2f20f3899067e.xml#id-a4b5c2c58efe4a9895e2f20f3899067e"/>
     </sourceConnections>
     <bounds
-        x="193"
+        x="208"
         y="492"
         width="157"
         height="55"/>
@@ -158,7 +158,7 @@
           href="AssociationRelationship_id-0fa28d913a2a443295db9a802a795d17.xml#id-0fa28d913a2a443295db9a802a795d17"/>
     </sourceConnections>
     <bounds
-        x="193"
+        x="208"
         y="372"
         width="157"
         height="55"/>
@@ -170,7 +170,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b9419e9e429c4aebaef6928700c801b8"
       textAlignment="1"
-      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;Gestión de riesgos técnicos. RSG10. Validación decisiones de arquitectura. Agentes del riesgo, valoración, plan de acción.&#xA;&#xA;versión 0.11&#xA;">
+      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;Gestión de riesgos técnicos. RSG10. Validación decisiones de arquitectura. Agentes del riesgo, valoración, plan de acción.&#xA;&#xA;versión 0.5&#xA;">
     <bounds
         x="12"
         y="12"
