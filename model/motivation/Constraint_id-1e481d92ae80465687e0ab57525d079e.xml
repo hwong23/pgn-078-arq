@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RSG6. Componentes de negocio"
     id="id-1e481d92ae80465687e0ab57525d079e"
-    documentation="Discutir la arquitectura de referencia de SUI Migración PGN. La arquitectura de referencia SUI informa de todas las fortalezas y consideraciones estructurales y de sistema, como extensibilidad, rendimiento y seguridad, que regirán a todos los módulos del SUI migrado.&#xA;&#xA;"/>
+    documentation="Discutir la arquitectura de referencia de SUI Migración PGN. La arquitectura de referencia SUI informa de todas las fortalezas y consideraciones estructurales y de sistema, como extensibilidad, rendimiento y seguridad, que regirán a todos los módulos del SUI migrado.&#xA;&#xA;Algunos componentes requeridos son:&#xA;&#xA;* Administración de autorizaciones (integrado con el directorio PGN)&#xA;* Motor de flujos de trabajo para diseño y organización del trabajo (Conciliación)&#xA;* Componente de ruteo de documentos (Relatoría)&#xA;&#xA;"/>
