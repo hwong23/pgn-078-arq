@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BD SQL Server Hominis"
+    name="Migracion.2d. datos SIM"
     id="id-5f6183bf4bd84a1da1c33f8273c4c47b"
     documentation="Identificación de entidades de datos de negocio relacionadas al módulo de SUI, SIM.&#xA;&#xA;Estas entidades de datos de negocio son los que llamamos los tipos de datos internos del SUI y deben ser consideradas para la creación de las API de manejo del ciclo de vida de los datos de este módulo. &#xA;">
   <children
