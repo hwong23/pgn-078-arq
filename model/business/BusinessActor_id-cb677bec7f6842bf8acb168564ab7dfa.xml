@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security Administrator"
+    id="id-cb677bec7f6842bf8acb168564ab7dfa"
+    documentation="La autenticacion de usuarios estará enmarcada en en tres factores de autenticación:&#xD;&#xA;control de acceso basado en roles (RBAC), mecanismo de control de acceso que define los roles y los privilegios para determinar si a un usuario se le debe dar acceso a un recurso.&#xD;&#xA;Conexión de accecso por DA de Azure: Servicio de administración de acceso e identidades basado en la nube.&#xD;&#xA;Red Privada Virtual de Azure:  bloque de compilación fundamental para las redes privadas en Azure"/>
