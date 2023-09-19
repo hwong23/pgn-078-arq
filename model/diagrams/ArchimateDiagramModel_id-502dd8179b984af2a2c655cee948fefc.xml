@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguridad. Lineabase.1a.SIU componentes"
+    name="Seguridad. Lineabase.1a.SIU componentes (eliminar)"
     id="id-502dd8179b984af2a2c655cee948fefc"
     documentation="Dependencias de infraestructura entre los servicios que integran el modelo de aplicación de SUI, Migración. &#xA;&#xA;* Servidor de Canales (App PGN web y móvil)&#xA;* Servidor Web App (App SUI)&#xA;* Servidor Lappiz (Config SUI)&#xA;* Servidor BDD App (Transaccional)&#xA;* Servidor BDD Config (Configuración)&#xA;&#xA;">
   <children
