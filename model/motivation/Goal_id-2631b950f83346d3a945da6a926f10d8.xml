@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Código (autoincremental) (copy)"
+    id="id-2631b950f83346d3a945da6a926f10d8"
+    documentation="Generación automática de códigos que se reinician cada año.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

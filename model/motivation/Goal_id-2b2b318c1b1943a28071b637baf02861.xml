@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Movimiento devolutivo (copy)"
+    id="id-2b2b318c1b1943a28071b637baf02861"
+    documentation="Registro de movimientos devolutivos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

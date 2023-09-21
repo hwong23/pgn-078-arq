@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vista tipo formulario personalizada (copy)"
+    id="id-2b2a08bb15354bb9a95ecad44f97e7f9"
+    documentation="Personalización de formularios para ingresar datos relacionados con los asientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

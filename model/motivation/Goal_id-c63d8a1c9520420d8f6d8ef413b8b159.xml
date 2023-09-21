@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Creación de movimiento (copy)"
+    id="id-c63d8a1c9520420d8f6d8ef413b8b159"
+    documentation="Generación de movimientos de acuerdo con los asientos abiertos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

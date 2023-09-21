@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sincronización con Homminis (copy)"
+    id="id-45ebb30a7dc244688c6894f7a2999b42"
+    documentation="Sincronización de datos con el sistema Homminis.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>
