@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planes asociar"
+    id="id-ffaf48b76a9b41f591c0b7febeb38263"
+    documentation="Asociar recursos, presupuesto.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

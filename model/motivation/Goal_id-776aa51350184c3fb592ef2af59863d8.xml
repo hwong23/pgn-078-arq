@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organizaciones"
+    id="id-776aa51350184c3fb592ef2af59863d8"
+    documentation="Estructura principal.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

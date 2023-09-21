@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Históricos"
+    id="id-ac423dc2a0274613bdbf5538fd15c06e"
+    documentation="Almacenar y consultar históricos dentro del sistema">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

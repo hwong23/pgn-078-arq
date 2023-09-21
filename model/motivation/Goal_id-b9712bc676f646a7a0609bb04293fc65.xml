@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informes"
+    id="id-b9712bc676f646a7a0609bb04293fc65"
+    documentation="Generar documentos con los informes correspondientes.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>
