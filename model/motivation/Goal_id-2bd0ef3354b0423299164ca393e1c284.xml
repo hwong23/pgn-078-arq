@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Elementos"
+    id="id-2bd0ef3354b0423299164ca393e1c284"
+    documentation="Registro de elementos relacionados con los movimientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

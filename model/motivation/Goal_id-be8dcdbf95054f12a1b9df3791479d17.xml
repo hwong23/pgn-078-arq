@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Login (Doble factor)"
+    id="id-be8dcdbf95054f12a1b9df3791479d17"
+    documentation="Autenticación de usuario mediante doble factor de seguridad">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

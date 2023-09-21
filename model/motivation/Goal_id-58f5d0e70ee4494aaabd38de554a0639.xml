@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dependiendo del tipo de movimiento"
+    id="id-58f5d0e70ee4494aaabd38de554a0639"
+    documentation="Gestión de movimientos según su tipo, incluyendo elementos como conceptos, beneficiarios y funcionarios (maestros).">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>
