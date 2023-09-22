@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funcionarios (Nómina) vs Funcionarios (Siaf)"
+    id="id-60431e19793646fe93618af0c73e5025"
+    documentation="Comparación y actualización de información de funcionarios almacenada en Siaf con la información de nómina.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

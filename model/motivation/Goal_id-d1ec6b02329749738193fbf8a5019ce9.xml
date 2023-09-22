@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planes generar"
+    id="id-d1ec6b02329749738193fbf8a5019ce9"
+    documentation="Generar planes estratégicos institucionales y asociar los planes de acción preventivos.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

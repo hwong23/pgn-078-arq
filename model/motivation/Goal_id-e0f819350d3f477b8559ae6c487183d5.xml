@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Dependencias"
+    id="id-e0f819350d3f477b8559ae6c487183d5"
+    documentation="Reportar al sistema, actividades, proyectos, indicadores.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

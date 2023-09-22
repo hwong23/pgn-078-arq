@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Filtrar por campos (copy)"
+    id="id-65c5d0abbc4b4a698be7a5a9014b846e"
+    documentation="Capacidad para filtrar los movimientos devolutivos según campos específicos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

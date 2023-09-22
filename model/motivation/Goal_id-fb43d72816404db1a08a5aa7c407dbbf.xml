@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cálculo de total (copy)"
+    id="id-fb43d72816404db1a08a5aa7c407dbbf"
+    documentation="Cálculo automático del total basado en la información de elementos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generar reportes"
+    id="id-e3353059d91d44189e101c989ad22d6f"
+    documentation="Creación de informes y reportes para proporcionar la información solicitada.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>
