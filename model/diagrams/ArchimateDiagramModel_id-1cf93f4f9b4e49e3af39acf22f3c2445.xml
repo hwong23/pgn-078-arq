@@ -156,7 +156,7 @@
         x="324"
         y="12"
         width="648"
-        height="1420"/>
+        height="1345"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0700309c792b4cfead7581809527f52e"
@@ -189,8 +189,8 @@
             href="AggregationRelationship_id-7d26f0d98cba4b18ade87b08c736d66b.xml#id-7d26f0d98cba4b18ade87b08c736d66b"/>
       </sourceConnections>
       <bounds
-          x="24"
-          y="1044"
+          x="22"
+          y="948"
           width="541"
           height="162"/>
       <children
@@ -340,7 +340,7 @@
       </sourceConnections>
       <bounds
           x="22"
-          y="924"
+          y="864"
           width="171"
           height="55"/>
       <archimateElement
@@ -361,8 +361,8 @@
             href="AssociationRelationship_id-2dcefef93cb74b8095be8689b1faa009.xml#id-2dcefef93cb74b8095be8689b1faa009"/>
       </sourceConnections>
       <bounds
-          x="252"
-          y="924"
+          x="251"
+          y="864"
           width="140"
           height="55"/>
       <archimateElement
@@ -384,7 +384,7 @@
       </sourceConnections>
       <bounds
           x="403"
-          y="924"
+          y="864"
           width="140"
           height="55"/>
       <archimateElement
@@ -644,8 +644,8 @@
             href="AssociationRelationship_id-c50a343dbd5044d08be17501b313c95f.xml#id-c50a343dbd5044d08be17501b313c95f"/>
       </sourceConnections>
       <bounds
-          x="48"
-          y="1248"
+          x="54"
+          y="1176"
           width="120"
           height="55"/>
       <archimateElement
@@ -668,7 +668,7 @@
       </sourceConnections>
       <bounds
           x="204"
-          y="1248"
+          y="1176"
           width="120"
           height="55"/>
       <archimateElement
@@ -691,7 +691,7 @@
       </sourceConnections>
       <bounds
           x="378"
-          y="1248"
+          y="1176"
           width="120"
           height="55"/>
       <archimateElement
@@ -731,8 +731,8 @@
             href="AssociationRelationship_id-4acbddd8135d462c9050054c94013e9b.xml#id-4acbddd8135d462c9050054c94013e9b"/>
       </sourceConnections>
       <bounds
-          x="203"
-          y="1344"
+          x="208"
+          y="1272"
           width="121"
           height="49"/>
       <archimateElement
