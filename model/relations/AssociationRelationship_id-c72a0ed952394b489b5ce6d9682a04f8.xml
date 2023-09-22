@@ -1,7 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-c72a0ed952394b489b5ce6d9682a04f8">
+    id="id-c72a0ed952394b489b5ce6d9682a04f8"
+    documentation="Principios que permiten optimizar la navegación, para que sea sencilla, intuitiva, agradable y Segura.">
   <properties
       key="modulo"
       value="relatoria"/>
