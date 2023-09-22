@@ -697,8 +697,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-82a329051b6d412e84fcf1640d1a79a0"
-        targetConnections="id-010b2f5200c842cfab6ec6a223c29f92 id-7ad757bc190d4272ace38422e694eed2"
-        fillColor="#ffffff">
+        targetConnections="id-010b2f5200c842cfab6ec6a223c29f92 id-7ad757bc190d4272ace38422e694eed2">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-972ffeee799d4380a1f6b4644c50dc2e"
@@ -876,8 +875,8 @@
         id="id-3fd376e97b5d4d869ee35f2473f97cc9"
         targetConnections="id-5cae725a6efb4d0fac373282510ef7ca">
       <bounds
-          x="48"
-          y="864"
+          x="47"
+          y="888"
           width="120"
           height="55"/>
       <archimateElement
@@ -889,8 +888,8 @@
         id="id-9cdd5c4c80914fa491e80b1f92849e65"
         targetConnections="id-52213ad9c9bf4a14a07ac2fec91cd0f7 id-c4a2680451644524b50ac014679a9c2f">
       <bounds
-          x="84"
-          y="768"
+          x="48"
+          y="780"
           width="120"
           height="55"/>
       <archimateElement
@@ -902,7 +901,7 @@
         id="id-08deeead5e6146adaa86eee7297bbab9"
         targetConnections="id-537bc8f1213345f1bbb5b7866250840e id-f15d2bdb9ee7492f80dc136177325871 id-2721915c639544839790547f40f0420c">
       <bounds
-          x="48"
+          x="47"
           y="696"
           width="120"
           height="55"/>
@@ -924,8 +923,8 @@
             href="AssociationRelationship_id-f00f53ef721f438c9b7bfeaa7b862fc6.xml#id-f00f53ef721f438c9b7bfeaa7b862fc6"/>
       </sourceConnections>
       <bounds
-          x="66"
-          y="600"
+          x="48"
+          y="576"
           width="120"
           height="55"/>
       <archimateElement
@@ -946,7 +945,7 @@
       </sourceConnections>
       <bounds
           x="144"
-          y="660"
+          y="636"
           width="120"
           height="55"/>
       <archimateElement
@@ -956,8 +955,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ee6ae78cf48040c289b1e9f150499f84"
-        targetConnections="id-e2aebde1f3b94bf5ad5c1b062a26307d"
-        fillColor="#f3f1ab">
+        targetConnections="id-e2aebde1f3b94bf5ad5c1b062a26307d">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-c4a2680451644524b50ac014679a9c2f"
@@ -986,10 +984,10 @@
             href="AssociationRelationship_id-30ef9a89e6a14d92a84feac3828414fa.xml#id-30ef9a89e6a14d92a84feac3828414fa"/>
       </sourceConnections>
       <bounds
-          x="36"
+          x="15"
           y="1080"
-          width="180"
-          height="48"/>
+          width="186"
+          height="55"/>
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-369f1b00133b4d6baf551dfff77cbe53.xml#id-369f1b00133b4d6baf551dfff77cbe53"/>
@@ -1000,7 +998,7 @@
         textAlignment="1"
         content="VPN">
       <bounds
-          x="24"
+          x="48"
           y="1032"
           width="69"
           height="40"/>
