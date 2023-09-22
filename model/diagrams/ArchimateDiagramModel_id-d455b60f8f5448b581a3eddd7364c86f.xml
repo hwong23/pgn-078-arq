@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Organización. 1n.1. Mapa producto PGN. Relatoría (seguridad)"
+    name="Seguridad.Organización. 1n.1. Mapa producto PGN. Relatoría"
     id="id-d455b60f8f5448b581a3eddd7364c86f"
     documentation="Organización y distribución de las características técnicas y funcionales del módulo de Relatoría. &#xA;&#xA;Características principales:&#xA;* Utilización de metadatos&#xA;* Búsqueda de contenido (intradocumental y por metadatos)&#xA;* Procesos de recolección y sincronización de contenidos&#xA;&#xA;De arriba a abajo: &#xA;1. Fila 1, planificación de espacios de trabajo (iteraciones, para este caso) restringido al alcance del proyecto Migración PGN 2023.&#xA;1. Debajo, lo hitos importantes organizados en el tiempo.&#xA;1. Fila 3. Evolución de las características en los aspectos funcionales, técnico, hardware y software del módulo Relatoría de PGN. &#xA;1. FInalmente, fila final del diagrama, la entrega en el tiempo de las capacidades del módulo de relatoría (épicas, para el caso de Scrum). La prioridad de liberación de estas la determina el equipo funcional de este módulo de la PGN.&#xA;&#xA;&lt;br>&#xA;">
   <children
