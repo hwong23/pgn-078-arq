@@ -6,6 +6,6 @@
       xsi:type="archimate:Constraint"
       href="Constraint_id-3656f8584ed1491ca55f52dff41db454.xml#id-3656f8584ed1491ca55f52dff41db454"/>
   <target
-      xsi:type="archimate:Goal"
-      href="Goal_id-d59dc522330e44f5a2f0c996e9603913.xml#id-d59dc522330e44f5a2f0c996e9603913"/>
+      xsi:type="archimate:Constraint"
+      href="Constraint_id-669f4f5fcd194e898a1550e05474a81c.xml#id-669f4f5fcd194e898a1550e05474a81c"/>
 </archimate:AssociationRelationship>
