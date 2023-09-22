@@ -244,7 +244,7 @@
       <bounds
           x="96"
           y="348"
-          width="80"
+          width="72"
           height="24"/>
     </children>
     <children
@@ -1255,137 +1255,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationService"
         href="ApplicationService_id-7b5170b02a4b45bda1d0fb537b34aaaf.xml#id-7b5170b02a4b45bda1d0fb537b34aaaf"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-533094d574194861996558a6b01cdba5"
-      textAlignment="1"
-      content="Network Agent, Analizador de acceso a la red. SIEM- EDR">
-    <bounds
-        x="225"
-        y="1432"
-        width="145"
-        height="60"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-879b71bbeb234acfbbf197819073d3e5"
-      fillColor="#ffffff">
-    <bounds
-        x="585"
-        y="1444"
-        width="349"
-        height="49"/>
-    <archimateElement
-        xsi:type="archimate:Node"
-        href="Node_id-9b7192ec1b634984937fa4caefb2be4a.xml#id-9b7192ec1b634984937fa4caefb2be4a"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-1a089dd775f74a63b69c3d73014bd2e6"
-      fillColor="#ffffff">
-    <bounds
-        x="234"
-        y="1516"
-        width="127"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:Resource"
-        href="Resource_id-2c4139531bd94f568e560cd2854db2fd.xml#id-2c4139531bd94f568e560cd2854db2fd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-368d5278b4ab43da9f1e9f8dbe94297d"
-      fillColor="#ffffff">
-    <bounds
-        x="348"
-        y="1516"
-        width="109"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:Resource"
-        href="Resource_id-af8bd36e8afe40d4bd2ccbd1802001a6.xml#id-af8bd36e8afe40d4bd2ccbd1802001a6"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-2a9b1b04666547bdaa4b3360dc38a943"
-      fillColor="#ffffff">
-    <bounds
-        x="570"
-        y="1516"
-        width="109"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:Resource"
-        href="Resource_id-6f6d73f90b244e1b8320a03a6ef339fd.xml#id-6f6d73f90b244e1b8320a03a6ef339fd"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b6c3187bc06543008dc996f1a09c6534"
-      fillColor="#ffffff">
-    <bounds
-        x="708"
-        y="1516"
-        width="109"
-        height="25"/>
-    <archimateElement
-        xsi:type="archimate:Resource"
-        href="Resource_id-ab1959ed35ec40f9bcc7e958632ad416.xml#id-ab1959ed35ec40f9bcc7e958632ad416"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-25bf2772bdab40a18bc937e410471f5f"
-      textAlignment="1"
-      content="HTTPS">
-    <bounds
-        x="570"
-        y="1572"
-        width="81"
-        height="24"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-aad5f4ee515444d4867caddc4929f040"
-      textAlignment="1"
-      content="SSL">
-    <bounds
-        x="477"
-        y="1572"
-        width="80"
-        height="24"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-3543780636b243d8b5dd2f23e81653c3"
-      textAlignment="1"
-      content="TLS">
-    <bounds
-        x="571"
-        y="1572"
-        width="80"
-        height="24"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-6c6095428475455780aeb7014cd5236b"
-      textAlignment="1"
-      content="HTTPS">
-    <bounds
-        x="877"
-        y="1572"
-        width="81"
-        height="24"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-97c99c4100f9435da83d13ca442d5514"
-      textAlignment="1"
-      content="TLS">
-    <bounds
-        x="878"
-        y="1572"
-        width="80"
-        height="24"/>
   </children>
   <properties
       key="plataforma"
