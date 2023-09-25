@@ -253,4 +253,7 @@
   <properties
       key="plantilla"
       value="documentation-md-dv"/>
+  <properties
+      key="plantillaElm"
+      value="elementtabla-md, element-md"/>
 </archimate:ArchimateDiagramModel>
