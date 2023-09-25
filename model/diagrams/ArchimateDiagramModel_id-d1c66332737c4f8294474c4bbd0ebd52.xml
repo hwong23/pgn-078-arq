@@ -250,4 +250,7 @@
         width="301"
         height="145"/>
   </children>
+  <properties
+      key="plantilla"
+      value="documentation-md-dv"/>
 </archimate:ArchimateDiagramModel>
