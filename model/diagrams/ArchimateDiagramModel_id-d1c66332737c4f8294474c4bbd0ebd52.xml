@@ -255,5 +255,5 @@
       value="documentation-md-dv"/>
   <properties
       key="plantillaElm"
-      value="elementtabla-md,element-new-md"/>
+      value="elementtabla-md,element-md-new"/>
 </archimate:ArchimateDiagramModel>
