@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Modelo (neg)"
-    id="id-5b6b90ddf00f4e06afc1d6c814c012d5">
-  <properties
-      key="plataforma"
-      value="cs"/>
-</archimate:ApplicationComponent>

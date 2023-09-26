@@ -208,6 +208,18 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-0a69b0910ac44fbdb81e3c12def58d60.xml#id-0a69b0910ac44fbdb81e3c12def58d60"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9bbad2542e024e5b8732d71eb9e37a64">
+    <bounds
+        x="507"
+        y="515"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:DataObject"
+        href="DataObject_id-78c9f017cf484d329ff45dd7edcb0446.xml#id-78c9f017cf484d329ff45dd7edcb0446"/>
+  </children>
   <properties
       key="devdoc"
       value="04n.1a.datos.md"/>
