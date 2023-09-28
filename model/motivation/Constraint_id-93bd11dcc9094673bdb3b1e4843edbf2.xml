@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ARQ01. Consistencia SUI"
+    id="id-93bd11dcc9094673bdb3b1e4843edbf2"
+    documentation="### Consistencia SUI (lógica)&#xA;&#xA;| Requisito      | Extensibilidad SUI |&#xA;|----------------|--------------------|&#xA;| Descripción | Unifica las entidades de negocio PGN, entre las que se incluyen a conciliaciones, publicaciones de relatoría, resoluciones, en artefactos reutilizables. Distinto de que estas entidades (y su lógica de negocio) estén dispersos entre los sistemas del SUI, estarán concentradas en un único artefacto correspondiente. |&#xA;| Calidad sistémica | La consistencia persigue que el resultado de la lógica de negocio sea la misma entre los módulos del SUI migrado. Esto redunda a mantenibilidad y gestión: tiende a tener un solo punto de cambio y dificulta la transferencia de dependencias implícitas a otros procesos. |&#xA;&#xA;Table: Requisito no. 1, Migración SUI, Consistencia. {#tbl:requisito1-id}&#xA;"/>
