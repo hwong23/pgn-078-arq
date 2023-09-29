@@ -179,8 +179,8 @@
           href="CompositionRelationship_id-04765b5dc4ce4ee08bd533fd0623a5bb.xml#id-04765b5dc4ce4ee08bd533fd0623a5bb"/>
     </sourceConnections>
     <bounds
-        x="984"
-        y="264"
+        x="492"
+        y="324"
         width="984"
         height="1131"/>
     <children
@@ -620,8 +620,8 @@
           href="AccessRelationship_id-59eab18443e945409609b55f9d55f2c5.xml#id-59eab18443e945409609b55f9d55f2c5"/>
     </sourceConnections>
     <bounds
-        x="744"
-        y="540"
+        x="252"
+        y="600"
         width="120"
         height="55"/>
     <archimateElement
