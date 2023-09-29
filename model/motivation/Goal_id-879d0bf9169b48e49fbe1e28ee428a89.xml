@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Creación de movimiento"
+    id="id-879d0bf9169b48e49fbe1e28ee428a89"
+    documentation="Generación de movimientos de acuerdo con los asientos abiertos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

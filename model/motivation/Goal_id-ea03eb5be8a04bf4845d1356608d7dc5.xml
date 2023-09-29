@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditorias"
+    id="id-ea03eb5be8a04bf4845d1356608d7dc5"
+    documentation="Gestionar el control de logs de las actividades realizadas por el usuario en sesión.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

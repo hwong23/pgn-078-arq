@@ -149,15 +149,6 @@
             xsi:type="archimate:AssociationRelationship"
             href="AssociationRelationship_id-1ac8c21cb41d471db577a8f5bd18b091.xml#id-1ac8c21cb41d471db577a8f5bd18b091"/>
       </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-e0ccb458ffa6418e91d415bb874a1ba7"
-          source="id-6ab5896583304783a7a5f863b1e78351"
-          target="id-5b7a4c187e3d4fdabf0e0f7428970a91">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-ed2c7a2bcc68498aa935a86f54642cc1.xml#id-ed2c7a2bcc68498aa935a86f54642cc1"/>
-      </sourceConnections>
       <bounds
           x="108"
           y="156"
@@ -252,15 +243,6 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-c1846a137b754172a65f81a87b110ef5"
-        source="id-cd24c5a952e146d2981df5e0f8668912"
-        target="id-5b7a4c187e3d4fdabf0e0f7428970a91">
-      <archimateRelationship
-          xsi:type="archimate:AggregationRelationship"
-          href="AggregationRelationship_id-b3762681b4ba46e4a9748a6863be1d69.xml#id-b3762681b4ba46e4a9748a6863be1d69"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-2176cf6094c848cd975f54307d2c5df4"
         source="id-cd24c5a952e146d2981df5e0f8668912"
         target="id-031ba4b9a93e46a19430655238f04213">
@@ -316,19 +298,6 @@
       <archimateElement
           xsi:type="archimate:Node"
           href="Node_id-6b3449abcd3f480ca654e1687af54952.xml#id-6b3449abcd3f480ca654e1687af54952"/>
-    </children>
-    <children
-        xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-5b7a4c187e3d4fdabf0e0f7428970a91"
-        targetConnections="id-c1846a137b754172a65f81a87b110ef5 id-e0ccb458ffa6418e91d415bb874a1ba7">
-      <bounds
-          x="504"
-          y="48"
-          width="120"
-          height="55"/>
-      <archimateElement
-          xsi:type="archimate:Node"
-          href="Node_id-6db2767b4e464729bb0afe5976523f55.xml#id-6db2767b4e464729bb0afe5976523f55"/>
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"

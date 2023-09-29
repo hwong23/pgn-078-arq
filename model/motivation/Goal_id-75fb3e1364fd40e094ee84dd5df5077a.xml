@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auditoria de mediciones"
+    id="id-75fb3e1364fd40e094ee84dd5df5077a"
+    documentation="Gestionar las actividades de los usuarios, como el registro de indicadores, el tipo, etc.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

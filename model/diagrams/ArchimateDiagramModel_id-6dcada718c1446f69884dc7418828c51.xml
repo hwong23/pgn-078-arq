@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Migracion.1c.SIU submódulos componentes"
+    name="Migracion.1b.SIU módulos componentes"
     id="id-6dcada718c1446f69884dc7418828c51"
     documentation="Presentación de los componentes internos de los submódulos del sistema único de información migración PGN. Organización intena de los servicios y paquetes que integran cada submódulo del SUI. Todos los sistemas de información del SUI siguen esta directiva: estarán constituídos por submódulos dispuestos en relación de utilitarios (que sirven) a los componentes misionales del SUI, ubicados en el centro en la diagrama. &#xA;&#xA;La organización de componentes de migración SUI facilita focalizar la selección de tecnologeias. Los componentes internos y tecnologías elegidas son las siguientes&#xA;&#xA;1. Presentación: Angular 11 (Web)&#xA;1. PGN SUI: API Transaccional (Node Js)&#xA;1. Administración: API Config (C#)&#xA;1. Persistencia: (SQL)&#xA;&#xA;Los submódulos del SUI, tal como están presentados, reúnen a las partes que tienen el mismo rol en favor de la coherencia. Así mismo, estos pueden ser intercambiados o ampliados sin perjuicio del SUI gracias a las interfaces de unión (en favor de la extensibilidad).&#xA;&#xA;Las interfaces de unión indicadas arriba obligan a los submódulos a cumplir las exigencias de los componentes misionales del SUI.&#xA;&#xA;">
   <children
@@ -66,7 +66,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-0498262af62940cfb4e94dbf7ef05aaa"
-        targetConnections="id-4aede9ea8f444891ab36107f279353d5 id-604e3fc04457493794d6720fd5b1e34f">
+        targetConnections="id-604e3fc04457493794d6720fd5b1e34f">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f89048d1fa8c4494b7d33051f348fa1a"
@@ -119,15 +119,6 @@
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_id-eae23c7d63a141949fa9a6ae0a439ff9.xml#id-eae23c7d63a141949fa9a6ae0a439ff9"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
-          id="id-4aede9ea8f444891ab36107f279353d5"
-          source="id-9542767f26f541e683eef2f6b4474400"
-          target="id-0498262af62940cfb4e94dbf7ef05aaa">
-        <archimateRelationship
-            xsi:type="archimate:AssociationRelationship"
-            href="AssociationRelationship_id-82d2eb516f134e3d9c936b2a9acf6578.xml#id-82d2eb516f134e3d9c936b2a9acf6578"/>
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

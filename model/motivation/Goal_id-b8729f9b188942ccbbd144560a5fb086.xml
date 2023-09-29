@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generar documento"
+    id="id-b8729f9b188942ccbbd144560a5fb086"
+    documentation="Creación de documentos relacionados con los movimientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

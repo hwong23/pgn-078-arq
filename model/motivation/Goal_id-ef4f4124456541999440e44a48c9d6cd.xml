@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Grupos (Roles)"
+    id="id-ef4f4124456541999440e44a48c9d6cd"
+    documentation="Administrar los roles y permisos dentro del sistema">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

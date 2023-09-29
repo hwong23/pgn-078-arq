@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Almacén"
+    id="id-12145d9aa39e49acb243c1055f927b57"
+    documentation="Administración de almacenes.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

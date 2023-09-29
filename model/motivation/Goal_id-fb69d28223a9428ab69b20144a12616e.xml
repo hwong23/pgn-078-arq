@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usuarios"
+    id="id-fb69d28223a9428ab69b20144a12616e"
+    documentation="Administrar los usuarios del sistema">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

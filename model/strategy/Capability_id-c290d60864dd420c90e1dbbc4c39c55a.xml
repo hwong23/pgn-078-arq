@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Épicas"
+    id="id-c290d60864dd420c90e1dbbc4c39c55a">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Capability>

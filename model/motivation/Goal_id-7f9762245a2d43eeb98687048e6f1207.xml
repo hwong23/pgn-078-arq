@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Movimiento Consumible (copy)"
+    id="id-7f9762245a2d43eeb98687048e6f1207"
+    documentation="Registro de movimientos relacionados con elementos consumibles.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

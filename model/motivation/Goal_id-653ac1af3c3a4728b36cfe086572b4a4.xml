@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Fecha automática"
+    id="id-653ac1af3c3a4728b36cfe086572b4a4"
+    documentation="Asignación automática de la fecha en los asientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

@@ -1,8 +1,0 @@
-<archimate:ApplicationComponent
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Controlador admin"
-    id="id-673398fb44404843968789e13eee9f29">
-  <properties
-      key="plataforma"
-      value="cs"/>
-</archimate:ApplicationComponent>

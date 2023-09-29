@@ -1,4 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="App PGN Móvil"
-    id="id-d1a165b5ccff4f9fa7b0ea2b2b2bac73"/>
+    id="id-d1a165b5ccff4f9fa7b0ea2b2b2bac73">
+  <properties
+      key="plantilla"
+      value="element-md-new"/>
+</archimate:ApplicationComponent>

@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Portafolio"
+    id="id-331e271392014f2db733715472fa182d"
+    documentation="Gestionar el portafolio de todos los proyectos de la entidad.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

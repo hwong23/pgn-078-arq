@@ -1,7 +1,8 @@
 <archimate:Goal
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contenidos"
-    id="id-9f8eab9b716f45e0a2156a0e6ceb06a4">
+    id="id-9f8eab9b716f45e0a2156a0e6ceb06a4"
+    documentation="Se tendran que adecuar los contenidos audivisuales de los sitios web, con subtitulos o CLosed Caption y la apropiacion de lenguajes de señas. ">
   <properties
       key="modulo"
       value="relatoria"/>

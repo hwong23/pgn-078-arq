@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CRUD Campos (copy)"
+    id="id-1ef98f9dcd684c98ad68f4d3fb899deb"
+    documentation="Operaciones CRUD (Crear, Leer, Actualizar, Eliminar) en campos de los asientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

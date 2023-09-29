@@ -1,8 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application Service (NLB)"
-    id="id-919e29ed374b497e8add733d618a67a8">
-  <properties
-      key="plataforma"
-      value="angular 11"/>
-</archimate:ApplicationService>

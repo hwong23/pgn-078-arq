@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Estado (copy)"
+    id="id-bddf3831fe2f428781d1bc85785bcca8"
+    documentation="Seguimiento del estado de los asientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

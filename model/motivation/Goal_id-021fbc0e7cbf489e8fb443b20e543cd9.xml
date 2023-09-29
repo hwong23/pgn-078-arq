@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acciones correctivas"
+    id="id-021fbc0e7cbf489e8fb443b20e543cd9"
+    documentation="Administrar los riesgos asociados a cada uno de los indicadores o planes.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>
