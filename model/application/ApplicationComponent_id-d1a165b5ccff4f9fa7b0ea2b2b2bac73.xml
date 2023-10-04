@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="App PGN Móvil"
-    id="id-d1a165b5ccff4f9fa7b0ea2b2b2bac73">
+    id="id-d1a165b5ccff4f9fa7b0ea2b2b2bac73"
+    documentation="A partir de los lineamientos de desarrollo seguro establecidos en The OWASP Foundation recomendados en la “Guía de desarrollo OWASP” y “OWAS Cheat Sheet, se realizaran pruebas de seguridad a partir del analisis de vulnerabilidades, y pruebas de Ethikal Hacking. ">
   <properties
       key="plantilla"
       value="element-md-new"/>
