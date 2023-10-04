@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="App PGN Web"
-    id="id-bf045c97cf694ad1afcb5837500cb117">
+    id="id-bf045c97cf694ad1afcb5837500cb117"
+    documentation="A partir de los lineamientos de desarrollo seguro establecidos en The OWASP Foundation recomendados en la “Guía de desarrollo OWASP” y “OWAS Cheat Sheet, se realizaran pruebas de seguridad a partir del analisis de vulnerabilidades, y pruebas de Ethikal Hacking. ">
   <properties
       key="plataforma"
       value="angular 11"/>
