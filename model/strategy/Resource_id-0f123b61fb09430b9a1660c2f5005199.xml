@@ -1,4 +1,5 @@
 <archimate:Resource
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scannig port"
-    id="id-0f123b61fb09430b9a1660c2f5005199"/>
+    id="id-0f123b61fb09430b9a1660c2f5005199"
+    documentation="Se realizará pruebas de escaneo de puertos para identificar, y cerrar puertos que se consideren puerta trasera. &#xD;&#xA;"/>
