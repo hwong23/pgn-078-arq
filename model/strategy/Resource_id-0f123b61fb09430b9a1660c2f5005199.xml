@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Scannig port"
     id="id-0f123b61fb09430b9a1660c2f5005199"
-    documentation="Se realizará pruebas de escaneo de puertos para identificar, y cerrar puertos que se consideren puerta trasera. &#xD;&#xA;"/>
+    documentation="Se realiza verificación y comprobación de puertos y puertas traseras cerradas, por lo cual se ejecuta el protocolo telnet, que sirve verificar la entrada a los servidores por cualquier puerto que este abierto que no tenga las protecciones de seguridad adecuadas."/>
