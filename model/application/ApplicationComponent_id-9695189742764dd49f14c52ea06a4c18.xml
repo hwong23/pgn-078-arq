@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Directivas de acceso."
-    id="id-9695189742764dd49f14c52ea06a4c18"/>
+    id="id-9695189742764dd49f14c52ea06a4c18"
+    documentation="El control de acceso se da a partir de la autenticacion del directorio activo, y la integración del Single Sign-On (SSO), con el inicio unico de sesión fluido en todas las aplicaciones. &#xD;&#xA;Se tendrá en cuenta la implementación con multiples capas de autenticación, autenticacion multifactor MFA&#xD;&#xA;"/>

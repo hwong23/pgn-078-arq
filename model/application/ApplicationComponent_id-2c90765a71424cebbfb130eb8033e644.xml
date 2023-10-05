@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Directivas de Aplicaciones."
     id="id-2c90765a71424cebbfb130eb8033e644"
-    documentation="Requiere Microsoft 365 E3 con el complemento de identidades, La restricciones de acceso a las cargas de trabajo de productividad es un elemento clave, en la que los recursos locales y en la nube se autentican y se autorizan. &#xD;&#xA;La autenticación por medio del AD por intermedio de  agentes que permiten ampliar su funcionalidad."/>
+    documentation="Requiere Microsoft 365 E3 con el complemento de identidades, La restricciones de acceso a las cargas de trabajo de productividad es un elemento clave, en la que los recursos locales y en la nube se autentican y se autorizan. &#xD;&#xA;La autenticación por medio del AD con agentes que permiten ampliar su funcionalidad."/>
