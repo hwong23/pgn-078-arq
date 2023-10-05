@@ -353,7 +353,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-13da09353dfd403b92af7615e0c6c2c8"
       textAlignment="1"
-      content="Directorio Activo&#xD;&#xA; (Azure AD) ">
+      content="Directorio Activo">
     <bounds
         x="540"
         y="156"
@@ -375,7 +375,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-9bcc56bbfd664b56b16b72a16985f2c6"
       textAlignment="1"
-      content="Confidencialidad &#xD;&#xA;directa total. (PFS)">
+      content="Confidencialidad &#xD;&#xA;directa total. (PFS), establece longitudes de claves de cifrado RSA de 2048 bits, lo que hace difici para cualquier usuario acceder a los datos que se estan enviando. Mecanismo de cidfrado que se tendra en cuenta para la migración Cloud. ">
     <bounds
         x="108"
         y="281"
@@ -463,7 +463,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-05860bf2f2ac47349b32c1e6bcb0f29a"
       textAlignment="1"
-      content="Directorio Activo&#xD;&#xA; (Azure AD) ">
+      content="Directorio Activo&#xD;&#xA;&#xD;&#xA; ">
     <bounds
         x="462"
         y="301"

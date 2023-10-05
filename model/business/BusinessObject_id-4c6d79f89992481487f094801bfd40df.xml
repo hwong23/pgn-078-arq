@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API (administración de claves)"
     id="id-4c6d79f89992481487f094801bfd40df"
-    documentation="Administración de claves. &#xD;&#xA;"/>
+    documentation="Administración de claves. &#xD;&#xA;Las contraseñas deberán cumplir con los requisitos de complejidad y completitud, teniendo en cuenta la longitud, caracteres numéricos, alfabéticos y especiales y que puedan ser cambiadas en un periodo de tiempo establecido, de acuerdo con los parámetros definidos en las políticas de acceso.   "/>

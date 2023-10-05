@@ -256,4 +256,7 @@
   <properties
       key="plantillaElm"
       value="elementtabla-md,element-md-new"/>
+  <properties
+      key="IncluyeRelaciones"
+      value="false"/>
 </archimate:ArchimateDiagramModel>
