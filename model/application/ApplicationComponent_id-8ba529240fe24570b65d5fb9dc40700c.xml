@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requiere MFA *"
-    id="id-8ba529240fe24570b65d5fb9dc40700c"/>
+    id="id-8ba529240fe24570b65d5fb9dc40700c"
+    documentation="Se deberá incorporar el 2FA para los accesos a la informacion que reposa en el SharePoint, que permita a los usuarios iniciar sesión de forma segura a través del uso de sus dispositivos móviles. "/>
