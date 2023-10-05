@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Requiere inicio de sesión."
-    id="id-1603a74a5cfb4e1b8814a196a3060575"/>
+    id="id-1603a74a5cfb4e1b8814a196a3060575"
+    documentation="Presenta el formulario de inicio de sesión al usuario final que enviará la solicitud por medio del método POST, que envia datos de información al servidor. para que el servidor los agregue a su base de datos. "/>

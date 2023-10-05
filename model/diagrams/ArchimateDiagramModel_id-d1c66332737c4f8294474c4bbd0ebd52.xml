@@ -258,5 +258,5 @@
       value="elementtabla-md,element-md-new"/>
   <properties
       key="IncluyeRelaciones"
-      value="true"/>
+      value="false"/>
 </archimate:ArchimateDiagramModel>

@@ -1,0 +1,8 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CU ejecutable"
+    id="id-16a4465ef3924b5987abf3f22ceeb88d">
+  <properties
+      key="plataforma"
+      value="js"/>
+</archimate:ApplicationComponent>
