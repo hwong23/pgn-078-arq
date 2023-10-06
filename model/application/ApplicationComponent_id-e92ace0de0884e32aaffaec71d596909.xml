@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Vista web"
-    id="id-e92ace0de0884e32aaffaec71d596909">
+    id="id-e92ace0de0884e32aaffaec71d596909"
+    documentation="-&#x9;Verificados los SSL, se recomienda adquirir SSL seguros, con entidades certificadoras. &#xD;&#xA;Si se desea continuar con SSL de Let's Encrypt, se recomienda automatizar el proceso de actualización dado que al dejar estos en modo actualización manual es probable el olvido de esta actualización (Estos certificados se deben actualizar trimestralmente y no cuentan con las características de seguridad necesarias. &#xD;&#xA;4.&#x9;SERVICIOS IDENTIFICADOS:&#xD;&#xA;&#xD;&#xA;Servidor web:  Microsoft-IIS/10.0 &#xD;&#xA;Marco de Programación: ASP.NET&#xD;&#xA;Huellas digitales identificadas:  &#xD;&#xA;Huella digital SHA-256 “FC:79:06:7E:F5:24:20:50:F1:C0:74:F7:85:56:B9:05:B7:33:A3:2D:44:A0:48”&#xD;&#xA;Huella digital SHA1 “8C:48:BD:E2:F5:18:18:C3:85:96:68:44:2E:28:A0:68:08:2F:0A:BE”&#xD;&#xA;">
   <properties
       key="plataforma"
       value="html"/>
