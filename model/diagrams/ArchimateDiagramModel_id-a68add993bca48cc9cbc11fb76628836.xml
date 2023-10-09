@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Migracion.1b.a SIU módulos componentes. Brecha"
+    name="Migracion.1b.2. SIU módulos componentes. Brecha"
     id="id-a68add993bca48cc9cbc11fb76628836"
     documentation="Presentación de los componentes internos de los submódulos del sistema único de información migrado, SUI de PGN. Organización intena de los servicios y paquetes que integran cada submódulo del SUI. Todos los sistemas de información del SUI siguen esta directiva: estarán constituídos por submódulos dispuestos en relación de utilitarios (que sirven) a los componentes misionales del SUI, ubicados en el centro en la diagrama. &#xA;&#xA;La organización de componentes de migración SUI facilita focalizar la selección de tecnologeias. Los componentes internos y tecnologías elegidas son las siguientes&#xA;&#xA;1. Presentación: Angular 11 (Web)&#xA;1. PGN SUI: API Transaccional (Node Js)&#xA;1. Administración: API Config (C#)&#xA;1. Persistencia: (SQL)&#xA;&#xA;Los submódulos del SUI, tal como están presentados, reúnen a las partes que tienen el mismo rol en favor de la coherencia. Así mismo, estos pueden ser intercambiados o ampliados sin perjuicio del SUI gracias a las interfaces de unión (en favor de la extensibilidad).&#xA;&#xA;Las interfaces de unión indicadas arriba obligan a los submódulos a cumplir las exigencias de los componentes misionales del SUI.&#xA;&#xA;">
   <children
