@@ -5,8 +5,12 @@
     purpose="Fase 2, PGN Migración Funcional SIU (078-2023)&#xA;&#xA;local: /Users/hwong23/git/archigit/pgn-078-arq&#xA;remoto: https://github.com/hwong23/pgn-078-arq.git&#xA;&#xA;&#xA;versión 0.7&#xA;&#xA;---&#xA;Mapa de productos&#xA;Seguridad&#xA;"
     version="4.9.0">
   <properties
-      key="rutaWindows"/>
+      key="rutaMacHTML"
+      value="/Downloads/tmpr/cmvarchidoc/"/>
   <properties
-      key="rutaMac"
-      value="/Downloads/tmpr/pgnarchidoc"/>
+      key="rutaMacMD"
+      value="/Downloads/tmpr/prymd/"/>
+  <properties
+      key="devdoc"
+      value="02n.a1.pgn.md"/>
 </archimate:ArchimateModel>
