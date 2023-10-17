@@ -1307,6 +1307,18 @@
         xsi:type="archimate:Constraint"
         href="Constraint_id-4f39dc3da717485992ac2746222f2512.xml#id-4f39dc3da717485992ac2746222f2512"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-22631616fa3a484d9e5182ddd7f8fe4c">
+    <bounds
+        x="12"
+        y="504"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationCollaboration"
+        href="ApplicationCollaboration_id-7bb19cd0772841c68376195262968b5b.xml#id-7bb19cd0772841c68376195262968b5b"/>
+  </children>
   <properties
       key="plataforma"
       value="js"/>
