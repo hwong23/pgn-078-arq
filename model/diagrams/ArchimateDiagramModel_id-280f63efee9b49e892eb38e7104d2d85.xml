@@ -700,7 +700,7 @@
       id="id-15c3b5e4054c4b2e89c7bb523175e154">
     <bounds
         x="348"
-        y="453"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -711,8 +711,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aefa061fa2144ef3a29a4ecdd28f465d">
     <bounds
-        x="162"
-        y="312"
+        x="191"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -725,8 +725,8 @@
       textAlignment="1"
       content="Analizador de acceso a la red. SIEM- EDR">
     <bounds
-        x="144"
-        y="504"
+        x="156"
+        y="561"
         width="155"
         height="40"/>
   </children>
@@ -747,8 +747,8 @@
       textAlignment="1"
       content="HTTPS">
     <bounds
-        x="960"
-        y="483"
+        x="1019"
+        y="480"
         width="49"
         height="25"/>
   </children>
@@ -790,8 +790,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9c071e8e89b64a16ab501f1e0525d2c3">
     <bounds
-        x="336"
-        y="312"
+        x="191"
+        y="348"
         width="120"
         height="55"/>
     <archimateElement
