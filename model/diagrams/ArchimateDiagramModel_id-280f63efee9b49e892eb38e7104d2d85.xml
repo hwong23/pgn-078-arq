@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguridad. 2. Lineabase.0.SIU Applicación"
+    name="Seguridad. 2. SIU Brecha Applicación"
     id="id-280f63efee9b49e892eb38e7104d2d85"
-    documentation="Procuraduría General de la Nación (PGN), módulo SIU migrado, 2023. Elementos de la brecha de Fase II del Sistema Único de Información (SUI en adelante) de la PGN. Presentación de componentes de software y hardware implementados en la Fase I del presente proyecto.&#xA;&#xA;Los elementos resaltados corresponden a la brecha entre las fases anterior y la actual fase II).&#xA;&#xA;&#xA;## Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&#xA;">
+    documentation="Procuraduría General de la Nación (PGN), módulo SIU migrado, 2023. Elementos de la brecha de Fase II del Sistema de Información Único (SIU en adelante) de la PGN. Presentación de componentes de software y tecnologeia física (hardware) implementados en la Fase I y requeridos por Fase II (presente proyecto).&#xA;&#xA;Los elementos resaltados corresponden a la brecha entre las fases anterior y la actual fase II).&#xA;&#xA;&#xA;## Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;1. Network Firewall/WAF&#xA;1. Sistema de Seguridad (LDAP) 1&#xA;1. Sistema de Seguridad (LDAP) 2&#xA;1. Firewall BDD (de datos)&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-28aa57683ab74742b4c1be16d0eb9d86">
