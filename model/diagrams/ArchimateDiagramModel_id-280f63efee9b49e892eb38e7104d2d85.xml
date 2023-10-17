@@ -786,6 +786,18 @@
         width="277"
         height="132"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9c071e8e89b64a16ab501f1e0525d2c3">
+    <bounds
+        x="179"
+        y="348"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-bd764207e6db47fbb79ae74e962c2b0d.xml#id-bd764207e6db47fbb79ae74e962c2b0d"/>
+  </children>
   <properties
       key="alcanseSOA"
       value="Fase 1.1"/>
