@@ -1,9 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguridad. 2. SIU Brecha Applicación"
+    name="Seguridad. 2. Lineabase.0.SIU Applicación"
     id="id-280f63efee9b49e892eb38e7104d2d85"
-    documentation="Procuraduría General de la Nación (PGN), módulo SIU migrado, 2023. Elementos de la brecha de Fase II del Sistema de Información Único (SIU en adelante) de la PGN. Presentación de componentes de software y tecnologeia física (hardware) implementados en la Fase I y requeridos por Fase II (presente proyecto).&#xA;&#xA;Los elementos resaltados corresponden a la brecha entre las fases anterior y la actual fase II).&#xA;&#xA;&#xA;## Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;1. Network Firewall/WAF&#xA;1. Sistema de Seguridad (LDAP) 1&#xA;1. Sistema de Seguridad (LDAP) 2&#xA;1. Firewall BDD (de datos)&#xA;&#xA;&lt;br>&#xA;">
+    documentation="## Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-28aa57683ab74742b4c1be16d0eb9d86">
@@ -444,7 +444,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0fd0f3dbd44243c7bbb05fb845dabe19"
-      targetConnections="id-933d3142c91d43bd8243b9059ddc38ab id-5e87fa8f428c4424b38522d12054329e id-746b1d9e0f8a4b5f830782eeff27c6ac">
+      targetConnections="id-933d3142c91d43bd8243b9059ddc38ab id-5e87fa8f428c4424b38522d12054329e id-746b1d9e0f8a4b5f830782eeff27c6ac id-6001220062844052ad0cca4389c93322">
     <bounds
         x="252"
         y="156"
@@ -457,7 +457,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f0fa5d0d0f744d7eaf3996eb2c99c696"
-      targetConnections="id-c103616a555b45379205385cfc84002f id-03a8f0fb79534d42860413f1c0e5a0dc id-47ed653d2d7d40f7a149ecdd3d5d9d54">
+      targetConnections="id-c103616a555b45379205385cfc84002f id-03a8f0fb79534d42860413f1c0e5a0dc id-47ed653d2d7d40f7a149ecdd3d5d9d54 id-b22e87be7765451681837df819859469">
     <bounds
         x="252"
         y="228"
@@ -700,7 +700,7 @@
       id="id-15c3b5e4054c4b2e89c7bb523175e154">
     <bounds
         x="348"
-        y="360"
+        y="453"
         width="120"
         height="55"/>
     <archimateElement
@@ -711,8 +711,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-aefa061fa2144ef3a29a4ecdd28f465d">
     <bounds
-        x="120"
-        y="264"
+        x="162"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
@@ -767,7 +767,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c60c0ac06de842b4928ad1dd43f43ac1">
     <bounds
-        x="1152"
+        x="1128"
         y="507"
         width="120"
         height="55"/>
@@ -787,76 +787,46 @@
         height="132"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-af3dfdf1684f495ebe6e4ed02ea93ad8"
-      fillColor="#00f900"
-      borderType="1">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9c071e8e89b64a16ab501f1e0525d2c3">
     <bounds
-        x="12"
-        y="1008"
-        width="49"
-        height="25"/>
+        x="336"
+        y="312"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessObject"
+        href="BusinessObject_id-bd764207e6db47fbb79ae74e962c2b0d.xml#id-bd764207e6db47fbb79ae74e962c2b0d"/>
   </children>
   <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-29fd5ece17354612a6dbc4fc0e8d1ba3"
-      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      content="Elemento brecha agregado"
-      borderType="1">
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8fa4cb814a2943d3a9c5e029c2897df8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-6001220062844052ad0cca4389c93322"
+        source="id-8fa4cb814a2943d3a9c5e029c2897df8"
+        target="id-0fd0f3dbd44243c7bbb05fb845dabe19">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-85279e54b5104a87a414cf333494e1ff.xml#id-85279e54b5104a87a414cf333494e1ff"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-b22e87be7765451681837df819859469"
+        source="id-8fa4cb814a2943d3a9c5e029c2897df8"
+        target="id-f0fa5d0d0f744d7eaf3996eb2c99c696">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-0337f2e899ab45a4aa693abf5ee0f38b.xml#id-0337f2e899ab45a4aa693abf5ee0f38b"/>
+    </sourceConnections>
     <bounds
-        x="72"
-        y="1008"
-        width="181"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-ea3627605ddb4c288a41b5eb8807ab2a"
-      fillColor="#fefb00"
-      borderType="1">
-    <bounds
-        x="12"
-        y="1032"
-        width="49"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-6c20eee5cdda48239d042b32360ec3d2"
-      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      content="Elenento brecha modificado"
-      borderType="1">
-    <bounds
-        x="72"
-        y="1032"
-        width="181"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-7b809742b9b34810b6ff509b406c3767"
-      fillColor="#ff2600"
-      borderType="1">
-    <bounds
-        x="12"
-        y="1056"
-        width="49"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-42c5cc139f3d4320b6eefdba51c3ec71"
-      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      content="Elemento brecha eliminado"
-      borderType="1">
-    <bounds
-        x="72"
-        y="1056"
-        width="181"
-        height="25"/>
+        x="420"
+        y="126"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-6e665b762020452c866d1a87954d1058.xml#id-6e665b762020452c866d1a87954d1058"/>
   </children>
   <properties
       key="alcanseSOA"
