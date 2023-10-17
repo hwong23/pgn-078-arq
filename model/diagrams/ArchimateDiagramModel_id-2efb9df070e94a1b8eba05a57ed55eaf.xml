@@ -7,7 +7,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-080b6834dffc423ea6cc40ea90913ac5"
-      targetConnections="id-237cad05503e4b2dab1946f6e96baa06 id-a4a5b5e7bd6b4e57b98ae79c587ec8b9"
+      targetConnections="id-a4a5b5e7bd6b4e57b98ae79c587ec8b9"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -17,15 +17,6 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-3378725c8fb0431cac816540124b7c66.xml#id-3378725c8fb0431cac816540124b7c66"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-4c9cb051498e4d6890dee32c28edfb11"
-        source="id-080b6834dffc423ea6cc40ea90913ac5"
-        target="id-bbd5fc3e56e64e28ac547d617b0893f8">
-      <archimateRelationship
-          xsi:type="archimate:CompositionRelationship"
-          href="CompositionRelationship_id-0d5961c1a872486085f6f3f0046b3b94.xml#id-0d5961c1a872486085f6f3f0046b3b94"/>
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -65,8 +56,7 @@
     </children>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
-        id="id-bbd5fc3e56e64e28ac547d617b0893f8"
-        targetConnections="id-4c9cb051498e4d6890dee32c28edfb11">
+        id="id-bbd5fc3e56e64e28ac547d617b0893f8">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-37e664fe144047878f30fb229ab8df54"
@@ -205,15 +195,6 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-c5bf6f29bbf746c0a976235046129b8a">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-237cad05503e4b2dab1946f6e96baa06"
-        source="id-c5bf6f29bbf746c0a976235046129b8a"
-        target="id-080b6834dffc423ea6cc40ea90913ac5">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_id-4b3addde8f214e4fa54a746d3a268a84.xml#id-4b3addde8f214e4fa54a746d3a268a84"/>
-    </sourceConnections>
     <bounds
         x="1488"
         y="308"

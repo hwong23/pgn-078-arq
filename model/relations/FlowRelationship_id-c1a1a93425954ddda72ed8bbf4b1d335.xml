@@ -2,11 +2,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="puerto"
-    id="id-03438eee58d24e64a82fd4089cc5e383">
+    id="id-c1a1a93425954ddda72ed8bbf4b1d335">
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-09117cbf2f474d348f31de431610c7ce.xml#id-09117cbf2f474d348f31de431610c7ce"/>
   <target
-      xsi:type="archimate:ApplicationCollaboration"
-      href="ApplicationCollaboration_id-9c5bfbac3d1c488e99526a82bc226418.xml#id-9c5bfbac3d1c488e99526a82bc226418"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-7cb37475169d4fe7a11d40fc2eaa23d8.xml#id-7cb37475169d4fe7a11d40fc2eaa23d8"/>
 </archimate:FlowRelationship>
