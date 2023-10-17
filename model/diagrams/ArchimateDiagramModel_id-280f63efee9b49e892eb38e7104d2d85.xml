@@ -700,7 +700,7 @@
       id="id-15c3b5e4054c4b2e89c7bb523175e154">
     <bounds
         x="348"
-        y="408"
+        y="360"
         width="120"
         height="55"/>
     <archimateElement
@@ -712,7 +712,7 @@
       id="id-aefa061fa2144ef3a29a4ecdd28f465d">
     <bounds
         x="191"
-        y="408"
+        y="420"
         width="120"
         height="55"/>
     <archimateElement
@@ -821,7 +821,7 @@
     </sourceConnections>
     <bounds
         x="420"
-        y="126"
+        y="72"
         width="120"
         height="55"/>
     <archimateElement
