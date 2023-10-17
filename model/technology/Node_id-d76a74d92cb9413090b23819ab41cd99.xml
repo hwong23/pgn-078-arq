@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Network Firewall/WAF"
-    id="id-d76a74d92cb9413090b23819ab41cd99"/>
+    id="id-d76a74d92cb9413090b23819ab41cd99">
+  <properties
+      key="brecha"
+      value="100"/>
+</archimate:Node>
