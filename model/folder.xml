@@ -13,4 +13,7 @@
   <properties
       key="devdoc"
       value="02n.a1.pgn.md"/>
+  <properties
+      key="reporte"
+      value="index.html"/>
 </archimate:ArchimateModel>
