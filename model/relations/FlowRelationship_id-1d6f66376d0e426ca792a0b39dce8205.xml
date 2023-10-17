@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="puerto"
-    id="id-9f7187ce06f444a78e9b9669bda4c9d6">
+    name="adaptador"
+    id="id-1d6f66376d0e426ca792a0b39dce8205">
   <source
       xsi:type="archimate:ApplicationInterface"
       href="ApplicationInterface_id-09117cbf2f474d348f31de431610c7ce.xml#id-09117cbf2f474d348f31de431610c7ce"/>
   <target
-      xsi:type="archimate:ApplicationCollaboration"
-      href="ApplicationCollaboration_id-756a454a4cfc41bd8fe2246808d66caa.xml#id-756a454a4cfc41bd8fe2246808d66caa"/>
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-3f17101216274ec49684122885644360.xml#id-3f17101216274ec49684122885644360"/>
 </archimate:FlowRelationship>
