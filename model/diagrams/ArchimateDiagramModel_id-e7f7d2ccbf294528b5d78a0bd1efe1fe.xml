@@ -70,15 +70,15 @@
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-f5b09bf79d5a43debfda8c06466f8d0b">
+        id="id-bd7a94e8600f461aa567d70c6482d892">
       <bounds
-          x="144"
+          x="156"
           y="36"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-280f63efee9b49e892eb38e7104d2d85.xml#id-280f63efee9b49e892eb38e7104d2d85"/>
+          href="ArchimateDiagramModel_id-f3eee2e860604899903c6b48c2f76335.xml#id-f3eee2e860604899903c6b48c2f76335"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -174,6 +174,18 @@
         y="492"
         width="400"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-5df28b15bb1c4f41af0363348e71d3fa">
+      <bounds
+          x="144"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-e5d2b80501c743edb14cecf221be73a9.xml#id-e5d2b80501c743edb14cecf221be73a9"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-22a49f10cf7940e095023c5b0d5d2888.xml#id-22a49f10cf7940e095023c5b0d5d2888"/>
@@ -197,6 +209,18 @@
         y="648"
         width="400"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-f5b09bf79d5a43debfda8c06466f8d0b">
+      <bounds
+          x="132"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-280f63efee9b49e892eb38e7104d2d85.xml#id-280f63efee9b49e892eb38e7104d2d85"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-799245feeab44afdbaa4e66ee7c1f482.xml#id-799245feeab44afdbaa4e66ee7c1f482"/>

@@ -1,7 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="adaptador"
+    name="adaptador sincr/asincr"
     id="id-1d6f66376d0e426ca792a0b39dce8205">
   <source
       xsi:type="archimate:ApplicationInterface"
