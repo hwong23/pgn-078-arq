@@ -61,4 +61,7 @@
   <properties
       key="alias"
       value="infradoc"/>
+  <properties
+      key="titulo"
+      value="Arquitectura de Software: Infraestructura"/>
 </archimate:ArchimateDiagramModel>
