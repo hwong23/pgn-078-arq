@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CDN Contenidos"
-    id="id-5c8ac656bc9e4222a5270956e28f8b08"/>
+    id="id-5c8ac656bc9e4222a5270956e28f8b08">
+  <properties
+      key="brecha"
+      value="100"/>
+</archimate:ApplicationService>

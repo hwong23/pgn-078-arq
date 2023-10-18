@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Motivadores"
-    id="id-54640a7655de4e12b63b2d9bdc091ca4"/>
+    id="id-54640a7655de4e12b63b2d9bdc091ca4">
+  <properties
+      key="titulo"
+      value="Diagrama de Arquitectura de la Solución Propuesta: motivadores del negocio"/>
+</archimate:Grouping>

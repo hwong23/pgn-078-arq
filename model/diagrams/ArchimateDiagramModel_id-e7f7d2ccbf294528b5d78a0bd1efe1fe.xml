@@ -317,17 +317,32 @@
         y="1116"
         width="400"
         height="121"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-a4a2d89710494d29b8188a5cf45f05ee">
+      <bounds
+          x="36"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-c85b4660b1cb49f39db1b27da5e589e5.xml#id-c85b4660b1cb49f39db1b27da5e589e5"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-a102cc2c927044cb95723eb049506c85.xml#id-a102cc2c927044cb95723eb049506c85"/>
   </children>
   <properties
       key="devdoc"
-      value="02n.a4.pgn.md"/>
+      value="02n.a2.pgnarq.md"/>
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/pgnmd/"/>
   <properties
       key="alias"
       value="pgndoc"/>
+  <properties
+      key="titulo"
+      value="Arquitectura de Software"/>
 </archimate:ArchimateDiagramModel>
