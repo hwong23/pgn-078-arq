@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de Seguridad (LDAP) 2"
+    id="id-9e3be6350fd249eda7349724e8b0f9b8"
+    documentation="Sistema de Seguridad (LDAP) 2. Control de acceso internet, &#xD;&#xA;La solución se podra integrar con el directorio activo, a partir de la generación del 2FA, que podrá generar un  codigo por desde la plataforma de office 365, el cual solicitará el codigo de autenticacion y una vez ingreado podrá acceder al sitio. &#xD;&#xA;">
+  <properties
+      key="brecha"
+      value="100"/>
+</archimate:Node>

@@ -1,0 +1,9 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz de aplicación (runtime)"
+    id="id-3785708a234346538dbd8ca5d336dcd7"
+    documentation="Servidor web:  Microsoft-IIS/10.0 &#xD;&#xA;Marco de Programación: ASP.NET&#xD;&#xA;Huellas digitales identificadas:  &#xD;&#xA;Huella digital SHA-256 “FC:79:06:7E:F5:24:20:50:F1:C0:74:F7:85:56:B9:05:B7:33:A3:2D:44:A0:48”&#xD;&#xA;Huella digital SHA1 “8C:48:BD:E2:F5:18:18:C3:85:96:68:44:2E:28:A0:68:08:2F:0A:BE”&#xD;&#xA;">
+  <properties
+      key="plataforma"
+      value="angular 11"/>
+</archimate:ApplicationInterface>

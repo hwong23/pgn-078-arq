@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conciliación familia"
+    id="id-01a970b979484a22aa67db8025bf15f0">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

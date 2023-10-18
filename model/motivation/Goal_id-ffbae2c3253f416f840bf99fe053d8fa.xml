@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión documental"
+    id="id-ffbae2c3253f416f840bf99fe053d8fa">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+  <properties
+      key="caracteristica"
+      value="seguridad"/>
+</archimate:Goal>

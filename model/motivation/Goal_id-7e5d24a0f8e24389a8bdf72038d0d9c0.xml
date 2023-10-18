@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asientos"
+    id="id-7e5d24a0f8e24389a8bdf72038d0d9c0"
+    documentation="Registro de asientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

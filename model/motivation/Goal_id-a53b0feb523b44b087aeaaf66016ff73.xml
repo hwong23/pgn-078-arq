@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Instrumento de cooperación"
+    id="id-a53b0feb523b44b087aeaaf66016ff73"
+    documentation="Administrar los proyectos de los cooperantes.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

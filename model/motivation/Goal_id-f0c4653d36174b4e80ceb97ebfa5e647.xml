@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conciliación civil"
+    id="id-f0c4653d36174b4e80ceb97ebfa5e647">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

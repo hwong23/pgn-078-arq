@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor de búsqueda (copy)"
+    id="id-ce272cb9432042a7b36f3d24042cd0bc">
+  <properties
+      key="modulo"
+      value="X"/>
+</archimate:Capability>

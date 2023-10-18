@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generar documento (copy)"
+    id="id-57cb1c9623284cee9703c0050dd822bb"
+    documentation="Creación de documentos relacionados con los movimientos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

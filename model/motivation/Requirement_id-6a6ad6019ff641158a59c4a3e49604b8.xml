@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RQRSEG28"
+    id="id-6a6ad6019ff641158a59c4a3e49604b8"
+    documentation=" &quot;1. A nivel de la base de datos debe poder definirse reglas de validación de integridad de datos (unicidad, referencial y negocio). &quot;"/>

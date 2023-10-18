@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Funcionario Posesionado (copy)"
+    id="id-c1c6fddab35c438881372a1448f2c7b5"
+    documentation="Registro de información sobre funcionarios en posesión.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

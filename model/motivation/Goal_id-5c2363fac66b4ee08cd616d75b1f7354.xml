@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Reportes"
+    id="id-5c2363fac66b4ee08cd616d75b1f7354"
+    documentation="Generar reportes y exportarlos en diferentes tipos de archivo.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

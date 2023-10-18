@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Acciones de acuerdo al estado"
+    id="id-6884e23363924add9a4b8899236e1aec"
+    documentation="Realización de acciones específicas según el estado de los movimientos devolutivos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Integración API Dokus"
+    id="id-a4c9948f57bb40c79dd3df4e076424dd">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+</archimate:Capability>

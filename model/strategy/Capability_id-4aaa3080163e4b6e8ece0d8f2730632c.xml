@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flujo de trabajo Intervención"
+    id="id-4aaa3080163e4b6e8ece0d8f2730632c">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+</archimate:Capability>

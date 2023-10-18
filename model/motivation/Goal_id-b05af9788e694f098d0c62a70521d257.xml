@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vista formulario personalizada"
+    id="id-b05af9788e694f098d0c62a70521d257"
+    documentation="Personalización de formularios para la creación de asientos dependiendo del almacén.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

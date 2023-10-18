@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz de Acceso Proveedores"
+    id="id-dab634accc884f96b43d571f9a6de0d2"
+    documentation="Interfaz de acceso a los tipos de datos externos al SUI.&#xA;"/>

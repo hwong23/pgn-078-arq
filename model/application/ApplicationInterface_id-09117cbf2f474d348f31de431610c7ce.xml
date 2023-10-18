@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="API SUI"
+    id="id-09117cbf2f474d348f31de431610c7ce"
+    documentation="API de representación del módulo. Centrlalización de la comunicación con otros módulos del SUI migrado.&#xA;"/>

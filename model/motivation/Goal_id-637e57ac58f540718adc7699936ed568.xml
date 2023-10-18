@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cuenta en Microsoft (Autenticación)"
+    id="id-637e57ac58f540718adc7699936ed568"
+    documentation="Autenticación mediante cuentas de Microsoft.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

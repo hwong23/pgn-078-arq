@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vista tipo lista personalizada (copy)"
+    id="id-3289c4355b1b4626a9be10fc54361019"
+    documentation="Visualización personalizada en forma de lista con filtros por campos específicos.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

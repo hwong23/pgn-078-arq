@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vista CRUD (copy)"
+    id="id-865973b50b9b40eea0b075e33492d024"
+    documentation="Interfaz para crear, leer, actualizar y eliminar registros en el almacén.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

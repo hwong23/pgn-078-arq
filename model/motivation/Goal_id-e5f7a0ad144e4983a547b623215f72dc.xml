@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Cuenta de funcionario (copy)"
+    id="id-e5f7a0ad144e4983a547b623215f72dc"
+    documentation="Gestión de cuentas de funcionarios.">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Goal>

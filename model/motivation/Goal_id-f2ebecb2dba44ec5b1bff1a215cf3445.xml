@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Conciliación disciplinar"
+    id="id-f2ebecb2dba44ec5b1bff1a215cf3445">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

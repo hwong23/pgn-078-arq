@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Flujo de trabajo Disciplinar"
+    id="id-bccc838de4bb43659223cbf3cad30170">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+</archimate:Capability>

@@ -1,0 +1,11 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de instancias (flujos)"
+    id="id-502080bc48e04747af1bfb2f259a6542">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+  <properties
+      key="caracteristica"
+      value="técnica, integración"/>
+</archimate:Goal>

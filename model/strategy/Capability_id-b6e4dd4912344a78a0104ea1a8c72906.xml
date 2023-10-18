@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Panel de control flujos"
+    id="id-b6e4dd4912344a78a0104ea1a8c72906">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+</archimate:Capability>

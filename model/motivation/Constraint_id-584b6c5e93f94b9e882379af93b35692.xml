@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSG9. Alteración de datos negocio"
+    id="id-584b6c5e93f94b9e882379af93b35692"
+    documentation="RSG9. Alteración de datos almacenados en Base de Datos.&#xD;&#xA;Se deberán asignar usuarios para la conexión de cada base de datos.&#xA;&#xD;&#xA;Se debe proporcionar seguridad a nivel de filas y columnas (ofuscamiento) para proteger los datos confidenciales en el nivel de columnas y filas RLS ((seguridad de nivel de fila). &#xA;&#xD;&#xA;Algunos de los métodos y características que se deben tener en cuenta a implementar es a partir del Alway encrypted, para cifrar los datos que se encuentran almacenados. &#xD;&#xA;&#xD;&#xA;"/>

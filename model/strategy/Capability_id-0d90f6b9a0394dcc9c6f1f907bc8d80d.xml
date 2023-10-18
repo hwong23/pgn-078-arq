@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Componente de autenticación SIU"
+    id="id-0d90f6b9a0394dcc9c6f1f907bc8d80d">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+</archimate:Capability>

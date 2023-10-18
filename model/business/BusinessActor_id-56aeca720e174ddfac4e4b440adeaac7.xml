@@ -1,0 +1,5 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de funcionarios PGN"
+    id="id-56aeca720e174ddfac4e4b440adeaac7"
+    documentation="La autenticacion de usuarios estará enmarcada en en tres factores de autenticación a partir del controlador de Dominio, y el acceso por VPN."/>

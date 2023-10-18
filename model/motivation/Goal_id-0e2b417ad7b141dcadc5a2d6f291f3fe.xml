@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Planes administrar"
+    id="id-0e2b417ad7b141dcadc5a2d6f291f3fe"
+    documentation="Administrar el plan estratégico institucional.">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

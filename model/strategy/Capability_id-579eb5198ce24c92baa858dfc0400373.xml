@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Épicas"
+    id="id-579eb5198ce24c92baa858dfc0400373">
+  <properties
+      key="modulo"
+      value="siaf"/>
+</archimate:Capability>

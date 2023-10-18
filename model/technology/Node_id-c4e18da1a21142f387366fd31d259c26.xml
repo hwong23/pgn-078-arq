@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Firewall BDD"
+    id="id-c4e18da1a21142f387366fd31d259c26">
+  <properties
+      key="brecha"
+      value="100"/>
+</archimate:Node>

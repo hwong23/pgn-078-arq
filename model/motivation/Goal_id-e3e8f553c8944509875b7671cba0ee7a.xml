@@ -1,0 +1,9 @@
+<archimate:Goal
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gráficos"
+    id="id-e3e8f553c8944509875b7671cba0ee7a"
+    documentation="Generar y presentar gráficos">
+  <properties
+      key="modulo"
+      value="estratego"/>
+</archimate:Goal>

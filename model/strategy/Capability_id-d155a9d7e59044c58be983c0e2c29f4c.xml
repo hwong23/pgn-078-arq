@@ -1,0 +1,8 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor de flujo de trabajo"
+    id="id-d155a9d7e59044c58be983c0e2c29f4c">
+  <properties
+      key="modulo"
+      value="conciliacion"/>
+</archimate:Capability>
