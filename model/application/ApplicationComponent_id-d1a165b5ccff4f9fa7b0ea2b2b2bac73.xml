@@ -6,4 +6,7 @@
   <properties
       key="plantilla"
       value="element-md-bold"/>
+  <properties
+      key="brecha"
+      value="100"/>
 </archimate:ApplicationComponent>

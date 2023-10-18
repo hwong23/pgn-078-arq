@@ -1,4 +1,8 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Doku (gest. doc.)"
-    id="id-875702502e054765993ac92b53d6fe23"/>
+    id="id-875702502e054765993ac92b53d6fe23">
+  <properties
+      key="brecha"
+      value="100"/>
+</archimate:ApplicationService>

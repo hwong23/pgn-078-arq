@@ -5,4 +5,7 @@
   <properties
       key="plataforma"
       value="angular 11"/>
+  <properties
+      key="brecha"
+      value="100"/>
 </archimate:ApplicationService>
