@@ -330,4 +330,7 @@
   <properties
       key="alias"
       value="pgndoc"/>
+  <properties
+      key="titulo"
+      value="Arquitectura de Software"/>
 </archimate:ArchimateDiagramModel>
