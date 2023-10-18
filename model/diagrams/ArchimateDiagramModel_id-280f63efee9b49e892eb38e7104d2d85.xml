@@ -700,7 +700,7 @@
       id="id-15c3b5e4054c4b2e89c7bb523175e154">
     <bounds
         x="348"
-        y="360"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -712,7 +712,7 @@
       id="id-aefa061fa2144ef3a29a4ecdd28f465d">
     <bounds
         x="191"
-        y="420"
+        y="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -820,8 +820,8 @@
           href="TriggeringRelationship_id-0337f2e899ab45a4aa693abf5ee0f38b.xml#id-0337f2e899ab45a4aa693abf5ee0f38b"/>
     </sourceConnections>
     <bounds
-        x="408"
-        y="84"
+        x="420"
+        y="126"
         width="120"
         height="55"/>
     <archimateElement

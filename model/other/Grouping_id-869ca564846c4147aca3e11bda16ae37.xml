@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Contexto"
-    id="id-869ca564846c4147aca3e11bda16ae37"/>
+    id="id-869ca564846c4147aca3e11bda16ae37">
+  <properties
+      key="titulo"
+      value="Diagrama de Arquitectura de la Solución Propuesta: vista de integración"/>
+</archimate:Grouping>
