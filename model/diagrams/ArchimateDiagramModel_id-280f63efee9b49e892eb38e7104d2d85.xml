@@ -444,7 +444,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0fd0f3dbd44243c7bbb05fb845dabe19"
-      targetConnections="id-933d3142c91d43bd8243b9059ddc38ab id-5e87fa8f428c4424b38522d12054329e id-746b1d9e0f8a4b5f830782eeff27c6ac id-6001220062844052ad0cca4389c93322">
+      targetConnections="id-933d3142c91d43bd8243b9059ddc38ab id-5e87fa8f428c4424b38522d12054329e id-746b1d9e0f8a4b5f830782eeff27c6ac">
     <bounds
         x="252"
         y="156"
@@ -457,7 +457,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f0fa5d0d0f744d7eaf3996eb2c99c696"
-      targetConnections="id-c103616a555b45379205385cfc84002f id-03a8f0fb79534d42860413f1c0e5a0dc id-47ed653d2d7d40f7a149ecdd3d5d9d54 id-b22e87be7765451681837df819859469">
+      targetConnections="id-c103616a555b45379205385cfc84002f id-03a8f0fb79534d42860413f1c0e5a0dc id-47ed653d2d7d40f7a149ecdd3d5d9d54">
     <bounds
         x="252"
         y="228"
@@ -797,36 +797,6 @@
     <archimateElement
         xsi:type="archimate:BusinessObject"
         href="BusinessObject_id-bd764207e6db47fbb79ae74e962c2b0d.xml#id-bd764207e6db47fbb79ae74e962c2b0d"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8fa4cb814a2943d3a9c5e029c2897df8">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6001220062844052ad0cca4389c93322"
-        source="id-8fa4cb814a2943d3a9c5e029c2897df8"
-        target="id-0fd0f3dbd44243c7bbb05fb845dabe19">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-85279e54b5104a87a414cf333494e1ff.xml#id-85279e54b5104a87a414cf333494e1ff"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b22e87be7765451681837df819859469"
-        source="id-8fa4cb814a2943d3a9c5e029c2897df8"
-        target="id-f0fa5d0d0f744d7eaf3996eb2c99c696">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-0337f2e899ab45a4aa693abf5ee0f38b.xml#id-0337f2e899ab45a4aa693abf5ee0f38b"/>
-    </sourceConnections>
-    <bounds
-        x="420"
-        y="126"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_id-6e665b762020452c866d1a87954d1058.xml#id-6e665b762020452c866d1a87954d1058"/>
   </children>
   <properties
       key="alcanseSOA"
