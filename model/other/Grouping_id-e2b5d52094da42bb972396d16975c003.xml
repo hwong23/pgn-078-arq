@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CI"
-    id="id-e2b5d52094da42bb972396d16975c003"/>
+    id="id-e2b5d52094da42bb972396d16975c003">
+  <properties
+      key="titulo"
+      value="Diagrama de Arquitectura de integración continua, devops y despliegues de capas"/>
+</archimate:Grouping>
