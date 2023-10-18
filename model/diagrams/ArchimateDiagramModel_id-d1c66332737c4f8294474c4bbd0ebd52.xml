@@ -255,7 +255,7 @@
       value="documentation-md-dv"/>
   <properties
       key="plantillaElm"
-      value="elementtabla-md,element-md-new"/>
+      value="elementtabla-md,element-md-bold"/>
   <properties
       key="IncluyeRelaciones"
       value="false"/>
