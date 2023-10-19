@@ -1,8 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Conceptual"
-    id="id-e29fde94798b4c9c981ab9424eafbb77">
+    name="Flujos"
+    id="id-b8339f10fd4a40ada0fade3336863eb1">
   <properties
       key="titulo"
-      value="Diagrama Modelo de Datos Conceptual"/>
+      value="Mapa de Información (flujos de información)"/>
 </archimate:Grouping>

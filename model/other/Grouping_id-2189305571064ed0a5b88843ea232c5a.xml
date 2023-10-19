@@ -1,8 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Conceptual"
-    id="id-e29fde94798b4c9c981ab9424eafbb77">
+    name="Diccionario"
+    id="id-2189305571064ed0a5b88843ea232c5a">
   <properties
       key="titulo"
-      value="Diagrama Modelo de Datos Conceptual"/>
+      value="Documento Diccionarios de Datos"/>
 </archimate:Grouping>
