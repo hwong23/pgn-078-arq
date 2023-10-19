@@ -2,14 +2,15 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguridad.Autenticación"
-    id="id-324b46dc703c4d05ba4e13dc40e898f5">
+    id="id-324b46dc703c4d05ba4e13dc40e898f5"
+    documentation="Autenticación: &#xD;&#xA;Con el objetivo de incrementar el nivel de seguridad, para el proceso de autenticación se tendrán en cuenta las siguientes consideraciones: &#xD;&#xA;&#xD;&#xA;Validación del proceso de gestión de usuarios: La fortaleza de la autenticación dependerá del proceso de gestión de usuarios implementado por parte de la entidad. Se debe tener en cuenta los lineamientos definidos en la política Específica de Control de Acceso. &#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Autenticación con integración de Windows: La autenticación permitirá que los usuarios asignados al dominio, una vez que se ingresen las credenciales, y realizada la validación, se autorizará el acceso a los servicios y/o soluciones a partir de la integración del directorio activo con la integración del LDAP – (Lightweight Directory Access Protocol). &#xD;&#xA;&#xD;&#xA;Los tipos de autenticación realizadas a partir de las identidades administradas de los recursos de Azure, entidades de Servicio y Certificados, podrán ser integrado con los dominios del directorio activo (DA) local. Por lo que respecta a la autenticación, será generado con la asignación de usuarios y credenciales definidas alineadas con la política Específica de Control de Acceso., a partir de la integración será validado el ingreso a las diferentes soluciones y/o sistemas de información de la PGN. &#xD;&#xA;&#xD;&#xA;Manejo y uso de contraseñas: Los servidores públicos deberán tener en cuenta los lineamientos definidos para la creación y gestión de contraseñas del Sistema de Gestión de Seguridad de la Información SGSI de la Procuraduría General de la Nación.&#xD;&#xA;&#xD;&#xA;Utilización de canales cifrados: El proceso de autenticación tendrá mecanismos de transmisión seguro. El uso del TLS (Transport Layer Security), será necesario para el acceso a la página de autenticación que ayude a garantizar la autenticidad de la aplicación a los funcionarios, como en la transmisión de las credenciales. &#xD;&#xA;&#xD;&#xA;Bloqueo de cuentas: Aquellas cuentas sobre las que se han realizados múltiples intentos de conexiones fallidas, cinco (5) intentos erróneos, se tendrá implementado un bloqueo temporal o permanente como mecanismo de seguridad para evitar amenazas de ataques. &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-9f48f3ab4d0745b494421a864eb4312b"
-      targetConnections="id-f33557fb97fa40409133c2a02d033892">
+      targetConnections="id-f33557fb97fa40409133c2a02d033892 id-1ea65bed264f489c94246773698f5933">
     <bounds
-        x="407"
-        y="36"
+        x="732"
+        y="234"
         width="120"
         height="55"/>
     <archimateElement
@@ -29,8 +30,8 @@
           href="TriggeringRelationship_id-9344509a78aa4b4cba5aff77e7659112.xml#id-9344509a78aa4b4cba5aff77e7659112"/>
     </sourceConnections>
     <bounds
-        x="600"
-        y="36"
+        x="916"
+        y="228"
         width="120"
         height="55"/>
     <archimateElement
@@ -50,8 +51,8 @@
           href="TriggeringRelationship_id-d91e18eaa69f4fc68e435cbf15833aad.xml#id-d91e18eaa69f4fc68e435cbf15833aad"/>
     </sourceConnections>
     <bounds
-        x="180"
-        y="270"
+        x="216"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -72,8 +73,8 @@
           href="TriggeringRelationship_id-b679e59a585848eb902499de335af190.xml#id-b679e59a585848eb902499de335af190"/>
     </sourceConnections>
     <bounds
-        x="504"
-        y="470"
+        x="408"
+        y="396"
         width="120"
         height="55"/>
     <archimateElement
@@ -85,8 +86,8 @@
       id="id-42520752c9084295aa8f7108fbcd186d"
       targetConnections="id-0314c1a35e984f13ba81535435a885be">
     <bounds
-        x="504"
-        y="324"
+        x="552"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
@@ -107,7 +108,7 @@
           href="TriggeringRelationship_id-9ca57b626b874a1dae1e26f6364cbda2.xml#id-9ca57b626b874a1dae1e26f6364cbda2"/>
     </sourceConnections>
     <bounds
-        x="504"
+        x="576"
         y="396"
         width="120"
         height="55"/>
@@ -128,7 +129,7 @@
           href="TriggeringRelationship_id-76b6fc83b17a4916b503782ac0fe5e20.xml#id-76b6fc83b17a4916b503782ac0fe5e20"/>
     </sourceConnections>
     <bounds
-        x="708"
+        x="720"
         y="486"
         width="197"
         height="39"/>
@@ -140,6 +141,15 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-7aae4825ad174480993669010a92e03b"
       targetConnections="id-32fe3f0e959748e19bba37d000e6dc86 id-fb456bc76e1443bcb57fe74900af9a00 id-bc0b84a4603a47a586f3c76ce6fc35da id-b61bdd0aa4fb4f23b42d3e205a5bfdf3 id-f86ae63cbb704752a235be699e5c0e1b">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1ea65bed264f489c94246773698f5933"
+        source="id-7aae4825ad174480993669010a92e03b"
+        target="id-9f48f3ab4d0745b494421a864eb4312b">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-9fe399ba4a8d435a88834ebdc761bb79.xml#id-9fe399ba4a8d435a88834ebdc761bb79"/>
+    </sourceConnections>
     <bounds
         x="732"
         y="384"
@@ -232,5 +242,19 @@
     <archimateElement
         xsi:type="archimate:BusinessInteraction"
         href="BusinessInteraction_id-b3ede6da126146c691af6ab434e4be58.xml#id-b3ede6da126146c691af6ab434e4be58"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1b444ff200fe4356a123d37ebf7720a6"
+      textAlignment="1"
+      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xD;&#xA;Preceso de autenticación, controles de acceso, asignación de permisos y roles. de PGN.&#xA;&#xA;versión 0.2">
+    <bounds
+        x="36"
+        y="36"
+        width="325"
+        height="168"/>
+    <properties
+        key="modulo"
+        value="relatoria"/>
   </children>
 </archimate:ArchimateDiagramModel>

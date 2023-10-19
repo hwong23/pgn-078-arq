@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validación de autenticación"
     id="id-d6c5fb573f6b4596b823d60c98e0abff"
-    documentation="Validación del proceso de gestión de usuarios: La fortaleza de la autenticación dependerá del proceso de gestión de usuarios implementado por parte de la entidad. Se debe tener en cuenta los lineamientos definidos en la política Específica de Control de Acceso.  &#xD;&#xA;Se definirá e identificará el proceso para la identificación del usuario,  identificación de cuenta como usuario y contraseña, los atributos  comunes, como Roles, Funciones, Proceso institucional, Ubicación y los atributos del aplicativo como niveles de permiso, control de acceso. entre otros. "/>
+    documentation="Autenticación: &#xD;&#xA;Con el objetivo de incrementar el nivel de seguridad, para el proceso de autenticación se tendrán que realizar las diferentes validaciones para el accesos a las soluciones desarrolladas. "/>

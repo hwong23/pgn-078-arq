@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Logs"
-    id="id-7b93e9716ba34948b2f24343f297d757"/>
+    id="id-7b93e9716ba34948b2f24343f297d757"
+    documentation="Registro de actividades que permitirá mantener trazabilidad a partir de los registros de auditoría que contenga información de fecha y hora, identificación del registro, tabla afectada, descripción del evento, tipo de evento, usuario que realiza la acción, identificación de sesión y dirección IP del usuario que efectuó la transacción. "/>

@@ -1,4 +1,5 @@
 <archimate:BusinessInteraction
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registrar"
-    id="id-b3ede6da126146c691af6ab434e4be58"/>
+    id="id-b3ede6da126146c691af6ab434e4be58"
+    documentation="Permitirá definir los Servidores públicos, Contratistas, Practicantes y/o aprendices que podran registrar informacion sobre las diferentes soluciones. "/>
