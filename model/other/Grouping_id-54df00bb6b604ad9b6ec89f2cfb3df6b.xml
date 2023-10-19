@@ -1,8 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Conceptual"
-    id="id-e29fde94798b4c9c981ab9424eafbb77">
+    name="Ontológico"
+    id="id-54df00bb6b604ad9b6ec89f2cfb3df6b">
   <properties
       key="titulo"
-      value="Diagrama Modelo de Datos Conceptual"/>
+      value="Modelo Ontológico"/>
 </archimate:Grouping>
