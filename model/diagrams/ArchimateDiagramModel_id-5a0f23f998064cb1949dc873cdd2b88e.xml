@@ -1,4 +1,57 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguridad.Autorización"
-    id="id-5a0f23f998064cb1949dc873cdd2b88e"/>
+    id="id-5a0f23f998064cb1949dc873cdd2b88e"
+    documentation="Los mecanismos de autorización para el acceso a los sistemas de información de la procuraduría general de la nación describen la forma de cómo se restringe el acceso a los diferentes módulos (Misionales (SIM), Registros de Inhabilidades (SIRI), Nómina, Control Interno y relatoría, entre otros.), y que se considera un mecanismo de protección, que ayuda a reaccionar ante cualquier operación no autorizada. &#xD;&#xA;El control de acceso basado en roles (RBAC), enfoca la idea de que a los funcionarios se les otorgue los permisos de acceso a los recursos, basados en los roles y/o perfiles que este posee. Este control posee dos características fundamentales: i) los accesos son controlados por medio de los roles y/o perfiles asignados, quiere decir, a los servidores públicos, contratistas, terceros y otros colaboradores autorizados para interactuar con los sistemas de información se le asignan los roles y el encargado/responsable definirá los permisos, que a su vez están relacionados con los roles, ii) Los roles pueden ser definidos a nivel jerárquico, es decir que un rol podrá ser miembro de otro rol.  &#xD;&#xA;&#xD;&#xA;Un proceso de autorización basado en roles, identifica tres factores importantes, i) Todos los servidores públicos, contratistas, terceros y otros &#xD;&#xA;Colaboradores, deben tener un rol asignado, si no es asignado no podrá realizar ninguna acción relacionada con el acceso, ii) un usuario podrá hacer uso de los permisos asociados a los roles asignados, el cual deberá realizar el inicio de sesión el usuario asignado del Directorio activo (DA), iii) los servidores públicos, contratistas, terceros y otros, solo podrán realizar acciones para las cuales han sido autorizados por medio de la activación de sus roles y/o perfiles.  &#xD;&#xA;EL control definido para los accesos basados en roles RBAC, permitirá que solo las personas autorizadas de la PGN podrán acceder a ciertos recursos (programas, equipos, aplicaciones, bases de datos, etc.) definido por sus funciones laborales, lo que permitirá controlar los accesos desde diferentes escenarios: Sistemas de información, redes y aplicaciones. &#xD;&#xA;&#xD;&#xA;Gestión de identidades y Control de acceso:  &#xD;&#xA;Gestor de identidades: En esta gestión se planifica el ciclo de vida de las identidades de usuario y se realizan los procesos de sincronización, de acuerdo a los suministros de accesos establecidos por la entidad, los cuales son integrados con el servidor que gestiona la identidad y control de acceso.  &#xD;&#xA;&#xD;&#xA;Gestor de roles: La asignación de roles es sincronizada con la identidad de usuario en el servidor de dominio. Para esta gestión se crean las reglas y condiciones que determinan si un usuario puede o no pertenecer a un rol definido por la entidad. &#xD;&#xA;Para el gobierno y gestión de identidades y de acceso, se identificó como primera medida la implementación de la siguiente metodología.">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a87bb874b5d24b29bf8c8912c8111450">
+    <bounds
+        x="576"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-cb821069115648e39cd6a072175344c8.xml#id-cb821069115648e39cd6a072175344c8"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-458592cf45c64420ac10196d3ee8397b">
+    <bounds
+        x="252"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-d91ccfdcaa3344c68523e8c33ab30345.xml#id-d91ccfdcaa3344c68523e8c33ab30345"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-0e7436b5254844db98cb7b882985d9cd">
+    <bounds
+        x="408"
+        y="264"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-bf045c97cf694ad1afcb5837500cb117.xml#id-bf045c97cf694ad1afcb5837500cb117"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-42144a14456a4e5f8c8d3f8f173298ee"
+      textAlignment="1"
+      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xD;&#xA;Preceso de autenticación, controles de acceso, asignación de permisos y roles. de PGN.&#xA;&#xA;versión 0.2">
+    <bounds
+        x="24"
+        y="12"
+        width="325"
+        height="168"/>
+    <properties
+        key="modulo"
+        value="relatoria"/>
+  </children>
+</archimate:ArchimateDiagramModel>

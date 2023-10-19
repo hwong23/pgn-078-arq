@@ -78,11 +78,14 @@
   </children>
   <properties
       key="devdoc"
-      value="04n.1a.datos.md"/>
+      value="02n.a3.pgndatos.md"/>
   <properties
       key="rutaMac"
-      value="/Users/hwo/Downloads/tmpr/pgnmd/"/>
+      value="/Downloads/tmpr/pgnmd/"/>
   <properties
       key="alias"
       value="datdoc"/>
+  <properties
+      key="titulo"
+      value="Arquitectura de Información (Datos)"/>
 </archimate:ArchimateDiagramModel>

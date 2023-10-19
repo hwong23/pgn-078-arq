@@ -198,6 +198,7 @@
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b7592aeda4c7407fb9ba4897229dbcbc"
         targetConnections="id-33c14f89fd0a4da78b1b45072425ca3b id-e6ef64c18851432dbad714df4a81d8fa"
+        fillColor="#00ff00"
         type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"

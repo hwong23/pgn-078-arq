@@ -197,7 +197,7 @@
       id="id-6afa99f7cd7e4181b0a245ecce6909c1"
       targetConnections="id-31e50f50a17c4a8a9e45692037a5277c">
     <bounds
-        x="492"
+        x="516"
         y="678"
         width="120"
         height="55"/>
@@ -356,9 +356,9 @@
       content="Directorio Activo">
     <bounds
         x="540"
-        y="144"
+        y="156"
         width="122"
-        height="37"/>
+        height="48"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelNote"
@@ -465,8 +465,8 @@
       textAlignment="1"
       content="Directorio Activo&#xD;&#xA;&#xD;&#xA; ">
     <bounds
-        x="473"
-        y="279"
+        x="462"
+        y="301"
         width="122"
         height="48"/>
   </children>
@@ -495,8 +495,8 @@
           href="AssociationRelationship_id-7c790db9796f40728eabf12840f9eff4.xml#id-7c790db9796f40728eabf12840f9eff4"/>
     </sourceConnections>
     <bounds
-        x="691"
-        y="263"
+        x="635"
+        y="275"
         width="120"
         height="55"/>
     <archimateElement
@@ -538,7 +538,7 @@
       id="id-f9ac479ddaac4ece97ebdde915a8051d"
       targetConnections="id-58fd110407bd4cc7a2fd35cfeec1ad6e">
     <bounds
-        x="576"
+        x="624"
         y="-1"
         width="120"
         height="55"/>
@@ -552,7 +552,4 @@
   <properties
       key="rutaMac"
       value="/Users/hwo/Downloads/tmpr/pgnmd/"/>
-  <properties
-      key="alias"
-      value="datdoc"/>
 </archimate:ArchimateDiagramModel>

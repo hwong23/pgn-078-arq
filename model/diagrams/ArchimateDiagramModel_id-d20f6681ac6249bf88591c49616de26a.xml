@@ -54,11 +54,14 @@
   </children>
   <properties
       key="devdoc"
-      value="03n.infra.md"/>
+      value="02n.a4.pgnarqinfra.md"/>
   <properties
       key="rutaMac"
-      value="/Users/hwo/Downloads/tmpr/pgnmd/"/>
+      value="/Downloads/tmpr/pgnmd/"/>
   <properties
       key="alias"
       value="infradoc"/>
+  <properties
+      key="titulo"
+      value="Arquitectura de Software: Infraestructura"/>
 </archimate:ArchimateDiagramModel>
