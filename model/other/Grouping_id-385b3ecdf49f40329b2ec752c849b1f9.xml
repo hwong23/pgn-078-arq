@@ -1,4 +1,8 @@
 <archimate:Grouping
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Descripción de Infraestructura Migración SUI PGN"
-    id="id-385b3ecdf49f40329b2ec752c849b1f9"/>
+    name="TI"
+    id="id-385b3ecdf49f40329b2ec752c849b1f9">
+  <properties
+      key="titulo"
+      value="Diagrama de Infraestructura de TI"/>
+</archimate:Grouping>
