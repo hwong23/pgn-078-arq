@@ -185,7 +185,7 @@
     <bounds
         x="48"
         y="816"
-        width="400"
+        width="720"
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -198,6 +198,30 @@
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-d83ebcb4235c40c4ac68b7f373d4161f.xml#id-d83ebcb4235c40c4ac68b7f373d4161f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-f766c365450f4547b7abfdaa0605fc30">
+      <bounds
+          x="216"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-4c100d12ba20482282de3017e7d0babb.xml#id-4c100d12ba20482282de3017e7d0babb"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-fac61ba5c82d4d998c23d21383e1e48e">
+      <bounds
+          x="360"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-7d92ae546af5470da3615c40a5869d83.xml#id-7d92ae546af5470da3615c40a5869d83"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
