@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Validación de autenticación"
+    id="id-d6c5fb573f6b4596b823d60c98e0abff"
+    documentation="Autenticación: &#xD;&#xA;Con el objetivo de incrementar el nivel de seguridad, para el proceso de autenticación se tendrán que realizar las diferentes validaciones para el accesos a las soluciones desarrolladas. "/>

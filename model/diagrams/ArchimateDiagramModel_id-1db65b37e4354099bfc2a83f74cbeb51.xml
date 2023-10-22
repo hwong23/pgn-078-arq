@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Migracion.2d. datos SIRI"
+    name="Migracion.2c2. Datos SIRI"
     id="id-1db65b37e4354099bfc2a83f74cbeb51"
     documentation="Identificación de entidades de datos de negocio relacionadas al módulo del SUI, SIRI.&#xA;&#xA;Estas entidades de datos de negocio son los que llamamos los tipos de datos internos del SUI y deben ser consideradas para la creación de las API de manejo del ciclo de vida de los datos de este módulo. &#xA;">
   <children

@@ -1,5 +1,5 @@
 <archimate:ApplicationProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Procesamiento batch PGN"
+    name="Procesamiento de lotes PGN"
     id="id-46d18b58c9d64e94b48de4cf54b35191"
     documentation="Los procesos de lotes, que requieren volumenes de datos altos, deben hacer parte de la arquitectura de datos del SUI.&#xA;"/>

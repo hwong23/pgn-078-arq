@@ -1,0 +1,8 @@
+<archimate:Grouping
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Seguridad"
+    id="id-799245feeab44afdbaa4e66ee7c1f482">
+  <properties
+      key="titulo"
+      value="Diagrama de Arquitectura de la Solución Propuesta: gestión de autenticación,&#xA;usuarios y roles"/>
+</archimate:Grouping>

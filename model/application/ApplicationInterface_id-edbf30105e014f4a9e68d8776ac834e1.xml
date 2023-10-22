@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interfaz de Acceso Proveedores 2"
+    id="id-edbf30105e014f4a9e68d8776ac834e1"
+    documentation="Interfaz de acceso a los tipos de datos externos al SUI.&#xA;&#xA;El patrón de API Externa (reverse proxie) tiene el rol de unir y referir a los datos externos e históricos al SIU Migrado de tal manera que hace transparente la localización y el formato de este tipo de datos.&#xA;&#xA;"/>

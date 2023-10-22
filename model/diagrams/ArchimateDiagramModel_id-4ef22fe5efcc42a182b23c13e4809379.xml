@@ -1,0 +1,43 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Doc.5 Autorización"
+    id="id-4ef22fe5efcc42a182b23c13e4809379">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-343519e8d0684c1fb9fb33e3e2bffcec"
+      textAlignment="1">
+    <bounds
+        x="144"
+        y="72"
+        width="889"
+        height="229"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-eccf456362d848d09316da4b9dc79fcf">
+      <bounds
+          x="384"
+          y="48"
+          width="181"
+          height="37"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-5a0f23f998064cb1949dc873cdd2b88e.xml#id-5a0f23f998064cb1949dc873cdd2b88e"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-79ba0151969946199caf2a13ebe29246">
+      <bounds
+          x="156"
+          y="48"
+          width="205"
+          height="37"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-324b46dc703c4d05ba4e13dc40e898f5.xml#id-324b46dc703c4d05ba4e13dc40e898f5"/>
+    </children>
+    <archimateElement
+        xsi:type="archimate:Grouping"
+        href="Grouping_id-a566a40e2d4f4aff97db146f7e1bf6d9.xml#id-a566a40e2d4f4aff97db146f7e1bf6d9"/>
+  </children>
+</archimate:ArchimateDiagramModel>

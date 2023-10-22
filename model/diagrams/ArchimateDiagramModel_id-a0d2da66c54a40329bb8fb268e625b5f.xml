@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Migracion.2a. datos Hominis"
+    name="Migracion.2c. Datos Hominis"
     id="id-a0d2da66c54a40329bb8fb268e625b5f"
     documentation="Identificación de entidades de datos de negocio relacionadas al módulo de gestión de capital del SUI, Hominis.&#xA;&#xA;Estas entidades de datos de negocio son los que llamamos los tipos de datos internos del SUI y deben ser consideradas para la creación de las API de manejo del ciclo de vida de los datos de este módulo.&#xA;">
   <children

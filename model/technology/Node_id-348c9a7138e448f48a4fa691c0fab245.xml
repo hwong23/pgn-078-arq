@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sistema de Seguridad (LDAP) 1"
     id="id-348c9a7138e448f48a4fa691c0fab245"
-    documentation="Sistema de Seguridad (LDAP) 1. Control de acceso internet, &#xD;&#xA;La autenticación podrá estar integrada con el directorio activo, a partir de la generación de codigo para ek ingreso con 2FA, que podrá generar un código la plataforma de correo corporativo, el cual solicitará el codigo de autenticacion y una vez ingreado podrá redirigir al sitio.&#xA;"/>
+    documentation="Sistema de Seguridad (LDAP) 1. Control de acceso internet, &#xD;&#xA;La autenticación podrá estar integrada con el directorio activo, a partir de la generación de codigo para ek ingreso con 2FA, que podrá generar un código la plataforma de correo corporativo, el cual solicitará el codigo de autenticacion y una vez ingreado podrá redirigir al sitio.&#xA;">
+  <properties
+      key="brecha"
+      value="100"/>
+</archimate:Node>

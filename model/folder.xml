@@ -2,8 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="PGN-078"
     id="id-6a1303f9965b41ffa23b214651da8ebe"
-    purpose="Fase 2, PGN Migración Funcional SIU (078-2023)&#xA;&#xA;local: /Users/hwong23/git/archigit/pgn-078-arq&#xA;remoto: https://github.com/hwong23/pgn-078-arq.git&#xA;&#xA;&#xA;versión 0.7&#xA;&#xA;---&#xA;Mapa de productos&#xA;Seguridad&#xA;"
-    version="4.6.0">
+    purpose="Fase 2, PGN Migración Funcional SIU (078-2023)&#xA;&#xA;local: /Users/hwong23/git/archigit/pgn-078-arq&#xA;remoto: https://github.com/hwong23/pgn-078-arq.git&#xA;&#xA;&#xA;versión 0.8.1&#xA;&#xA;---&#xA;Documentación contractual PGN&#xA;Mapa de productos&#xA;Seguridad&#xA;"
+    version="4.9.0">
   <properties
       key="rutaMacHTML"
       value="/Downloads/tmpr/pgnarchidoc/"/>
@@ -13,4 +13,7 @@
   <properties
       key="devdoc"
       value="02n.a1.pgn.md"/>
+  <properties
+      key="reporte"
+      value="index.html"/>
 </archimate:ArchimateModel>
