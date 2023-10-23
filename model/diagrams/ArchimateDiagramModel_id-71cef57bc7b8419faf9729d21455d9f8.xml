@@ -1,0 +1,21 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Migracion.2a.a34 Datos Ontológico"
+    id="id-71cef57bc7b8419faf9729d21455d9f8"
+    documentation="En construcción.&#xA;">
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-ec0cfb85e6664dc788c3ece547441b28"
+      textAlignment="1"
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Jerarquización y relacionamiento de las entidades lógicas (datos de negocio). Módulos Central Sistema Único de Información.&#xA;&#xA;versión 0.1&#xA;">
+    <bounds
+        x="12"
+        y="12"
+        width="229"
+        height="145"/>
+  </children>
+  <properties
+      key="ancho"
+      value="5.32"/>
+</archimate:ArchimateDiagramModel>

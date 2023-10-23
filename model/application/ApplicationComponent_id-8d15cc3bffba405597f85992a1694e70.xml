@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="APP2.SIRI"
-    id="id-8d15cc3bffba405597f85992a1694e70"/>
+    id="id-8d15cc3bffba405597f85992a1694e70"
+    documentation="Módulo central SUI migrado. Módulo independiente y asignado a un dominio partigular de la PGN: SIRI.&#xA;"/>
