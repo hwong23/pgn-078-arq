@@ -127,8 +127,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-f1ed3c83cfbe4fb1a21eb310a68bbbc8"
-        targetConnections="id-c038656615bf4f51a1c2eec3c8f20de1 id-363c6050048d4d7081d00dc32fd21091 id-aa51f1142cfb4cbd8cb3b2808965d304"
-        fillColor="#00ff00">
+        targetConnections="id-c038656615bf4f51a1c2eec3c8f20de1 id-363c6050048d4d7081d00dc32fd21091 id-aa51f1142cfb4cbd8cb3b2808965d304">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-9bcdaab001e5450cb0b0f8efd59d7482"
@@ -428,8 +427,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5dbf87085a9347e4b7ea72413433894c"
-        targetConnections="id-f53f9d1d04bd42c485a85bccf86c8a8a id-5ad5fafc55414b7989bea520d041e9e2"
-        fillColor="#00ff00">
+        targetConnections="id-f53f9d1d04bd42c485a85bccf86c8a8a id-5ad5fafc55414b7989bea520d041e9e2">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2c0b454ecbc64622b7a54e06aa3a46ee"
@@ -486,8 +484,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-808af0d2ab1d4e7792c2132557f67013"
-        targetConnections="id-b56f7586ab4d4267a955daf0a8dc1642"
-        fillColor="#00ff00">
+        targetConnections="id-b56f7586ab4d4267a955daf0a8dc1642">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-f53f9d1d04bd42c485a85bccf86c8a8a"
@@ -518,8 +515,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-c9694d10285f40aea3e70e077e7bc91d"
-        targetConnections="id-17b7827ce21f42e4988a101a6d33edbe id-5b1f1a6a64544bf6a6e5ddf501ffe58b"
-        fillColor="#00ff00">
+        targetConnections="id-17b7827ce21f42e4988a101a6d33edbe id-5b1f1a6a64544bf6a6e5ddf501ffe58b">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-bb86230b1b844096a70700809f814b41"
@@ -616,8 +612,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-1d20bcf8478d45b9b4ec15250c28d08e"
-        targetConnections="id-c9f6ed93633f469ba2a6ddf9c225239f"
-        fillColor="#00ff00">
+        targetConnections="id-c9f6ed93633f469ba2a6ddf9c225239f">
       <bounds
           x="48"
           y="72"
@@ -630,8 +625,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-288ac7c8138344a6adb4651d610c6e51"
-        targetConnections="id-99aa2888d12f4cefb5ff7560f1a833bf"
-        fillColor="#00ff00">
+        targetConnections="id-99aa2888d12f4cefb5ff7560f1a833bf">
       <bounds
           x="180"
           y="72"
@@ -728,8 +722,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b609ad45caa6468cae77ef0f4c735d46"
-        targetConnections="id-fa09dbfca9364e11a06b0d29fa724b73"
-        fillColor="#00f900">
+        targetConnections="id-fa09dbfca9364e11a06b0d29fa724b73">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-2395f42bb6d54272a5c793aafb49cf8a"
@@ -954,8 +947,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-5410ae38432a47dc9dd340f172f2caca"
-        targetConnections="id-4794735d0a4445689f68e6eb215e8f0e"
-        fillColor="#00ff00">
+        targetConnections="id-4794735d0a4445689f68e6eb215e8f0e">
       <bounds
           x="180"
           y="84"
@@ -981,8 +973,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b4ce23e58f1245419960bbcf4de02549"
-        targetConnections="id-de2da2eafd54478487faed35e264b554"
-        fillColor="#00ff00">
+        targetConnections="id-de2da2eafd54478487faed35e264b554">
       <bounds
           x="324"
           y="84"
@@ -995,8 +986,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-4f708413d4794ff685980242695d193a"
-        targetConnections="id-626858f622ab4f579f937a027f5a41d1"
-        fillColor="#00ff00">
+        targetConnections="id-626858f622ab4f579f937a027f5a41d1">
       <bounds
           x="180"
           y="156"
