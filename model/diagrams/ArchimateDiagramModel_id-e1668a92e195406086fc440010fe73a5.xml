@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.1a.b.SIU Contexto Módulos"
     id="id-e1668a92e195406086fc440010fe73a5"
-    documentation="La vista presenta en contexto a los módulos SUI migrados y el estilo de comunicación vía API sincreonica/asincrónica.&#xA;&#xA;Cada módulo migrado atiende al funcionario que le corresponde, p. ejemplo, Relatoría atiende a la depedencia Jurídica de la PGN. Los módulos comparten su información mediante el API local presente dentro de cada uno. Esto es, la información se mantiene protegida en dominios pero coordinada (se comparte con otros dominios).&#xA;&#xA;El arreglo de datos de registros operativos y transaccionales es como sigue: cada módulo individual mantiene su registro de datos, estado y transacciones minimizado y protegido (individual y aislado). Salvo excepciones no consentidas por el diseño original, un módulo puede compartir el mismo almacen de datos con otro.&#xA;">
+    documentation="La vista presenta en contexto a los módulos SUI migrados y el estilo de comunicación vía API sincrónica/asincrónica (en verde en la imagen).&#xA;&#xA;Cada módulo migrado atiende al funcionario que le corresponde, p. ejemplo, Relatoría atiende a la depedencia Jurídica de la PGN. Los módulos comparten su información mediante el API local presente dentro de cada uno. Esto es, la información se mantiene protegida en dominios pero coordinada (se comparte con otros dominios).&#xA;&#xA;El arreglo de datos de registros operativos y transaccionales es como sigue: cada módulo individual mantiene su registro de datos, estado y transacciones minimizado y protegido (individual y aislado). Salvo excepciones no consentidas por el diseño original, un módulo puede compartir el mismo almacen de datos con otro.&#xA;&#xA;La coordinación de transacciones es realizada por la colaboración de las otras API individuales de cada módulo. Por ejemplo, si una relatoría nueva requiere alguna validación de Hominis, el módulo coordinador (c) inicia la transacción hacia Homini, y este, el módulo proveedor (p) responde con el resultado de la validación. Esta módulo coordinador misma operación se repite cuando la transacción involucra a más módulos proveedores (p). &#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d1817a96fbc48fcb58aa7358c794fd7"
@@ -52,7 +52,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-28332a1713964dfb9ef6b4508f08c48b"
-        targetConnections="id-cf4704f44bba45f5a483764eccd7c188">
+        targetConnections="id-cf4704f44bba45f5a483764eccd7c188"
+        fillColor="#8df900">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="id-e252122c5fd74784853f6e345bb2a2f3"
@@ -237,7 +238,7 @@
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-6616fc918ced4a3da97212b5af07da49"
-      fillColor="#ccccff"
+      fillColor="#00f900"
       content="RQR."
       borderType="1">
     <bounds
@@ -251,36 +252,11 @@
       id="id-f9ff6eb602ca4b9dbfb6a4856ec6ecc5"
       font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
       textAlignment="1"
-      content="Requerimiento contractual"
+      content="API coordinador operaciones"
       borderType="1">
     <bounds
         x="79"
         y="1140"
-        width="181"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-7d5eee631cf24ff3ba0821688e9904ce"
-      fillColor="#ccccff"
-      content="ARQ."
-      borderType="1">
-    <bounds
-        x="19"
-        y="1176"
-        width="49"
-        height="25"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-afc2c5eec8cc4135be1f323ffd265bd6"
-      font="1|Lucida Grande|10.0|0|COCOA|1|LucidaGrande"
-      textAlignment="1"
-      content="Restricción de arquitectura"
-      borderType="1">
-    <bounds
-        x="79"
-        y="1176"
         width="181"
         height="25"/>
   </children>
@@ -314,9 +290,10 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-96609fe44f914c1791f62574bd0274d0"
-        targetConnections="id-8e422da0b98c473f99f14f1328439420 id-e252122c5fd74784853f6e345bb2a2f3">
+        targetConnections="id-8e422da0b98c473f99f14f1328439420 id-e252122c5fd74784853f6e345bb2a2f3"
+        fillColor="#8df900">
       <bounds
-          y="72"
+          y="60"
           width="120"
           height="55"/>
       <archimateElement
@@ -369,7 +346,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-a8dc7c31f88849e18a3d52c691fdf83a"
-        targetConnections="id-53be7bcc6d014763b05e9d56d8cade2c id-23086a093ae84774b4eb4fdc8448149f">
+        targetConnections="id-53be7bcc6d014763b05e9d56d8cade2c id-23086a093ae84774b4eb4fdc8448149f"
+        fillColor="#8df900">
       <bounds
           x="1"
           y="60"
@@ -425,7 +403,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-31cba5ef1d19453e8646ca455153d5f5"
-        targetConnections="id-29c70afc9f4c489f9c3a41c50142d155 id-cdc7b709c4bb4c5a9a583ffc704555b2">
+        targetConnections="id-29c70afc9f4c489f9c3a41c50142d155 id-cdc7b709c4bb4c5a9a583ffc704555b2"
+        fillColor="#8df900">
       <bounds
           y="60"
           width="120"
