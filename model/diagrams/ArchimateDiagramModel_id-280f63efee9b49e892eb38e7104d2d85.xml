@@ -88,17 +88,6 @@
           xsi:type="archimate:ApplicationService"
           href="ApplicationService_id-ac6d42077e3544ae8f7c9d7bd5daf461.xml#id-ac6d42077e3544ae8f7c9d7bd5daf461"/>
     </children>
-    <children
-        xsi:type="archimate:DiagramModelNote"
-        id="id-d06c0a2561bf46c8bb650e826c80dd4e"
-        textAlignment="1"
-        content="2MFA">
-      <bounds
-          x="12"
-          y="132"
-          width="61"
-          height="28"/>
-    </children>
     <archimateElement
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-57f66661f97140a6a4938a70315ad2ed.xml#id-57f66661f97140a6a4938a70315ad2ed"/>
