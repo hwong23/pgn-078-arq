@@ -165,7 +165,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-ec77ae18632f4a29bc6f4ec76998dd6f"
       textAlignment="1"
-      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Modelo de transporte de datos de negocio. Módulos Sistema Único de Información. &#xA;&#xA;versión 0.2.1">
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Modelo de transporte de datos de negocio. Módulo Sistema Único de Información con externos.&#xA;&#xA;versión 0.2.1">
     <bounds
         x="15"
         y="12"
