@@ -1052,16 +1052,16 @@
           href="AccessRelationship_id-e6d1389ef6cd450a8e4e64a1d82eaaf6.xml#id-e6d1389ef6cd450a8e4e64a1d82eaaf6"/>
     </sourceConnections>
     <bounds
-        x="360"
+        x="420"
         y="432"
-        width="534"
+        width="474"
         height="55"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b7bd12349d024fb892a6dab1b493d336"
         targetConnections="id-599235ad33124047a7010bd92bcf0dee">
       <bounds
-          x="384"
+          x="324"
           y="12"
           width="108"
           height="31"/>
