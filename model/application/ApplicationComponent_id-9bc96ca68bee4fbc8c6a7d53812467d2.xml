@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Diseño y arquitectura del Sistema."
-    id="id-9bc96ca68bee4fbc8c6a7d53812467d2"/>
+    id="id-9bc96ca68bee4fbc8c6a7d53812467d2"
+    documentation="El detalle de los componentes se generará a partir de la definición de la arquitectura de software que definirá los patrones y lineamientos para la construcción de las soluciones, que estarán definidos en el documento de arquitectura de Software y planteará la arquitectura de i) Software, ii) datos, iii) infraestructura y iv) modelo de Seguridad. "/>

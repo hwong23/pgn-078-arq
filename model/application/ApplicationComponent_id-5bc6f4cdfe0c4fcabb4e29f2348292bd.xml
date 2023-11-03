@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Función PGN 2"
+    id="id-5bc6f4cdfe0c4fcabb4e29f2348292bd"
+    documentation="La unidad de cómputo que resulta en la aplicación de una regla de negocio.&#xA;">
+  <properties
+      key="plataforma"
+      value="js"/>
+</archimate:ApplicationComponent>

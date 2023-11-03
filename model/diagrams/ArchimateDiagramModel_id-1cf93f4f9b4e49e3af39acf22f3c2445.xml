@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguridad. Lineabase.1a.SIU componentes (corregida)"
+    name="Seguridad. Lineabase.1a.SIU componentes"
     id="id-1cf93f4f9b4e49e3af39acf22f3c2445"
     documentation="Dependencias de infraestructura entre los servicios que integran el modelo de aplicación de SUI, Migración. &#xA;&#xA;* Servidor de Canales (App PGN web y móvil)&#xA;* Servidor Web App (App SUI)&#xA;* Servidor Lappiz (Config SUI)&#xA;* Servidor BDD App (Transaccional)&#xA;* Servidor BDD Config (Configuración)&#xA;&#xA;">
   <children
@@ -1052,16 +1052,16 @@
           href="AccessRelationship_id-e6d1389ef6cd450a8e4e64a1d82eaaf6.xml#id-e6d1389ef6cd450a8e4e64a1d82eaaf6"/>
     </sourceConnections>
     <bounds
-        x="360"
+        x="420"
         y="432"
-        width="534"
+        width="474"
         height="55"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-b7bd12349d024fb892a6dab1b493d336"
         targetConnections="id-599235ad33124047a7010bd92bcf0dee">
       <bounds
-          x="384"
+          x="324"
           y="12"
           width="108"
           height="31"/>

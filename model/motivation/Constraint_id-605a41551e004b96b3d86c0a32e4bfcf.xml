@@ -1,0 +1,5 @@
+<archimate:Constraint
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RSG13. Sistema de autenticación híbrido"
+    id="id-605a41551e004b96b3d86c0a32e4bfcf"
+    documentation="Definir la estrategia de autenticación del SIU migrado (aplicable a todos los módulos del SIU migrado).&#xA;&#xA;opc1. Híbrida: integrado, directorio empresarial (LDAP), y servicios de autenticación de confianza: Office 365 de PGN.&#xA;&#xA;opc2. Servicio de autenticación de confianza: Office 365 de PGN.&#xA;&#xA;"/>
