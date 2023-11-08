@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lineabase.0.SIU applicación. física"
+    name="Lineabase.0.SIU Aplicación. Física"
     id="id-f3eee2e860604899903c6b48c2f76335"
     documentation="Procuraduría General de la Nación (PGN), módulo SIU migrado, 2023. Elementos físicos que soportan a la aplicación Sistema de Información Único (SIU en adelante) de la PGN, actual Fase I y existente en Fase II. Presentación de componentes de software y tecnologeia física (hardware) implementados en la Fase I y requeridos por Fase II (presente proyecto).&#xA;&#xA;## Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&lt;br>&#xA;">
   <children
