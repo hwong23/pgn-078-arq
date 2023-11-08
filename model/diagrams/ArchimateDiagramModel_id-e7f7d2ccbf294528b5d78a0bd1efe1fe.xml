@@ -350,8 +350,8 @@
     <bounds
         x="42"
         y="1296"
-        width="625"
-        height="229"/>
+        width="725"
+        height="133"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-5605d710a1154b5faf1722e558d2bfaf">
@@ -404,8 +404,8 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-4304562cc5f74575bc6c6b98777330b6">
       <bounds
-          x="24"
-          y="108"
+          x="552"
+          y="48"
           width="120"
           height="55"/>
       <referencedModel
