@@ -72,8 +72,8 @@
           href="CompositionRelationship_id-bafd63992e3e46628a9d7350861afa6f.xml#id-bafd63992e3e46628a9d7350861afa6f"/>
     </sourceConnections>
     <bounds
-        x="192"
-        y="204"
+        x="24"
+        y="180"
         width="757"
         height="277"/>
     <children
@@ -233,8 +233,8 @@
     <bounds
         x="24"
         y="24"
-        width="325"
-        height="168"/>
+        width="241"
+        height="121"/>
     <properties
         key="modulo"
         value="relatoria"/>
