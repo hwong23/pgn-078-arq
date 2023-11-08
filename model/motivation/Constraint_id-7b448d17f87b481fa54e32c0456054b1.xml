@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RSG12. Arquitectura de almancenamiento y distribución de datos SIU"
     id="id-7b448d17f87b481fa54e32c0456054b1"
-    documentation="Definir la opción de organización y distribución de los almacenes de datos del SIU. &#xA;&#xA;opc1. Dispositivo físico/virtual (nodo, servidor, y esquema de base de datos) único, central, a todos los módulos del SIU.&#xA;&#xA;opc2. Dispositivos virtuales autónomos por dominio de negocio: relatoría, inventario, información estratégica, intercomunicados.&#xA;&#xA;"/>
+    documentation="Definir la opción de organización y distribución de los almacenes de datos del SIU. &#xA;&#xA;opc1. Dispositivo físico/virtual (nodo, servidor, y esquema de base de datos) único, central, a todos los módulos del SIU.&#xA;&#xA;opc2. Dispositivos virtuales autónomos por dominio de negocio: rlatoría, inventario, información estratégica, intercomunicados.&#xA;&#xA;"/>
