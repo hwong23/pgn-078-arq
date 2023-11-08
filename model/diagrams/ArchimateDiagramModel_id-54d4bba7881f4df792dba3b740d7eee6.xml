@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.2a.a3. Datos Modelo Físico "
     id="id-54d4bba7881f4df792dba3b740d7eee6"
-    documentation="En contrucción.">
+    documentation="El modelo de datos físico, o entidad-relación (ER) se encuentra incluido en la documentación técnica como un anexo. Debido al tamaño del diagrama, la mejor manera de navegarlo es mediante la herramienta de visualización HTML Draw.io.&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-4c838530786441828bc6e9e55ef97979"

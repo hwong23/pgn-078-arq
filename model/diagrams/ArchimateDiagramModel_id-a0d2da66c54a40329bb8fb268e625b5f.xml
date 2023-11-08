@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.2c. Datos Hominis"
     id="id-a0d2da66c54a40329bb8fb268e625b5f"
-    documentation="Identificación de entidades de datos de negocio relacionadas al módulo de gestión de capital del SUI, Hominis.&#xA;&#xA;Estas entidades de datos de negocio son los que llamamos los tipos de datos internos del SUI y deben ser consideradas para la creación de las API de manejo del ciclo de vida de los datos de este módulo.&#xA;">
+    documentation="Identificación de entidades de datos de negocio relacionadas al módulo de gestión de capital del SUI, Hominis.&#xA;&#xA;Estas entidades de datos de negocio son los que llamamos los tipos de datos internos del SUI y deben ser consideradas para la creación de las API de manejo del ciclo de vida de los datos de este módulo.&#xA;&#xA;El modelo físico de datos de este módulo se encuentra en el anexo 1. Modelo Físico de Datos, más adelante. Debido al tamaño del diagrama, la mejor manera de navegarlo es mediante la herramienta de visualización HTML Draw.io.&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-e8705251f9cd463aa36dae7e29ef211c">
