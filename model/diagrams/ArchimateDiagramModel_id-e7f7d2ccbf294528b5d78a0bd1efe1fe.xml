@@ -242,7 +242,7 @@
     <bounds
         x="42"
         y="804"
-        width="400"
+        width="499"
         height="121"/>
     <children
         xsi:type="archimate:DiagramModelReference"
@@ -260,13 +260,25 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-b2f976288cb4416eb7afa92e15540696">
       <bounds
-          x="180"
+          x="168"
           y="36"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-a68add993bca48cc9cbc11fb76628836.xml#id-a68add993bca48cc9cbc11fb76628836"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-e75a4c7f75c441568495289289b1ec07">
+      <bounds
+          x="300"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-e8c1c719ea6c49e081ec08adf556992f.xml#id-e8c1c719ea6c49e081ec08adf556992f"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -335,7 +347,7 @@
   </children>
   <properties
       key="devdoc"
-      value="02n.a2.pgnarq.md"/>
+      value="02n.a2.pgncontractual.md"/>
   <properties
       key="rutaMac"
       value="/Downloads/tmpr/pgnmd/"/>

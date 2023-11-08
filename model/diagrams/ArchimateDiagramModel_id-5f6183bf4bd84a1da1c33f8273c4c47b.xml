@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.2c1. Datos SIM"
     id="id-5f6183bf4bd84a1da1c33f8273c4c47b"
-    documentation="Identificación de entidades de datos de negocio relacionadas al módulo de SUI, SIM.&#xA;&#xA;Estas entidades de datos de negocio son los que llamamos los tipos de datos internos del SUI y deben ser consideradas para la creación de las API de manejo del ciclo de vida de los datos de este módulo. &#xA;">
+    documentation="Identificación de entidades de datos de negocio relacionadas al módulo de SUI, SIM.&#xA;&#xA;Estas entidades de datos de negocio son los que llamamos los tipos de datos internos del SUI y deben ser consideradas para la creación de las API de manejo del ciclo de vida de los datos de este módulo. &#xA;&#xA;El modelo físico de datos de este módulo se encuentra en el anexo 1. Modelo Físico de Datos, más adelante. Debido al tamaño del diagrama, la mejor manera de navegarlo es mediante la herramienta de visualización HTML Draw.io.&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-e0fc12e1afee415abbe0e557c2032ca1"
