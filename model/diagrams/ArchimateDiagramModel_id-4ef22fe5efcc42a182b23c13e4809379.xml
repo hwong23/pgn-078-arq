@@ -76,4 +76,16 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-a566a40e2d4f4aff97db146f7e1bf6d9.xml#id-a566a40e2d4f4aff97db146f7e1bf6d9"/>
   </children>
+  <properties
+      key="devdoc"
+      value="05n.a1.pgnseguridad.md"/>
+  <properties
+      key="rutaMac"
+      value="/Downloads/tmpr/pgnmd/"/>
+  <properties
+      key="alias"
+      value="pgnsegdoc"/>
+  <properties
+      key="titulo"
+      value="Seguridad y Arquitectura de Software"/>
 </archimate:ArchimateDiagramModel>
