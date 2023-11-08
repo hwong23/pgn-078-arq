@@ -60,13 +60,25 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-238ab0bf8ab047759c1fca35cae7bed4">
       <bounds
-          x="36"
+          x="168"
           y="48"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-54d4bba7881f4df792dba3b740d7eee6.xml#id-54d4bba7881f4df792dba3b740d7eee6"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-9f8783d402904cd5b6ba368513b6945b">
+      <bounds
+          x="36"
+          y="48"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-d83ebcb4235c40c4ac68b7f373d4161f.xml#id-d83ebcb4235c40c4ac68b7f373d4161f"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -77,6 +89,15 @@
       id="id-1fc589fa4aae473194ea882d0b64ce2a"
       targetConnections="id-c34b2dc99ae74af794927c9738b2778e"
       textAlignment="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-589b4089f2d9435aa125bd7ee87f6141"
+        source="id-1fc589fa4aae473194ea882d0b64ce2a"
+        target="id-ca3b85692be24fb59b2854e96109b0c8">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-fb9e9c3ec5e54812a1746ad49cd2f474.xml#id-fb9e9c3ec5e54812a1746ad49cd2f474"/>
+    </sourceConnections>
     <bounds
         x="36"
         y="432"
@@ -137,6 +158,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-ca3b85692be24fb59b2854e96109b0c8"
+      targetConnections="id-589b4089f2d9435aa125bd7ee87f6141"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -234,7 +256,7 @@
       textAlignment="1">
     <bounds
         x="48"
-        y="1032"
+        y="1020"
         width="400"
         height="140"/>
     <children
