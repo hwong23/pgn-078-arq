@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguridad.Doc.1.Datos SUI"
     id="id-873b4fcee97c46fba4132d60a65a40b1"
-    documentation="Cifrado de datos en trásito: &#xD;&#xA;Pemitirá enmascarar los datos a nivel de columna, teniendo en cuenta el enmascaramiento dinamico de datos (DDM).&#xD;&#xA;Se podrá utilizar el mecanismo de cifrado a nivel de columna para almacernar los datos confidenciales en formato de cifrado.&#xD;&#xA;Para el cifrado de los datos en columna se podrá temer en cuenta las funciones de cifrado (ENCRYPT_AES() y ENCRYPT_TDES(), parametros que se incorporar para cifrar los datos que contengan datos de tipo Varchar, Caracter entre otros. Para la proteccion de datos en filas de bases de datos, se tendra en cuenta mediante la instrucción transact-SQL CREATE SECURITY POLICY. &#xD;&#xA;&#xD;&#xA;El WAF será la medida de implementacion del muro de protección (firewall) de Aplicaciones WEB del SUI necesario para el control de las peticiones realizadas desde fuera del perímetro de red y hacia los sistemas de Informacion de la PGN. &#xD;&#xA;&#xD;&#xA;Security Administrator: &#xD;&#xA;La autenticacion de usuarios estará enmarcada en en tres factores de autenticación:&#xD;&#xA;control de acceso basado en roles (RBAC), mecanismo de control de acceso que define los roles y los privilegios para determinar si a un usuario se le debe dar acceso a un recurso.&#xD;&#xA;Conexión de accecso por DA de Azure: Servicio de administración de acceso e identidades basado en la nube.&#xD;&#xA;Red Privada Virtual de Azure:  bloque de compilación fundamental para las redes privadas en Azure">
+    documentation="Cifrado de datos en trásito: &#xD;&#xA;Pemitirá enmascarar los datos a nivel de columna, teniendo en cuenta el enmascaramiento dinamico de datos (DDM).&#xD;&#xA;Se podrá utilizar el mecanismo de cifrado a nivel de columna para almacernar los datos confidenciales en formato de cifrado.&#xD;&#xA;Para el cifrado de los datos en columna se podrá temer en cuenta las funciones de cifrado (ENCRYPT_AES() y ENCRYPT_TDES(), parametros que se incorporar para cifrar los datos que contengan datos de tipo Varchar, Caracter entre otros. Para la proteccion de datos en filas de bases de datos, se tendra en cuenta mediante la instrucción transact-SQL CREATE SECURITY POLICY. &#xD;&#xA;&#xD;&#xA;El WAF será la medida de implementacion del muro de protección (firewall) de Aplicaciones WEB del SUI necesario para el control de las peticiones realizadas desde fuera del perímetro de red y hacia los sistemas de Informacion de la PGN. &#xD;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-90477fc08018452299d6c62b2b1ca246"
@@ -376,7 +376,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-9bcc56bbfd664b56b16b72a16985f2c6"
       textAlignment="1"
-      content="Confidencialidad &#xD;&#xA;directa total. (PFS), establece longitudes de claves de cifrado RSA de 2048 bits, lo que hace difici para cualquier usuario acceder a los datos que se estan enviando. Mecanismo de cidfrado que se tendra en cuenta para la migración Cloud. ">
+      content="Confidencialidad directa total. (PFS) ">
     <bounds
         x="84"
         y="281"
