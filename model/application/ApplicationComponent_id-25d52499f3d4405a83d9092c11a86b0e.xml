@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="BD SQL Server"
     id="id-25d52499f3d4405a83d9092c11a86b0e"
-    documentation="Los datos estarán procesados y almacenados en las bases de datos, el cual tendra implementados mecanismos de seguridad para el cifrado de los datos. "/>
+    documentation="Los datos estarán procesados y almacenados en las bases de datos, el cual tendrá implementados mecanismos de seguridad para el cifrado de los datos. "/>
