@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servidor BDD Config"
     id="id-be916e95b1d84584be24375c07fe9097"
-    documentation="Sistema Operativo Windows Server 2019 Standard o Datacenter x64. RAM&#x9;8 GB. CPU 64 Bits, 4 Cores > 2 Ghz&#xA;Discos&#x9;SO C: 80 GB, Backup E: 250 GB, SQL Data F: 250 GB, SQL Log G: 250 GB, TempDB  G: 30 GB.&#xA;"/>
+    documentation="Sistema Operativo Windows Server 2019 Standard o Datacenter x64. RAM&#x9;8 GB. CPU 64 Bits, 4 Cores > 2 Ghz. Discos SO C: 80 GB, Backup E: 250 GB, SQL Data F: 250 GB, SQL Log G: 250 GB, TempDB  G: 30 GB.&#xA;"/>
