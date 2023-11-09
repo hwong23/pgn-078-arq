@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.4. CI"
     id="id-142f2fa094d542c08caf9dbffba6daa9"
-    documentation="Descripción de las cadenas de integración y despliegue continuo de a) submódulos (aplicaciones web, por ejemplo) del SIU Migrado, 2023; e integración y despliegue continuo de los meodulos central del SIU Migrado, 2023.&#xA;&#xA;Las cadenas están separadas por tecnologeias y plataformas distintas; son independientes y no presentan interbloqueos en cuanto a su ejecución. Pero, requieren administración integral.&#xA;&#xA;Los trabajo de despligue requieren las configuraciones de las cadenas y tareas de conexión tanto a los ambientes productivos y desarrollo.&#xA; ">
+    documentation="Descripción de las cadenas de integración y despliegue continuo de a) submódulos (aplicaciones web, por ejemplo) del SIU Migrado, 2023; e integración y despliegue continuo de los módulos central del SIU Migrado, 2023.&#xA;&#xA;Las cadenas están separadas por tecnología y plataformas distintas; son independientes y no presentan interbloqueos en cuanto a su ejecución. Pero, requieren administración integral.&#xA;&#xA;Los trabajo de despligue requieren las configuraciones de las cadenas y tareas de conexión tanto a los ambientes productivos y desarrollo.&#xA; ">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-4488cdbb750f4350a7e6cbb6e4d61070"
