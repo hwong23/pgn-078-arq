@@ -1,5 +1,4 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Ofuscar datos"
-    id="id-0e781555b904492e9954e1ae762ce46d"
-    documentation="Pemitirá enmascarar los datos a nivel de columna, teniendo en cuenta el enmascaramiento dinamico de datos (DDM).&#xD;&#xA;Se podrá utilizar el mecanismo de cifrado a nivel de columna para almacernar los datos confidenciales en formato de cifrado.&#xD;&#xA;Para el cifrado de los datos en columna se podrá temer en cuenta las funciones de cifrado (ENCRYPT_AES() y ENCRYPT_TDES(), parametros que se incorporar para cifrar los datos que contengan datos de tipo Varchar, Caracter entre otros. &#xD;&#xA;para la proteccion de datos en filas de bases de datos, se tendra en cuenta mediante la instrucción transact-SQL CREATE SECURITY POLICY. "/>
+    id="id-0e781555b904492e9954e1ae762ce46d"/>
