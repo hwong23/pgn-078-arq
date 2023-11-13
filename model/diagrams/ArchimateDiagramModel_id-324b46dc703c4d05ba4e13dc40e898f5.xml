@@ -258,8 +258,8 @@
       textAlignment="1"
       content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xD;&#xA;Preceso de autenticación, controles de acceso, asignación de permisos y roles. de PGN.&#xA;&#xA;versión 0.2">
     <bounds
-        x="36"
-        y="36"
+        x="-144"
+        y="-120"
         width="325"
         height="168"/>
     <properties
