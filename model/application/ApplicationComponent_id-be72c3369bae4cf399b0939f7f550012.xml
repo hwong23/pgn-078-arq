@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Configuración reportes"
+    id="id-be72c3369bae4cf399b0939f7f550012"
+    documentation="Base de datos del servior de reportes del SIU Migrado provisto por plataforma Microsoft SQL Server.&#xA;&#xA;"/>
