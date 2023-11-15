@@ -675,7 +675,7 @@
       textAlignment="1"
       content="Red Privada Virtual (VPN)">
     <bounds
-        x="720"
+        x="1019"
         y="840"
         width="157"
         height="30"/>
@@ -753,7 +753,7 @@
       id="id-c60c0ac06de842b4928ad1dd43f43ac1">
     <bounds
         x="1128"
-        y="507"
+        y="492"
         width="120"
         height="55"/>
     <archimateElement
