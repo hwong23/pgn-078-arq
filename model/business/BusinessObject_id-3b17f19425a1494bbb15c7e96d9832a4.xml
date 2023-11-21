@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Recusación"
-    id="id-3b17f19425a1494bbb15c7e96d9832a4"/>
+    id="id-3b17f19425a1494bbb15c7e96d9832a4"
+    documentation="Recusación del SIM"/>

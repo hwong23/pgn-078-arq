@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Protocolo"
-    id="id-930c4c477be24d0b818689817b69a673"/>
+    id="id-930c4c477be24d0b818689817b69a673"
+    documentation="Protocolo del SIM"/>

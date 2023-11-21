@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Funcionario"
-    id="id-c4bba4d82bfe42cab3d428e7510ded5b"/>
+    id="id-c4bba4d82bfe42cab3d428e7510ded5b"
+    documentation="Funcionario del SIM"/>

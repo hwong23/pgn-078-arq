@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Clasificación"
-    id="id-93249aabb12d4f8192a966e1331c227c"/>
+    id="id-93249aabb12d4f8192a966e1331c227c"
+    documentation="Clasificación del SIM"/>

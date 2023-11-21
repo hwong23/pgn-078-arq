@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Causales"
-    id="id-79521b1fabba4adeab17fb554a2da788"/>
+    id="id-79521b1fabba4adeab17fb554a2da788"
+    documentation="Causales del SIM"/>

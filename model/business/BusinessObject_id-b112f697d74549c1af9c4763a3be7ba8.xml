@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Cargo"
-    id="id-b112f697d74549c1af9c4763a3be7ba8"/>
+    id="id-b112f697d74549c1af9c4763a3be7ba8"
+    documentation="Cargo del SIM"/>

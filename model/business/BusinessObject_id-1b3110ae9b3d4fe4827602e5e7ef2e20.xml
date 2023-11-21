@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Prevención"
-    id="id-1b3110ae9b3d4fe4827602e5e7ef2e20"/>
+    id="id-1b3110ae9b3d4fe4827602e5e7ef2e20"
+    documentation="Prevención del SIM"/>

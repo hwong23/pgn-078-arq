@@ -1,4 +1,5 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Actividad"
-    id="id-b1f64d83ce70452291dd84338227984d"/>
+    id="id-b1f64d83ce70452291dd84338227984d"
+    documentation="Actividad del SIM"/>
