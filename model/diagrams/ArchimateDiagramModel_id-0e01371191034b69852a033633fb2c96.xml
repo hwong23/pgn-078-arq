@@ -20,8 +20,8 @@
       id="id-1863b5e1f8cf4fb1b52fb728615e0f61"
       targetConnections="id-c8e648f984b54b679f101c369508cd2d">
     <bounds
-        x="59"
-        y="228"
+        x="83"
+        y="192"
         width="120"
         height="27"/>
     <archimateElement
@@ -117,8 +117,8 @@
           href="CompositionRelationship_id-d43ca1e247694f4fb7c24ce807e4535c.xml#id-d43ca1e247694f4fb7c24ce807e4535c"/>
     </sourceConnections>
     <bounds
-        x="35"
-        y="336"
+        x="59"
+        y="300"
         width="973"
         height="697"/>
     <children
@@ -2154,8 +2154,8 @@
           href="CompositionRelationship_id-b205e79d88294697b3df96f552a5a7d9.xml#id-b205e79d88294697b3df96f552a5a7d9"/>
     </sourceConnections>
     <bounds
-        x="240"
-        y="168"
+        x="264"
+        y="132"
         width="768"
         height="133"/>
     <children
@@ -2481,8 +2481,8 @@
           href="ServingRelationship_id-ba04e1eff29e4606805c850d94f30638.xml#id-ba04e1eff29e4606805c850d94f30638"/>
     </sourceConnections>
     <bounds
-        x="1019"
-        y="420"
+        x="1043"
+        y="384"
         width="122"
         height="27"/>
     <archimateElement
@@ -2504,8 +2504,8 @@
           href="AccessRelationship_id-fd93bdb3bb3e46f582e40ae8d7b5fd48.xml#id-fd93bdb3bb3e46f582e40ae8d7b5fd48"/>
     </sourceConnections>
     <bounds
-        x="1044"
-        y="900"
+        x="1068"
+        y="864"
         width="156"
         height="121"/>
     <archimateElement
@@ -2527,8 +2527,8 @@
           href="AccessRelationship_id-9e89f596ffea498597b592dbfbfa22ce.xml#id-9e89f596ffea498597b592dbfbfa22ce"/>
     </sourceConnections>
     <bounds
-        x="1044"
-        y="516"
+        x="1068"
+        y="480"
         width="156"
         height="121"/>
     <archimateElement
@@ -2559,8 +2559,8 @@
           href="ServingRelationship_id-ab09fad2a67247248ba3ff622bee27f3.xml#id-ab09fad2a67247248ba3ff622bee27f3"/>
     </sourceConnections>
     <bounds
-        x="1044"
-        y="168"
+        x="1068"
+        y="132"
         width="156"
         height="121"/>
     <children
