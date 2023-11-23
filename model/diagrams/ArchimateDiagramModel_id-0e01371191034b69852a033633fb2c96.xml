@@ -1432,7 +1432,7 @@
         id="id-20cf6812c6c041c2b9e08b8d8b0bc433"
         targetConnections="id-55a3d7f9de4a4edb8c06c859a8e05c70 id-f1a90b5841ee4784b3d1e61a4913f5db"
         font="1|Segoe UI|8.0|0|WINDOWS|1|-16|0|0|0|400|0|0|0|0|3|2|1|34|Segoe UI"
-        textAlignment="4"
+        textAlignment="1"
         textPosition="2"
         type="1">
       <sourceConnections
