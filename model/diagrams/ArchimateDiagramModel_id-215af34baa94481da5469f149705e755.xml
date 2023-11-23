@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.2a.a2. Datos Diccionario"
     id="id-215af34baa94481da5469f149705e755"
-    documentation="En construcción.&#xA;">
+    documentation="Los diccionarios de datos explicativos de los modelos de datos físicos de los módulos del SUI Migrado, representados en tablas campo-descripción, serán entregados como documentos anexos aparte del documento de arquitectura de datos actual, y en formato reproducible.&#xA;&#xA;El formato reproducible en el que entregamos los diccionarios de datos del modelo físico es DOCX.&#xA;&#xA;![Migracion.2a.a2. Datos Diccionario ](images/PGNSIMdiccionario.png){#fig:Migracion.2a.a3.DatosModeloFísico width=}&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-ce39abe371b24ccf85df3534cea88574"
