@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lineabase.1a.SIU Componentes. Infraestrcutura"
+    name="Lineabase.1a.SUI Componentes. Infraestrcutura"
     id="id-ae9dc2de036e435fbcba8497224653a7"
     documentation="Relación de dependencias de infraestructura con los servicios que integran el modelo de aplicación de SUI Migrado, 2023.&#xA;&#xA;### Elementos de Infraestructura SUI Migrado&#xA;&#xA;* Servidor de Canales (App PGN web y móvil)&#xA;* Servidor Web App (App SUI)&#xA;* Servidor Lappiz (Config SUI)&#xA;* Servidor BDD App (Transaccional)&#xA;* Servidor BDD Config (Configuración)&#xA;&#xA;&lt;br>&#xA;">
   <children

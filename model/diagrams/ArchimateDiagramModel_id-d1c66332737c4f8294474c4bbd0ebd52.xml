@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Lineabase.0.SIU Aplicación"
+    name="Lineabase.0.SUI Aplicación"
     id="id-d1c66332737c4f8294474c4bbd0ebd52"
     documentation="Procuraduría General de la Nación, proyecto Migración SIU, 2023, Fase II. Línea base del sistema único de información (SUI en adelante) de la PGN. Presentación de componentes de software  originales implementados en la Fase I del presente proyecto.&#xA;&#xA;&#xA;## Representación Arquitectónica&#xA;Con una arquitectura orientada a servicios SUI recopila:&#xA;&#xA;1. Runtime: Es el servicio que interactúa con el usuario final (GUI) elaborado en Angular 11&#xA;1. API Tx: Servicio api rest base node encargado de realizar las transacciones básicas CRUD&#xA;1. API Config / Seguridad. Servicio Web API .Net Framework encargado de gestionar características con la autenticación y configuración&#xA;&#xA;&lt;br>&#xA;&#xA;">
   <children
