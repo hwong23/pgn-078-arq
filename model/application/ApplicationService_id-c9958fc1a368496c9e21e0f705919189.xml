@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Reportería"
     id="id-c9958fc1a368496c9e21e0f705919189"
-    documentation="Servicio de diseño, publicación y distribución de reportes del SIU Migrado.&#xA;">
+    documentation="Servicio de diseño, publicación y distribución de reportes del $APLICATIVO.&#xA;">
   <properties
       key="brecha"
       value="100"/>
