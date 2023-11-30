@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Arquitectura. 2. Escalabilidad. Física"
+    name="Arquitectura. 2a. Escalabilidad. Física"
     id="id-b1562b5f652b492db5ead31ac90720d6"
     documentation="Escalabilidad física (escalabilidad horizontal) realizada mediante el incremente de procesamiento (servidores) para ejecutar los casos de uso, que a su vez están implementados por componentes ejecutables, como servicio, u objetos C#.&#xA;&#xA;En lo posible, los equipos de hardware, o máquinas virtuales nuevas no interfieren con la base actual.&#xA;">
   <children
