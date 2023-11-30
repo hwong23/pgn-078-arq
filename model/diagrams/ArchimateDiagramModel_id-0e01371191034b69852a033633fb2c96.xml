@@ -344,7 +344,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="18"
+              x="12"
               y="72"
               width="79"
               height="25"/>
@@ -360,7 +360,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="192"
+              x="180"
               y="72"
               width="79"
               height="25"/>
@@ -376,7 +376,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="102"
+              x="96"
               y="72"
               width="79"
               height="25"/>
@@ -392,7 +392,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="282"
+              x="270"
               y="72"
               width="79"
               height="25"/>
@@ -408,7 +408,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="372"
+              x="360"
               y="72"
               width="79"
               height="25"/>
@@ -424,7 +424,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="456"
+              x="444"
               y="72"
               width="79"
               height="25"/>
@@ -440,7 +440,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="18"
+              x="12"
               y="96"
               width="79"
               height="25"/>
@@ -456,7 +456,7 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="102"
+              x="96"
               y="96"
               width="79"
               height="25"/>
@@ -1178,7 +1178,7 @@
           <bounds
               x="84"
               y="48"
-              width="61"
+              width="73"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
@@ -1194,7 +1194,7 @@
           <bounds
               x="84"
               y="24"
-              width="61"
+              width="73"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
@@ -1208,9 +1208,9 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="19"
+              x="12"
               y="24"
-              width="61"
+              width="68"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
@@ -1226,7 +1226,7 @@
           <bounds
               x="84"
               y="72"
-              width="61"
+              width="73"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
@@ -1240,9 +1240,9 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="19"
+              x="12"
               y="72"
-              width="61"
+              width="68"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
@@ -1256,9 +1256,9 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="19"
+              x="12"
               y="48"
-              width="61"
+              width="68"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
@@ -1274,7 +1274,7 @@
           <bounds
               x="84"
               y="96"
-              width="61"
+              width="73"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
@@ -1288,9 +1288,9 @@
             fillColor="#b5ffff"
             type="1">
           <bounds
-              x="19"
+              x="12"
               y="96"
-              width="61"
+              width="68"
               height="25"/>
           <archimateElement
               xsi:type="archimate:ApplicationComponent"
