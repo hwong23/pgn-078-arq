@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Arquitectura. 1. Dev Docs"
     id="id-d4147ced73a44601b69ad0038ea2bbf2"
-    documentation="## Flujo de Trabajo Repositorio de Arquitectura SUI Migrado, PGN&#xA;El repositorio de arquitetura es parte de los entregables del $PROY_DESCR. Contiene tres partes: &#xA;&#xA;Partes del repositorio de arquitectura&#xA;&#xA;1. Bitácora de decisiones de arquitectura&#xA;1. El depósito de modelos y descripciones de los ítems de arquitectura&#xA;1. Los anexos de análisis de riesgos e impactos relacionados con los los ítems de arquitectura&#xA;&#xA;">
+    documentation="### Flujo de Trabajo Repositorio de Arquitectura SUI Migrado, PGN&#xA;El repositorio de arquitetura es parte de los entregables del $PROY_DESCR. Contiene tres partes: &#xA;&#xA;Partes del repositorio de arquitectura&#xA;&#xA;1. Bitácora de decisiones de arquitectura&#xA;1. El depósito de modelos y descripciones de los ítems de arquitectura&#xA;1. Los anexos de análisis de riesgos e impactos relacionados con los los ítems de arquitectura&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-12ecdd6a36ba4a06bd3068be6e7e3212"
