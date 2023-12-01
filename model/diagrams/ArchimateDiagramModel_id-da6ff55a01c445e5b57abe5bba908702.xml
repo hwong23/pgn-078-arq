@@ -1,6 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Doc.1.Datos SUI"
     id="id-da6ff55a01c445e5b57abe5bba908702">
   <children
@@ -58,15 +59,15 @@
         height="140"/>
     <children
         xsi:type="archimate:DiagramModelReference"
-        id="id-238ab0bf8ab047759c1fca35cae7bed4">
+        id="id-cbecf52887b94665bc72916a140a9748">
       <bounds
-          x="36"
+          x="180"
           y="48"
           width="120"
           height="55"/>
       <referencedModel
-          xsi:type="archimate:ArchimateDiagramModel"
-          href="ArchimateDiagramModel_id-54d4bba7881f4df792dba3b740d7eee6.xml#id-54d4bba7881f4df792dba3b740d7eee6"/>
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-eae779e2f8c94bfe993cb67a188e3337.xml#id-eae779e2f8c94bfe993cb67a188e3337"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"

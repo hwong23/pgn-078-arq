@@ -1,9 +1,9 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="Arq.canvas"
+    name="Migracion.2a.a3. Datos Modelo Físico "
     id="id-eae779e2f8c94bfe993cb67a188e3337"
-    documentation="descripción...&#xA;">
+    documentation="Los modelos físicos representados en diagramas entidad - relación (ER) de los módulos $APLICATIVO, como Hominis, Control Interno, Relatoría, SIRI, serán entregados como documentos aparte, anexos al documento actual en formato reproducible.&#xA;&#xA;El formato reproducible en el que entregamos el modelo físico mediante la herramienta libre Draw.io.&#xA;&#xA;">
   <children
       xsi:type="canvas:CanvasModelImage"
       id="id-d651d0a26c554658b0dc588334c1ab04"
@@ -25,5 +25,18 @@
         y="3908"
         width="1896"
         height="1582"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-2ebb21cf8c334b6d93f9f204642f1aab"
+      fillColor="#ffffff"
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Modelo de estructuras desplegadas en los servidores de base de datos. Módulos Central Sistema Único de Información.&#xA;&#xA;versión 0.1&#xA;"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="48"
+        y="60"
+        width="241"
+        height="145"/>
   </children>
 </canvas:CanvasModel>
