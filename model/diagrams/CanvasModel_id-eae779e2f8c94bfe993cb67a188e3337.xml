@@ -1,7 +1,7 @@
 <canvas:CanvasModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
-    name="New Canvas"
+    name="Arq."
     id="id-eae779e2f8c94bfe993cb67a188e3337">
   <children
       xsi:type="canvas:CanvasModelImage"
