@@ -190,4 +190,18 @@
         xsi:type="archimate:BusinessInteraction"
         href="BusinessInteraction_id-af3f995c09224f5b8d1336b2e3ebc482.xml#id-af3f995c09224f5b8d1336b2e3ebc482"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-1694877fb0044907bd84f39381f5a2cf"
+      textAlignment="1"
+      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xD;&#xA;Preceso de autenticación, controles de acceso, asignación de permisos y roles. de PGN.&#xA;&#xA;versión 01">
+    <bounds
+        x="29"
+        y="24"
+        width="325"
+        height="168"/>
+    <properties
+        key="modulo"
+        value="relatoria"/>
+  </children>
 </archimate:ArchimateDiagramModel>
