@@ -165,6 +165,18 @@
         y="624"
         width="400"
         height="140"/>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-a1a7c3feb4114fc1a6649af5374b13b9">
+      <bounds
+          x="24"
+          y="48"
+          width="150"
+          height="55"/>
+      <referencedModel
+          xsi:type="canvas:CanvasModel"
+          href="CanvasModel_id-40693d5db113410ebcd8fd5c9dd0b565.xml#id-40693d5db113410ebcd8fd5c9dd0b565"/>
+    </children>
     <archimateElement
         xsi:type="archimate:Grouping"
         href="Grouping_id-2189305571064ed0a5b88843ea232c5a.xml#id-2189305571064ed0a5b88843ea232c5a"/>
@@ -192,7 +204,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-94541960c6b54252bc401b23b11f995b">
       <bounds
-          x="48"
+          x="36"
           y="48"
           width="150"
           height="55"/>
@@ -204,7 +216,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-f766c365450f4547b7abfdaa0605fc30">
       <bounds
-          x="216"
+          x="204"
           y="48"
           width="120"
           height="55"/>
@@ -216,7 +228,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-fac61ba5c82d4d998c23d21383e1e48e">
       <bounds
-          x="360"
+          x="348"
           y="48"
           width="120"
           height="55"/>
