@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.CTRL.Plan anual de auditoria"
-    id="id-9f08ee868acc438a938701ae190eeb1f"/>
+    id="id-9f08ee868acc438a938701ae190eeb1f">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

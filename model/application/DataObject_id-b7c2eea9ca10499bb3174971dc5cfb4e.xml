@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.SIRI.Funcionario"
-    id="id-b7c2eea9ca10499bb3174971dc5cfb4e"/>
+    id="id-b7c2eea9ca10499bb3174971dc5cfb4e">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

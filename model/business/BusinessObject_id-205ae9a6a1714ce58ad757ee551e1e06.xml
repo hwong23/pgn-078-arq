@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Actuación"
     id="id-205ae9a6a1714ce58ad757ee551e1e06"
-    documentation="Actuación del SIM"/>
+    documentation="Actuación del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

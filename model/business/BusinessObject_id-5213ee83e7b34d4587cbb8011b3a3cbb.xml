@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Nombre Jurisdicción"
-    id="id-5213ee83e7b34d4587cbb8011b3a3cbb"/>
+    id="id-5213ee83e7b34d4587cbb8011b3a3cbb">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

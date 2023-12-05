@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Instrumento"
     id="id-455ebcfba7ae477c8a9488068b8f83ca"
-    documentation="Instrumento del SIM"/>
+    documentation="Instrumento del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

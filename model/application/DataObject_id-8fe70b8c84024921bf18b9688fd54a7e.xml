@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.HOM.HV.Funcionario"
-    id="id-8fe70b8c84024921bf18b9688fd54a7e"/>
+    id="id-8fe70b8c84024921bf18b9688fd54a7e">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

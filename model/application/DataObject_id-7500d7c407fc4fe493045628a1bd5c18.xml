@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.RELT.Descriptores"
-    id="id-7500d7c407fc4fe493045628a1bd5c18"/>
+    id="id-7500d7c407fc4fe493045628a1bd5c18">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

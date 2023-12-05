@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Dependencia"
     id="id-b6d2d9d3c66f4ab398f193a35849d246"
-    documentation="Dependencia del SIM"/>
+    documentation="Dependencia del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

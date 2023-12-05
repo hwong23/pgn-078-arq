@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.2a.a34 Datos Ontológico"
     id="id-71cef57bc7b8419faf9729d21455d9f8"
-    documentation="El modelo semántico del $APLICATIVO relaciona tres grupos de conceptos (entidades, en el lenguaje de ontologías): los conceptos físicos, los lógicos y los de negocio, estos últimos provenientes del modelo de información.&#xA;&#xA;El resultado del modelo ontológico, coo está, versión 0.1, permite realizar inferencias, equivalentes a las consultas a un modelo de datos, para utilizarlas en análisis posteriores.&#xA;&#xA;Ejemplo de inferencias del modelo ontológico del $APLICATIVO&#xA;&#xA;1. ejemplo 1&#xA;1. ejemplo 1&#xA;1. ejemplo 1&#xA;&#xA;&lt;br>&#xA;&#xA;">
+    documentation="El modelo semántico del $APLICATIVO relaciona tres grupos de conceptos (clases, en el lenguaje de ontologías computables, RDF): los conceptos físicos, los lógicos y los de negocio, estos últimos provenientes del modelo de información.&#xA;&#xA;El resultado del modelo ontológico, como está, versión 0.1, permite realizar inferencias del tipo 'esto es X, debido a Y', respecto de las clases de los tres dominios mencionados: tecnológico, lógico y negocio. Las infrencias son equivalentes a las consultas a un modelo de datos, para utilizarlas en análisis posteriores.&#xA;&#xA;Ejemplo de inferencias del modelo ontológico del $APLICATIVO&#xA;&#xA;1. ejemplo 1&#xA;1. ejemplo 1&#xA;1. ejemplo 1&#xA;&#xA;&lt;br>&#xA;&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-ec0cfb85e6664dc788c3ece547441b28"

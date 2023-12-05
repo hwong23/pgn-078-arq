@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.SIRI.Suspensión"
-    id="id-66b7b14a6c794c168d0994c7fdd3054c"/>
+    id="id-66b7b14a6c794c168d0994c7fdd3054c">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

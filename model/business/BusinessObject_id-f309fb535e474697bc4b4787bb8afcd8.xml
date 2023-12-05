@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Formatos"
     id="id-f309fb535e474697bc4b4787bb8afcd8"
-    documentation="Formatos del SIM"/>
+    documentation="Formatos del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

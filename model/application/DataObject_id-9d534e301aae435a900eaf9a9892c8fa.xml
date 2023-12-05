@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.CATLG.Funcionarios "
-    id="id-9d534e301aae435a900eaf9a9892c8fa"/>
+    id="id-9d534e301aae435a900eaf9a9892c8fa">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

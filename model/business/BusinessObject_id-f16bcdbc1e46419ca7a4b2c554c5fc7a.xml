@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Conciliación"
     id="id-f16bcdbc1e46419ca7a4b2c554c5fc7a"
-    documentation="Conciliación del SIM"/>
+    documentation="Conciliación del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

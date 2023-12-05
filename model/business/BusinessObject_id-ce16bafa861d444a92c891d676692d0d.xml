@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Observación"
     id="id-ce16bafa861d444a92c891d676692d0d"
-    documentation="Observación del SIM"/>
+    documentation="Observación del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

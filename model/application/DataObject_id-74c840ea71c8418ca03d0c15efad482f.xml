@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.SIM.Documentos"
-    id="id-74c840ea71c8418ca03d0c15efad482f"/>
+    id="id-74c840ea71c8418ca03d0c15efad482f">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

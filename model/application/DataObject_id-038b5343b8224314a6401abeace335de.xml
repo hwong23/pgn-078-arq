@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.RELT.Grupo de relatoría"
-    id="id-038b5343b8224314a6401abeace335de"/>
+    id="id-038b5343b8224314a6401abeace335de">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

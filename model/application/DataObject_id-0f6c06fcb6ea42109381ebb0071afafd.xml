@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.HOM.PLPRS.Dependencias"
-    id="id-0f6c06fcb6ea42109381ebb0071afafd"/>
+    id="id-0f6c06fcb6ea42109381ebb0071afafd">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Diciplina Area"
-    id="id-83e195eac7564dc288ca85c30da3dde7"/>
+    id="id-83e195eac7564dc288ca85c30da3dde7">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.HOM.HV.Programas Snies"
-    id="id-4d897275b0bc42c0819c5d7856cdcf50"/>
+    id="id-4d897275b0bc42c0819c5d7856cdcf50">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

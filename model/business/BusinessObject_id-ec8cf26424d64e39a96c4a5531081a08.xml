@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.País"
     id="id-ec8cf26424d64e39a96c4a5531081a08"
-    documentation="País del SIM"/>
+    documentation="País del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Relación Casos"
     id="id-c9c2c710c29c41eea6eafc90d1d2eb5f"
-    documentation="Relación casos del SIM"/>
+    documentation="Relación casos del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

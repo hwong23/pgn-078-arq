@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.CTRL.Procesos"
-    id="id-1272f57e89234b26a935ff1682f5b7cb"/>
+    id="id-1272f57e89234b26a935ff1682f5b7cb">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

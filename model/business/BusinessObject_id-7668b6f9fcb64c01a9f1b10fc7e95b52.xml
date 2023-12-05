@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Código Actuación"
-    id="id-7668b6f9fcb64c01a9f1b10fc7e95b52"/>
+    id="id-7668b6f9fcb64c01a9f1b10fc7e95b52">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.RELT.Restrictores"
-    id="id-59662253374e49fe842ceb14cd06bcb4"/>
+    id="id-59662253374e49fe842ceb14cd06bcb4">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

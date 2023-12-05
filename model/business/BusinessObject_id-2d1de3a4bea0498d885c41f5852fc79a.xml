@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Sector"
     id="id-2d1de3a4bea0498d885c41f5852fc79a"
-    documentation="Sector del SIM"/>
+    documentation="Sector del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

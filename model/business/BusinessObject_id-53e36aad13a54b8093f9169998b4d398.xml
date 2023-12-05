@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Código SNIES"
-    id="id-53e36aad13a54b8093f9169998b4d398"/>
+    id="id-53e36aad13a54b8093f9169998b4d398">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

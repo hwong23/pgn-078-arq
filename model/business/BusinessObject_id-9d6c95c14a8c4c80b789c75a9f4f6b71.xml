@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Ubicación"
     id="id-9d6c95c14a8c4c80b789c75a9f4f6b71"
-    documentation="Ubicación del SIM"/>
+    documentation="Ubicación del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

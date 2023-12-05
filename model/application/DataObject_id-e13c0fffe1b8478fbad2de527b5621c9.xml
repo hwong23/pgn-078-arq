@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.HOM.SEG.Calificación de servicio"
-    id="id-e13c0fffe1b8478fbad2de527b5621c9"/>
+    id="id-e13c0fffe1b8478fbad2de527b5621c9">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

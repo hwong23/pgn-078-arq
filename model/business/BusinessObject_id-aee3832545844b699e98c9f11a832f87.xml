@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Persona"
     id="id-aee3832545844b699e98c9f11a832f87"
-    documentation="Personas del SIM."/>
+    documentation="Personas del SIM.">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

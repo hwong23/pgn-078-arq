@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.CTRL.Hallazgos"
-    id="id-b205e376178e4d2daae3971486a249ec"/>
+    id="id-b205e376178e4d2daae3971486a249ec">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

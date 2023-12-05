@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.CATLG.Municipio"
-    id="id-6d2d1e1abe614c73bd12f2a295d79d13"/>
+    id="id-6d2d1e1abe614c73bd12f2a295d79d13">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

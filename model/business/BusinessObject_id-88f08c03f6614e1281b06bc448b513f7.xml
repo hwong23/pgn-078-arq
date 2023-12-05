@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Derecho"
     id="id-88f08c03f6614e1281b06bc448b513f7"
-    documentation="Derecho del SIM"/>
+    documentation="Derecho del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

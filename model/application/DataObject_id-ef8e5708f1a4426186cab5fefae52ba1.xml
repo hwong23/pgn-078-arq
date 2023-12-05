@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.CTRL.Asignar priorización"
-    id="id-ef8e5708f1a4426186cab5fefae52ba1"/>
+    id="id-ef8e5708f1a4426186cab5fefae52ba1">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Decreto de la creación"
-    id="id-58b270049da64e30b2837771578318dc"/>
+    id="id-58b270049da64e30b2837771578318dc">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>
