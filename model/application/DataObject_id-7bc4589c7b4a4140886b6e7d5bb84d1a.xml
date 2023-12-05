@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.CATLG.Personas"
+    id="id-7bc4589c7b4a4140886b6e7d5bb84d1a">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

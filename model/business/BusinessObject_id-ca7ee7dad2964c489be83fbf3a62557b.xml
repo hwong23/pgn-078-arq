@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Detalle Actividad"
-    id="id-ca7ee7dad2964c489be83fbf3a62557b"/>
+    id="id-ca7ee7dad2964c489be83fbf3a62557b">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

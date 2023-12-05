@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.CATLG.Cargos"
+    id="id-b38e8eee1030418889d3086783e9d4c0">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

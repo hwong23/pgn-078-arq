@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Código regional"
-    id="id-b76280c1799841c5952b5d03a0e8c998"/>
+    id="id-b76280c1799841c5952b5d03a0e8c998">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

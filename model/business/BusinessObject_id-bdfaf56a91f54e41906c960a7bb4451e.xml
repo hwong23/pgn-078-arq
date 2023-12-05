@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Causa - Relación"
-    id="id-bdfaf56a91f54e41906c960a7bb4451e"/>
+    id="id-bdfaf56a91f54e41906c960a7bb4451e">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

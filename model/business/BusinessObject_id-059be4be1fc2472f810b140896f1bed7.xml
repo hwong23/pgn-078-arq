@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Agencia"
     id="id-059be4be1fc2472f810b140896f1bed7"
-    documentation="Agencia del SIM"/>
+    documentation="Agencia del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

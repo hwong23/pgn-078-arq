@@ -2,6 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-f9f72789c4814f01acb89ca86774fb2c">
+  <properties
+      key="dominio"/>
   <source
       xsi:type="archimate:BusinessObject"
       href="BusinessObject_id-8b597adeccff45d2aa5ad71c532f585a.xml#id-8b597adeccff45d2aa5ad71c532f585a"/>

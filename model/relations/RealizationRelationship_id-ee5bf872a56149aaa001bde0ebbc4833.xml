@@ -1,0 +1,12 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="implementa"
+    id="id-ee5bf872a56149aaa001bde0ebbc4833">
+  <source
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-ee8876c7b65c43d5a54467f0b68e3fac.xml#id-ee8876c7b65c43d5a54467f0b68e3fac"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_id-a546b46d4eca4858ad2a63e2d5e318bb.xml#id-a546b46d4eca4858ad2a63e2d5e318bb"/>
+</archimate:RealizationRelationship>

@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.HOM.SEG.Cargo"
+    id="id-0d3b0f59d56044e69361f73018bb3d94">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

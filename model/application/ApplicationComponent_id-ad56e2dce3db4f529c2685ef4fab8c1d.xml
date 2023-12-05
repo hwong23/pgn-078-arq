@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Servidor de Reportes"
     id="id-ad56e2dce3db4f529c2685ef4fab8c1d"
-    documentation="Componente SIU de publicación y distribución de reportes diseñados provisto por plataforma Microsoft SQL Server."/>
+    documentation="Componente $APLICATIVO de publicación y distribución de reportes diseñados provisto por plataforma Microsoft SQL Server."/>

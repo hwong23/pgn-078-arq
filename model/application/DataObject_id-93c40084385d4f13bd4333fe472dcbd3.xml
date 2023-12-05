@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.SIRI.Registro de sanciones"
+    id="id-93c40084385d4f13bd4333fe472dcbd3">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

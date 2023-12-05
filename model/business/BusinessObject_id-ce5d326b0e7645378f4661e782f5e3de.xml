@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Tipo de inscripcion"
-    id="id-ce5d326b0e7645378f4661e782f5e3de"/>
+    id="id-ce5d326b0e7645378f4661e782f5e3de">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

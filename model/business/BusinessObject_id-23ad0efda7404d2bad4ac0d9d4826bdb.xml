@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Municipio"
     id="id-23ad0efda7404d2bad4ac0d9d4826bdb"
-    documentation="Municipio del SIM"/>
+    documentation="Municipio del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

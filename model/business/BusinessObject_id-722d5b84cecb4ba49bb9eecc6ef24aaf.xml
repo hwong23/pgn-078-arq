@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Materia"
-    id="id-722d5b84cecb4ba49bb9eecc6ef24aaf"/>
+    id="id-722d5b84cecb4ba49bb9eecc6ef24aaf">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

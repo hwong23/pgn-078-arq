@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.5. Licenciamiento"
     id="id-c85b4660b1cb49f39db1b27da5e589e5"
-    documentation="Listado de los requisitos de licenciamiento a razón de los elementos usados por los módulos centrales del SIU Migrado, 2023.&#xA;&#xA;Los elementos resaltados de la vista actual requieren modelos de  licenciamiento variado, bien sea por usuario, núcleo, despliegue (instalación), o renta por consumo.&#xA;">
+    documentation="Listado de los requisitos de licenciamiento a razón de los elementos usados por los módulos centrales del $APLICATIVO, 2023.&#xA;&#xA;Los elementos resaltados de la vista actual requieren modelos de  licenciamiento variado, bien sea por usuario, núcleo, despliegue (instalación), o renta por consumo.&#xA;">
   <children
       xsi:type="archimate:DiagramModelNote"
       id="id-245b90a65a2e4148a3f5b15a4185a035"

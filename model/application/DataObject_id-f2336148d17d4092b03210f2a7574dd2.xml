@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.HOM.CARR.Funcionarios"
+    id="id-f2336148d17d4092b03210f2a7574dd2">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Radicación"
     id="id-368099f5bebf401f9757ddd5475ebcf9"
-    documentation="Radicación del SIM"/>
+    documentation="Radicación del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

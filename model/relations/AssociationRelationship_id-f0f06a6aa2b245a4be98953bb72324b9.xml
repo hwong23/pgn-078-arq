@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f0f06a6aa2b245a4be98953bb72324b9">
+  <properties
+      key="dominio"/>
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-e13c0fffe1b8478fbad2de527b5621c9.xml#id-e13c0fffe1b8478fbad2de527b5621c9"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-4603a4a93bf94f17bf63c418f24532a6.xml#id-4603a4a93bf94f17bf63c418f24532a6"/>
+</archimate:AssociationRelationship>

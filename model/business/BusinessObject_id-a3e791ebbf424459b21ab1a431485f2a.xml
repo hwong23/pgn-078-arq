@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Plan Ejecución"
     id="id-a3e791ebbf424459b21ab1a431485f2a"
-    documentation="Plan Ejecución del SIM"/>
+    documentation="Plan Ejecución del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

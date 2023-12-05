@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.SIRI.Delitos"
+    id="id-8c9b3cb4254b4ddfacbfad64915c6f53">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

@@ -18,14 +18,14 @@
     </sourceConnections>
     <bounds
         x="36"
-        y="48"
-        width="457"
-        height="140"/>
+        y="36"
+        width="589"
+        height="188"/>
     <children
         xsi:type="archimate:DiagramModelReference"
         id="id-03714c72d43b427da572fdf5e93ef3dd">
       <bounds
-          x="12"
+          x="156"
           y="36"
           width="120"
           height="55"/>
@@ -37,7 +37,7 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-604450452baf400791c32afde00faf5c">
       <bounds
-          x="144"
+          x="288"
           y="36"
           width="120"
           height="55"/>
@@ -49,13 +49,37 @@
         xsi:type="archimate:DiagramModelReference"
         id="id-0bee078b20b74a83ae82460fbd67b86a">
       <bounds
-          x="276"
+          x="420"
           y="36"
           width="120"
           height="55"/>
       <referencedModel
           xsi:type="archimate:ArchimateDiagramModel"
           href="ArchimateDiagramModel_id-280f63efee9b49e892eb38e7104d2d85.xml#id-280f63efee9b49e892eb38e7104d2d85"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-430a52030cca499b8a7064c9d2fe99dd">
+      <bounds
+          x="24"
+          y="96"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-df80b2db16de4060b186070298222e5f.xml#id-df80b2db16de4060b186070298222e5f"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelReference"
+        id="id-de3fdb13579f4fc5a28cc54fe83da601">
+      <bounds
+          x="24"
+          y="36"
+          width="120"
+          height="55"/>
+      <referencedModel
+          xsi:type="archimate:ArchimateDiagramModel"
+          href="ArchimateDiagramModel_id-0e01371191034b69852a033633fb2c96.xml#id-0e01371191034b69852a033633fb2c96"/>
     </children>
     <archimateElement
         xsi:type="archimate:Grouping"
@@ -68,7 +92,7 @@
       textAlignment="1">
     <bounds
         x="36"
-        y="240"
+        y="276"
         width="400"
         height="140"/>
     <children

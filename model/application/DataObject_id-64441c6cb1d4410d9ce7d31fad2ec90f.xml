@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.HOM.PLPRS.Funcionario"
+    id="id-64441c6cb1d4410d9ce7d31fad2ec90f">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Vinculación"
-    id="id-190bc3bcf8ed4873b88a6f2750739005"/>
+    id="id-190bc3bcf8ed4873b88a6f2750739005">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

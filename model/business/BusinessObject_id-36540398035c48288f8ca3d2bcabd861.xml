@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT. SIAF"
     id="id-36540398035c48288f8ca3d2bcabd861"
-    documentation="Entidades de datos de negocio de capital humano de la PGN. Sistema de información Homini.&#xA;"/>
+    documentation="Entidades de datos de negocio de capital humano de la PGN. Sistema de información Homini.&#xA;">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

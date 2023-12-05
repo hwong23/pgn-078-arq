@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT. SIM: lappiz"
-    id="id-0b9cb04607684b89b984cd58972c9616"/>
+    name="DAT. SIM"
+    id="id-0b9cb04607684b89b984cd58972c9616">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

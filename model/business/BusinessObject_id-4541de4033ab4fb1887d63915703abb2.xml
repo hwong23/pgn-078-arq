@@ -1,4 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT.Código dependencia superior"
-    id="id-4541de4033ab4fb1887d63915703abb2"/>
+    id="id-4541de4033ab4fb1887d63915703abb2">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

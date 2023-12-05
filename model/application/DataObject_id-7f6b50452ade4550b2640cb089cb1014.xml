@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.CATLG.País"
+    id="id-7f6b50452ade4550b2640cb089cb1014">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

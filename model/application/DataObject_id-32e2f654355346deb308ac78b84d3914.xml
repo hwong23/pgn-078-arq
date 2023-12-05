@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.SIM.Dependencia"
+    id="id-32e2f654355346deb308ac78b84d3914">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

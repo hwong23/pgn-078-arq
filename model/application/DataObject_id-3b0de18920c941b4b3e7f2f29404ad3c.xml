@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.HOM.HV.Cursos"
+    id="id-3b0de18920c941b4b3e7f2f29404ad3c">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

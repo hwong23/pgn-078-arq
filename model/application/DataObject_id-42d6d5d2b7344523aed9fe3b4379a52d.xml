@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.HOM.SEG.Seguimiento al desempeño"
+    id="id-42d6d5d2b7344523aed9fe3b4379a52d">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

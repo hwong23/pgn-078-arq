@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT. Hominis"
     id="id-12ed2824c4e94968a7641b846b0fa4b9"
-    documentation="Entidades de datos de negocio de capital humano de la PGN. Sistema de información Homini.&#xA;"/>
+    documentation="Entidades de datos de negocio de capital humano de la PGN. Sistema de información Homini.&#xA;">
+  <properties
+      key="dominio"
+      value="lógico"/>
+</archimate:BusinessObject>

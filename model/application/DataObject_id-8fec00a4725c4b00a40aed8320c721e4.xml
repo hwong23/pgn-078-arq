@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DAT.CTRL.Unidades auditables"
+    id="id-8fec00a4725c4b00a40aed8320c721e4">
+  <properties
+      key="dominio"
+      value="físico"/>
+</archimate:DataObject>

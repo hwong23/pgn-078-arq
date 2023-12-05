@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Interviniente"
     id="id-64442f5df69e4d42b002e9f7f303cf8a"
-    documentation="Interviniente del SIM"/>
+    documentation="Interviniente del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>

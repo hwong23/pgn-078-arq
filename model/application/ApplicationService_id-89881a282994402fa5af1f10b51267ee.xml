@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="API Externa (flujo de datos)"
     id="id-89881a282994402fa5af1f10b51267ee"
-    documentation="El patrón de API Externa (reverse proxie) tiene el rol de unir y referir a los datos externos e históricos al SIU Migrado de tal manera que hace transparente la localización y el formato de este tipo de datos.&#xA;"/>
+    documentation="El patrón de API Externa (reverse proxie) tiene el rol de unir y referir a los datos externos e históricos al $APLICATIVO de tal manera que hace transparente la localización y el formato de este tipo de datos.&#xA;"/>

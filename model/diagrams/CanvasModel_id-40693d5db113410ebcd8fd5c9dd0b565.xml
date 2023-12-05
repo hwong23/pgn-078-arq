@@ -1,0 +1,31 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Migracion.2a.a2. Datos Diccionario"
+    id="id-40693d5db113410ebcd8fd5c9dd0b565"
+    documentation="Los diccionarios de datos explicativos de los modelos de datos físicos de los módulos del SUI Migrado, representados en tablas campo-descripción, serán entregados como documentos anexos aparte del documento de arquitectura de datos actual, y en formato reproducible.&#xA;&#xA;El formato reproducible en el que entregamos los diccionarios de datos del modelo físico es DOCX.&#xA;">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-fa00387c34c74230a1958cbb0fafdc6a"
+      name="Image"
+      imagePath="images/_Cj3NoJOFEe6p6r3jRgtUYg.png">
+    <bounds
+        x="24"
+        y="216"
+        width="1432"
+        height="1934"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-a8c40c5591b64ade87079036d404e13b"
+      fillColor="#ffffff"
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Descripción de las entidades físicas (diccionario). Módulos Central Sistema Único de Información.&#xA;&#xA;versión 0.1&#xA;"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="24"
+        y="36"
+        width="241"
+        height="157"/>
+  </children>
+</canvas:CanvasModel>

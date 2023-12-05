@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DAT01.Proceso"
     id="id-bc64061e10634851a5f4be1afaafdca7"
-    documentation="Proceso del SIM"/>
+    documentation="Proceso del SIM">
+  <properties
+      key="dominio"
+      value="negocio"/>
+</archimate:BusinessObject>
