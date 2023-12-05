@@ -6,7 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-0d6583d9f0c446f88bbe869ddcd12fda"
-      targetConnections="id-ad1eca403ad247c0b2f51bbb24100a9d">
+      targetConnections="id-d0b42e3de61745099f8df3fcaf108eb2">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-fa266c970e6b477f968ff6df237a6478"
@@ -24,27 +24,6 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-8d80e89dca6c43e99ad20ccd0f160261.xml#id-8d80e89dca6c43e99ad20ccd0f160261"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-e7e68406cb024f28b80e5e65f339d898">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-ad1eca403ad247c0b2f51bbb24100a9d"
-        source="id-e7e68406cb024f28b80e5e65f339d898"
-        target="id-0d6583d9f0c446f88bbe869ddcd12fda">
-      <archimateRelationship
-          xsi:type="archimate:TriggeringRelationship"
-          href="TriggeringRelationship_id-6c1ff76f906a4138b972cd7117ec5242.xml#id-6c1ff76f906a4138b972cd7117ec5242"/>
-    </sourceConnections>
-    <bounds
-        x="132"
-        y="288"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-bded4df44ecc4d3e8a793d1bcfb064e4.xml#id-bded4df44ecc4d3e8a793d1bcfb064e4"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -197,11 +176,32 @@
       content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xD;&#xA;Preceso de autenticación, controles de acceso, asignación de permisos y roles. de PGN.&#xA;&#xA;versión 01">
     <bounds
         x="29"
-        y="24"
+        y="72"
         width="325"
         height="168"/>
     <properties
         key="modulo"
         value="relatoria"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-fd47677720344a9a9b5160e2179eb2f8">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-d0b42e3de61745099f8df3fcaf108eb2"
+        source="id-fd47677720344a9a9b5160e2179eb2f8"
+        target="id-0d6583d9f0c446f88bbe869ddcd12fda">
+      <archimateRelationship
+          xsi:type="archimate:TriggeringRelationship"
+          href="TriggeringRelationship_id-bc1c1226700a4dceb5ef74c2a5772533.xml#id-bc1c1226700a4dceb5ef74c2a5772533"/>
+    </sourceConnections>
+    <bounds
+        x="132"
+        y="294"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessActor"
+        href="BusinessActor_id-3603b5f8f2a1415fb41e600398b60d7d.xml#id-3603b5f8f2a1415fb41e600398b60d7d"/>
   </children>
 </archimate:ArchimateDiagramModel>
