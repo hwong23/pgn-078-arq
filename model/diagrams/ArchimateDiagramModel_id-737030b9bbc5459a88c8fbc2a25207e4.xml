@@ -131,8 +131,8 @@
       textAlignment="1"
       content="Sincronización de usuarios / Grupos / Contraseñas.">
     <bounds
-        x="708"
-        y="576"
+        x="696"
+        y="588"
         width="181"
         height="43"/>
   </children>
@@ -142,7 +142,7 @@
       textAlignment="1"
       content="LDAP (Lightweight Directory Access Protocol)">
     <bounds
-        x="696"
+        x="684"
         y="348"
         width="169"
         height="42"/>
@@ -197,7 +197,7 @@
     </sourceConnections>
     <bounds
         x="132"
-        y="294"
+        y="288"
         width="120"
         height="55"/>
     <archimateElement
