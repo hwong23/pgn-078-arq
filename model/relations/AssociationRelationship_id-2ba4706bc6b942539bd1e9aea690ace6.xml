@@ -3,8 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     id="id-2ba4706bc6b942539bd1e9aea690ace6">
   <properties
-      key="dominio"
-      value="ont"/>
+      key="dominio"/>
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-8198f08b06994dcb9061603cf8290ce2.xml#id-8198f08b06994dcb9061603cf8290ce2"/>
