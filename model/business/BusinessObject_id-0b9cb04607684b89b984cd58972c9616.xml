@@ -1,6 +1,6 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT. PGN (comunes)"
+    name="DAT. PGN (empresarial)"
     id="id-0b9cb04607684b89b984cd58972c9616"
     documentation="Dominio de datos comunes a todas las aplicaciones de PGN. &#xA;">
   <properties
