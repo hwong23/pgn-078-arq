@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Seguridad. 6. Auditoría"
     id="id-75bd47f3c9fc4afba3abbb834e64bba0"
-    documentation="El histórico de transacciones queda registrado en cada tabla donde se guarda la información y una especial llamada HistoryLogs para el tema de auditoría. Ver la siguiente estructura que presenta el log dando cumplimiento al requerimiento de seguridad frente al registro de eventos:&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Esto permite tener registro de la tabla afectada, los datos afectados, el registro afectado, el tipo de evento asociado a la transacción, la fecha de la transacción, la dirección IP del origen y el usuario quién realizó la misma.&#xD;&#xA;Del mismo modo, cada entidad dentro del sistema cuenta con los atributos relacionados en el json como complemente a la trazabilidad de la información">
+    documentation="El histórico de transacciones queda registrado en cada tabla donde se guarda la información y una especial llamada HistoryLogs para el tema de auditoría. Ver la siguiente estructura que presenta el log dando cumplimiento al requerimiento de seguridad frente al registro de eventos:&#xD;&#xA;&#xD;&#xA;Esto permite tener registro de la tabla afectada, los datos afectados, el registro afectado, el tipo de evento asociado a la transacción, la fecha de la transacción, la dirección IP del origen y el usuario quién realizó la misma.&#xD;&#xA;Del mismo modo, cada entidad dentro del sistema cuenta con los atributos relacionados en el json como complemente a la trazabilidad de la información">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-268a305253cd44fdb6209bda3684b21e"
