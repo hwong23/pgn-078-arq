@@ -1,8 +1,8 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DAT. PGN (comunes)"
-    id="id-0b9cb04607684b89b984cd58972c9616"
-    documentation="Dominio de datos comunes a todas las aplicaciones de PGN. &#xA;">
+    name="DAT. SIM"
+    id="id-4e52613782d149e78d20468d8ff51b62"
+    documentation="Dominio de datos particular al sistema de informació SIM de PGN.&#xA;">
   <properties
       key="dominio"
       value="lógico"/>
