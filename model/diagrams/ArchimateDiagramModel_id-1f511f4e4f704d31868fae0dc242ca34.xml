@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Migracion.3.a Infraestructura. Transición"
     id="id-1f511f4e4f704d31868fae0dc242ca34"
-    documentation="Escalabilidad física (escalabilidad horizontal) realizada mediante el incremente de procesamiento (servidores) para ejecutar los casos de uso, que a su vez están implementados por componentes ejecutables, como servicio, u objetos C#.&#xA;&#xA;En lo posible, los equipos de hardware, o máquinas virtuales nuevas no interfieren con la base actual.&#xA;">
+    documentation="La transición de las arquitecturas de solución de la infraestructura del $APLICATIVO planteada a continuación busca maximizar las características de la arquitectura de software del establecidas para $APLICATIVO indicadas en el documento de arquitectura., estas son: &#xA;&#xA;* ARQ01. Consistencia SUI&#xA;* ARQ02. Mantenibilidad SUI&#xA;* ARQ03. Extensibilidad SUI&#xA;&#xA;&lt;br>&#xA;&#xA;En tanto que la escalabilidad física (escalabilidad horizontal) está realizada mediante el incremente de procesamiento (servidores) para ejecutar los casos de uso, que a su vez están implementados por componentes ejecutables, como servicio, u objetos C#.&#xA;&#xA;### Consideraciones&#xA;La versión 1.5 de la arquitectura, objeto del contrato observa las siguientes consideraciones.&#xA;&#xA;&#xA;1.&#x9;Complejidad. Introducción gradual de complejidad para la arquitectura de solución. La versión 1.5 de la solución aquí planteada procura introducir solo la complejidad requerida para el funcionamiento de los elementos que la constituyen.&#xA;1.&#x9;Economía. La versión 1.5 de la solución aquí planteada procura el consumo de únicamente requeridos por su estructura y utilidad.&#xA;1.&#x9;Proceso de desarrollo. De la mano con la consideración de complejidad, la versión 1.5 de la solución aquí planteada procura maximizar la reutilización de las partes de Fase 1 y minimizar el impacto en el proceso y habilidades requeridas en el desarrollo de las extensiones.&#xA;&#xA;&lt;br>&#xA;">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-41bf80ff971640b79d9ddd15134d5290"
@@ -74,7 +74,7 @@
     </sourceConnections>
     <bounds
         x="252"
-        y="2484"
+        y="2598"
         width="1896"
         height="1082"/>
     <children
@@ -2794,7 +2794,7 @@
     </sourceConnections>
     <bounds
         x="252"
-        y="1146"
+        y="1260"
         width="1896"
         height="1302"/>
     <children
@@ -4515,7 +4515,7 @@
         x="12"
         y="12"
         width="253"
-        height="121"/>
+        height="133"/>
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
@@ -4552,7 +4552,7 @@
     </sourceConnections>
     <bounds
         x="24"
-        y="2484"
+        y="2598"
         width="168"
         height="55"/>
     <archimateElement
@@ -4571,14 +4571,80 @@
           xsi:type="archimate:AggregationRelationship"
           href="AggregationRelationship_id-9b25b23c197643d592ce3133efbf9a1f.xml#id-9b25b23c197643d592ce3133efbf9a1f"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-55888c783c334fff984ca00b7f7f4c39"
+        source="id-e119ef3ac3c34674890be390f05299e0"
+        target="id-a49f182e9bb34a1ba5906c6601d71907">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-d8fdabddb7b644039bc1a1522f9102ba.xml#id-d8fdabddb7b644039bc1a1522f9102ba"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-1d6d3a19c7684b2d896d0ba4404aa6a3"
+        source="id-e119ef3ac3c34674890be390f05299e0"
+        target="id-4964b071d00443a5a942af6a7cc0325d">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-53103065ffb74f34baed2adbdbbd270b.xml#id-53103065ffb74f34baed2adbdbbd270b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-11954a27b8b34828aa4a8e4697b8c383"
+        source="id-e119ef3ac3c34674890be390f05299e0"
+        target="id-df1089cba85a42e6918a155f1be2d3e1">
+      <archimateRelationship
+          xsi:type="archimate:RealizationRelationship"
+          href="RealizationRelationship_id-4f6b2e6753df403c98068cb72f02823b.xml#id-4f6b2e6753df403c98068cb72f02823b"/>
+    </sourceConnections>
     <bounds
         x="24"
-        y="1146"
+        y="1260"
         width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:Plateau"
         href="Plateau_id-75e9fa95835b4f8f9e84f8dd79be0b9f.xml#id-75e9fa95835b4f8f9e84f8dd79be0b9f"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4964b071d00443a5a942af6a7cc0325d"
+      targetConnections="id-1d6d3a19c7684b2d896d0ba4404aa6a3">
+    <bounds
+        x="444"
+        y="1158"
+        width="156"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-93bd11dcc9094673bdb3b1e4843edbf2.xml#id-93bd11dcc9094673bdb3b1e4843edbf2"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-df1089cba85a42e6918a155f1be2d3e1"
+      targetConnections="id-11954a27b8b34828aa4a8e4697b8c383">
+    <bounds
+        x="624"
+        y="1158"
+        width="156"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-26db4079e5e940be97e5fb874f308200.xml#id-26db4079e5e940be97e5fb874f308200"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a49f182e9bb34a1ba5906c6601d71907"
+      targetConnections="id-55888c783c334fff984ca00b7f7f4c39">
+    <bounds
+        x="252"
+        y="1158"
+        width="156"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Constraint"
+        href="Constraint_id-4f39dc3da717485992ac2746222f2512.xml#id-4f39dc3da717485992ac2746222f2512"/>
   </children>
   <properties
       key="ancho"
