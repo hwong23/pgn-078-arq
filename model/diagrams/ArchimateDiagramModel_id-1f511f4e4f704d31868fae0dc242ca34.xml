@@ -4510,7 +4510,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-b632fd8d5eb94c0f955d8297590263d8"
       textAlignment="1"
-      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;Transición de arquitectura de solución. Infraestructura física. SUI Migrado, PGN.&#xA;&#xA;Versión 0.1.1&#xA;">
+      content="Procuraduría General de la Nación&#xA;Proyecto Migración SIU, 2023. Fase II&#xA;&#xA;Transición de arquitectura de solución. Vista de Infraestructura física. SUI Migrado, PGN.&#xA;&#xA;Versión 0.1.1&#xA;">
     <bounds
         x="12"
         y="12"
@@ -4580,4 +4580,7 @@
         xsi:type="archimate:Plateau"
         href="Plateau_id-75e9fa95835b4f8f9e84f8dd79be0b9f.xml#id-75e9fa95835b4f8f9e84f8dd79be0b9f"/>
   </children>
+  <properties
+      key="ancho"
+      value="3.4"/>
 </archimate:ArchimateDiagramModel>
