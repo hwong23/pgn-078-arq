@@ -201,4 +201,7 @@
         width="229"
         height="97"/>
   </children>
+  <properties
+      key="comnt"
+      value="Observaciones OCI (Control Interno y Arquitectura). 1"/>
 </archimate:ArchimateDiagramModel>
