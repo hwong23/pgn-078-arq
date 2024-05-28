@@ -76,4 +76,12 @@
         xsi:type="archimate:Grouping"
         href="Grouping_id-a566a40e2d4f4aff97db146f7e1bf6d9.xml#id-a566a40e2d4f4aff97db146f7e1bf6d9"/>
   </children>
+  <properties
+      key="devdoc"/>
+  <properties
+      key="rutaMac"/>
+  <properties
+      key="alias"/>
+  <properties
+      key="titulo"/>
 </archimate:ArchimateDiagramModel>
