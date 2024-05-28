@@ -1,0 +1,30 @@
+<canvas:CanvasModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
+    name="Doc.6.Anexos.1a. Archimate"
+    id="id-66a73f662b8f470f83521e124cd1a9f0">
+  <children
+      xsi:type="canvas:CanvasModelImage"
+      id="id-52e47e7ddca8436cad06b8afb8ca7a57"
+      name="Image"
+      imagePath="images/_eccvIB0vEe-bf7tzl01cDA.png">
+    <bounds
+        x="24"
+        y="204"
+        width="900"
+        height="768"/>
+  </children>
+  <children
+      xsi:type="canvas:CanvasModelSticky"
+      id="id-ee2cf90ee6b14b29ad3e02c69ef9635b"
+      fillColor="#ffffff"
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Anexo 1. Descripción del lenguaje de modelamiento usado en la documentación técnica, arquitectura e ingeniereia del proyecto para los Módulos Central Sistema Único de Información.&#xA;&#xA;versión 0.1.1&#xA;"
+      borderColor="#C0C0C0"
+      textPosition="1">
+    <bounds
+        x="24"
+        y="12"
+        width="288"
+        height="156"/>
+  </children>
+</canvas:CanvasModel>
