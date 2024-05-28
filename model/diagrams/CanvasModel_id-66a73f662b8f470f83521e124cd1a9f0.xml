@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:canvas="http://www.archimatetool.com/archimate/canvas"
     name="Doc.6.Anexos.1a. Archimate"
-    id="id-66a73f662b8f470f83521e124cd1a9f0">
+    id="id-66a73f662b8f470f83521e124cd1a9f0"
+    documentation="Simplificación del lengiuaje estándar de descripción de arquitectura usado en el proyecto actual,  Módulos Central Sistema Único de Información, de PGN.&#xA;&#xA;A manera de leyenda, el siguiente ejemplo hace demostración breve de la manera cómo el estándar Archimate 3.0+ puede representar a los procesos de negocio, componentes de aplicación, y tecnologías e infraestructura dentro de los aspectos del proyecto actual. Así mismo demuestra, la relación entre elementos y cómo se soportan mutuamente con el objeto de especificar, en este caso, un proceso.&#xA;&#xA;| Fuente: https://www.leanix.net/en/wiki/ea/what-is-archimate#ArchiMate-example&#xA;&#xA;El estandar completo puede ser complementado de los sitios oficiales y públicos del OpenGroup, https://www.google.com/url?sa=t&amp;source=web&amp;rct=j&amp;opi=89978449&amp;url=https://www.opengroup.org/archimate-forum/archimate-overview&amp;ved=2ahUKEwjuibvxlLGGAxW5VzABHQBgBgwQFnoECBAQAQ&amp;usg=AOvVaw28xEDPm1BrbapO4oCaUYb9.&#xA;&#xA;">
   <children
       xsi:type="canvas:CanvasModelImage"
       id="id-52e47e7ddca8436cad06b8afb8ca7a57"
