@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Cliente PGN"
-    id="id-44e7f6e11b4f4bcdbe82f13570661423"/>
+    id="id-44e7f6e11b4f4bcdbe82f13570661423"
+    documentation="Actor del sistema."/>

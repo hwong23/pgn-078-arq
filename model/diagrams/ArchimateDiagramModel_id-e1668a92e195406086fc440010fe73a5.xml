@@ -186,7 +186,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="id-0411067615294f768d4108d329acb295"
       textAlignment="1"
-      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Submódulos Sistema Único de Información. Requerimientos asociados a submódulos.&#xA;&#xA;versión 0.5.3">
+      content="PGN. Migración Sistemas Misionales. Fase 2.&#xA;&#xA;Submódulos Sistema Único de Información. Requerimientos asociados a submódulos.&#xA;&#xA;versión 0.5.4">
     <bounds
         x="12"
         y="12"
@@ -208,7 +208,7 @@
     <bounds
         x="12"
         y="201"
-        width="97"
+        width="109"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"
@@ -229,7 +229,7 @@
     <bounds
         x="12"
         y="369"
-        width="97"
+        width="109"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessActor"

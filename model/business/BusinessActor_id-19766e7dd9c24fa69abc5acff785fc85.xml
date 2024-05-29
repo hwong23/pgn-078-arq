@@ -1,4 +1,5 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Funcionario PGN"
-    id="id-19766e7dd9c24fa69abc5acff785fc85"/>
+    id="id-19766e7dd9c24fa69abc5acff785fc85"
+    documentation="Actor del sistema."/>

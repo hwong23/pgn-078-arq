@@ -1,4 +1,5 @@
 <archimate:ApplicationInterface
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="interfaz"
-    id="id-878aba926a3843c2a1d7330a5fc35e1f"/>
+    id="id-878aba926a3843c2a1d7330a5fc35e1f"
+    documentation="Elemento de intermediación entre módulos (API). Punto de entrada a un módulo SUI de PGN.&#xA;"/>

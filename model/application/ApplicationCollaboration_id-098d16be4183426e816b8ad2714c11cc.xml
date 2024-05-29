@@ -1,4 +1,5 @@
 <archimate:ApplicationCollaboration
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="cc:Administración"
-    id="id-098d16be4183426e816b8ad2714c11cc"/>
+    id="id-098d16be4183426e816b8ad2714c11cc"
+    documentation="Submódulo de administración de configuración del SUI. interfaz gráfica, web, visible a los actores y funcionarios de los sistemas de la PGN."/>

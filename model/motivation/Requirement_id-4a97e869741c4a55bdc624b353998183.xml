@@ -1,4 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="RQR. Negocio"
-    id="id-4a97e869741c4a55bdc624b353998183"/>
+    id="id-4a97e869741c4a55bdc624b353998183"
+    documentation="Requermiento funcional/sistémico del módulo SUI de PGN."/>
